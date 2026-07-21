@@ -1,106 +1,53 @@
-# 06 — Físico: ruta a 100kg en banca y 10% de grasa
+# 06 — Físico (v2): conjugado + pliometría + anaeróbico + nucleus overload
 
-**Meta declarada:** fuerza tipo powerlifter (referencia: Anatoly) manteniendo explosividad y agilidad felina, 10% de grasa corporal, 100kg en press banca — para diciembre 2026.
+**Meta:** 100kg en banca + 10% de grasa para diciembre 2026, con la explosividad y agilidad de un felino. **Seguimiento y nutrición delegados a Gemini** (multimodal: le mandas fotos y ajusta).
 
-## Semana 1 — Protocolo de línea base (obligatorio antes de programar)
+## Semana 1 — Línea base (sigue siendo obligatoria)
 
-| Medición | Cómo | Resultado |
+Igual que v1: peso (3 días en ayunas), % grasa estimado (fotos frontal/lateral/espalda con buena luz — estas mismas fotos arrancan el seguimiento con Gemini), 3-5RM de banca/sentadilla/peso muerto, medidas. **Compárteme los números para calibrar cargas.**
+
+## Estructura semanal: método conjugado adaptado (4 días gym + 1-2 fútbol)
+
+El conjugado (Westside) rota esfuerzos: días de **esfuerzo máximo (ME)** para fuerza absoluta y días de **esfuerzo dinámico (DE)** para velocidad/explosividad — exactamente tu combinación de powerlifter felino. La pliometría abre los días DE; el anaeróbico cierra los días de pierna; el fútbol es tu anaeróbico + liberación mental.
+
+| Día | Sesión | Contenido |
 |---|---|---|
-| Peso corporal | En ayunas, 3 días seguidos, promedio | ___ kg |
-| % grasa estimado | Foto frontal/lateral con buena luz + comparación con tablas visuales (o báscula de bioimpedancia como tendencia) | ___ % |
-| Press banca 3-5RM | Calienta bien, sube hasta un peso que muevas 3-5 reps con técnica limpia. 1RM estimado = peso × (1 + reps/30) | ___ kg |
-| Sentadilla 3-5RM | Igual | ___ kg |
-| Peso muerto 3-5RM | Igual | ___ kg |
-| Medidas | Cintura, pecho, brazo | ___ |
+| 1 | **ME Torso** (esfuerzo máximo) | Variante de banca pesada rotando cada 1-2 semanas: banca con pausa → banca agarre cerrado → pin press → banca normal. Trabaja hasta 1-3RM del día. Luego: press militar 3×8, remo pesado 4×8, dominadas lastradas 3×máx, tríceps/bíceps 3×12 |
+| 2 | **DE Pierna** (dinámico) + anaeróbico | Pliometría: saltos al cajón 4×5 + saltos laterales. Sentadilla velocidad 8×2 @ 55-65% (máxima intención de velocidad). Peso muerto rumano 3×8, zancadas 3×10. Cierre anaeróbico: sprints 6×30m o HIIT 8×20seg |
+| 3 | **DE Torso** (dinámico) | Flexiones pliométricas 4×5. **Banca velocidad 8×3 @ 50-60%** (la barra VUELA — aquí se construye la velocidad que rompe el estancamiento en 100kg). Press inclinado mancuernas 3×10, remo polea 4×10, laterales + face pulls 3×15 |
+| 4 | **ME Pierna** | Sentadilla o peso muerto pesado (alternar semanas) hasta 1-3RM del día. Accesorios: hip thrust 3×10, sentadilla frontal 3×8, farmer's walk 3×30m, core lastrado |
+| 5-6 | ⚽ **Fútbol (1-2 días)** | Tu anaeróbico real + agilidad felina + liberación mental. Cuenta como entrenamiento en el scorecard. Días según tu brief (doc 00) |
+| 7 | Descanso total | La recuperación es donde se construye el músculo |
 
-> **Cuando tengas estos números, compártelos en el chat y calibro el programa exacto.** Mientras tanto, el programa por defecto:
+## Nucleus overload (bloque de especialización para la banca)
 
-## Estrategia según tu punto de partida
+Protocolo de saturación para el músculo rezagado (para ti: **pecho**, al servicio de los 100kg):
 
-- **Grasa >18%:** fase de definición primero (déficit ~400-500 kcal) hasta ~13-14%, luego volumen magro. La fuerza sube igual en gente nueva/intermedia aun en déficit ligero.
-- **Grasa 13-17%:** recomposición — mantenimiento calórico, proteína alta, progresión de fuerza agresiva.
-- **Llegar a 10%:** las últimas fases (12% → 10%) requieren déficit disciplinado de 6-10 semanas. Ideal: octubre-noviembre, para cerrar diciembre en 10%.
-- **Banca 100kg:** desde 60kg de 1RM es ~5-6 meses de progresión seria (alcanzable para diciembre). Desde 80kg, es alcanzable para octubre.
+- **Qué es:** 3-4 semanas de trabajo DIARIO ligero del músculo objetivo (100 flexiones diarias en casa, en 2-4 series, todos los días incluso los de descanso) mientras el programa sigue normal → luego 1 semana de descarga total del músculo → supercompensación.
+- **Cuándo usarlo:** cuando la banca se estanque 3+ semanas (no antes — primero deja que el conjugado corra). Máximo 2 bloques en los 5 meses.
+- **Honestidad técnica:** la evidencia es más anecdótica que científica, pero el riesgo es bajo y el volumen extra de pecho en rangos ligeros suele funcionar. Lo tratamos como experimento medido: si tras el bloque el 3RM no subió, no se repite.
 
-## Programa: 4 días — Upper/Lower con banca 2× por semana
+## Progresión hacia los 100kg dentro del conjugado
 
-La frecuencia es el driver #1 de la banca. Explosividad se entrena al inicio de cada sesión (potencia antes que fuerza, fuerza antes que accesorios).
+- Los días ME suben el techo (fuerza absoluta); los días DE suben la velocidad de la barra (lo que te estanca en el punto medio del press).
+- Registro clave: el mejor single/triple de cada variante ME. Meta de tendencia: +2.5kg por variante cada 2-3 semanas.
+- Test de 1RM real de banca competición: cada 6-8 semanas, programado, con descanso previo.
+- Cuando compartas tu 1RM actual, fijo los porcentajes exactos y la fecha realista del 100kg.
 
-**Día 1 — Torso (énfasis banca pesada)**
+## Delegación a Gemini: tu coach de seguimiento y nutrición 📸
 
-| Ejercicio | Series × Reps |
-|---|---|
-| Lanzamiento balón medicinal al pecho (explosivo) | 3×5 |
-| **Press banca** | 4×5 (progresión abajo) |
-| Remo con barra | 4×8 |
-| Press militar | 3×8 |
-| Dominadas (lastradas si haces +10) | 3×máx |
-| Extensión tríceps + curl | 3×12 c/u |
+Gemini Pro es multimodal — le mandas fotos y analiza. Protocolo:
 
-**Día 2 — Pierna (énfasis sentadilla)**
+**Chat fijo en Gemini: "Coach Físico"** (un solo hilo para que tenga historial). Prompt inicial:
 
-| Ejercicio | Series × Reps |
-|---|---|
-| Saltos al cajón (explosivo) | 3×5 |
-| Sentadilla | 4×5 |
-| Peso muerto rumano | 3×8 |
-| Zancadas | 3×10 por pierna |
-| Core: rueda o plancha lastrada | 3×
-| Sprints 4×30m (agilidad felina) | al final |
+> "Eres mi coach de nutrición y seguimiento físico. Mis metas: 100kg banca y 10% grasa para diciembre 2026. Entreno método conjugado 4 días + fútbol 1-2. Peso actual: X, grasa estimada: Y%, banca 1RM: Z. Presupuesto de comida: 1M COP/mes en Colombia. Proteína objetivo: 2g/kg/día. Cada semana te mandaré: fotos de físico (mismas poses/luz), peso promedio, y fotos de mis comidas cuando dude. Tu trabajo: ajustar calorías/macros según progreso visual y de báscula, decirme si la fase es déficit/mantenimiento/superávit, y avisarme si pierdo músculo o me estanco."
 
-**Día 3 — Torso (banca volumen/velocidad)**
+**Rutina con Gemini:** domingo → fotos + peso promedio semanal → Gemini ajusta la semana. Diario (opcional) → foto del plato dudoso → veredicto en segundos. Los datos de entreno (cargas ME/DE) también se los pegas semanalmente para que vigile tendencia.
 
-| Ejercicio | Series × Reps |
-|---|---|
-| Flexiones pliométricas (con aplauso) | 3×5 |
-| **Press banca con pausa** | 5×3 al 80% (velocidad máxima en subida) |
-| Press inclinado con mancuernas | 3×10 |
-| Remo en polea o mancuerna | 4×10 |
-| Elevaciones laterales + face pulls | 3×15 c/u |
-| Tríceps en polea | 3×12 |
+**Reparto claro:** Gemini lleva TU físico día a día; yo (Claude) superviso la tendencia mensual en el scorecard (¿el peso y la banca se mueven hacia la meta?) como parte del control general (doc 09). Si Gemini y el scorecard se contradicen, mando yo. 😄
 
-**Día 4 — Pierna + atletismo**
+## Nutrición (sin cambios de fondo)
 
-| Ejercicio | Series × Reps |
-|---|---|
-| **Peso muerto** | 4×5 |
-| Sentadilla frontal o búlgara | 3×8 |
-| Hip thrust | 3×10 |
-| Saltos laterales + escalera de agilidad | 10 min |
-| Farmer's walk | 3×30m |
+Proteína 2g/kg innegociable · comida real >90% · canasta colombiana de v1 (huevos, pollo, res, arroz, fríjol, avena…) dentro de 1M COP/mes · creatina 5g/día · agua 3L+ · 7-8h de sueño (sin esto ni el conjugado ni el negocio funcionan).
 
-**Días 5-6:** el sábado puede ser sesión corta de accesorios/débilidades + cardio; domingo descanso total.
-
-## Progresión de banca
-
-- **1RM < 80kg — progresión lineal:** empieza el 4×5 con ~75% de tu 1RM. Cada semana +2.5kg. Cuando falles 2 semanas seguidas, baja 10% y vuelve a subir (las series de pausa del día 3 siguen al 80% del 1RM actualizado).
-- **1RM 80-95kg — ondulación (531 simplificado):** ciclos de 3 semanas (5s al 75-85%, 3s al 80-90%, 5/3/1 al 85-95% del 90% de tu 1RM), +2.5kg al ciclo.
-- **Prueba de 1RM:** solo cada 6-8 semanas. El ego levanta singles; los músculos crecen con las series de trabajo.
-
-## Nutrición (presupuesto: hasta 1M COP/mes — alcanza de sobra en Colombia)
-
-**Reglas:** proteína **2g por kg de peso corporal al día** (innegociable), comida real >90%, agua 3L+.
-
-**Canasta base mensual (~700-900K COP para una persona):**
-
-| Alimento | Rol |
-|---|---|
-| Huevos (60-90/semana) | Proteína más barata del mercado |
-| Pechuga de pollo / muslos | Proteína principal |
-| Carne de res molida magra + hígado 1×/semana | Proteína + micronutrientes |
-| Arroz, papa, plátano, yuca, avena | Carbohidratos de entrenamiento |
-| Fríjol, lenteja, garbanzo | Fibra + proteína secundaria |
-| Frutas (banano, papaya, mango) y verduras | Micronutrientes |
-| Aguacate, aceite de oliva, maní | Grasas |
-| Café | El presupuesto extra cubre las comidas con tu novia 😉 |
-
-**Suplementos que valen la pena (todo lo demás es marketing):** creatina monohidrato 5g/día (~40-60K/mes), proteína en polvo SOLO si no llegas a la meta con comida.
-
-## Tracking semanal (va en el scorecard, doc 09)
-
-- Entrenos cumplidos: __/4 (mínimo) o __/5.
-- Peso corporal (promedio semanal, misma hora).
-- Series de banca completadas al peso planeado: sí/no.
-- Foto de progreso: 1 vez al mes, misma luz y pose.
-
-**Regla de realidad:** el negocio y el físico compiten por la misma energía. El gym a las 6am protege ambos: te da la identidad de tipo disciplinado ANTES de abrir el LinkedIn. Si una semana la operación aprieta, el mínimo son 3 sesiones — nunca cero.
+**Fases hacia el 10%:** las define Gemini con tus fotos, con esta guía: >15% → déficit moderado ya · 12-14% → recomposición o mini-cuts · último tramo 12→10% → déficit disciplinado de 6-10 semanas, planeado para oct-nov y cerrar diciembre en 10%.

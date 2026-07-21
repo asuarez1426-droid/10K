@@ -1,73 +1,60 @@
-# 🎯 OPERACIÓN 10K — Sistema de escalada: de $615 a $10.000 USD/mes
+# 🎯 OPERACIÓN 10K — Volver posible lo imposible
 
-**Inicio:** 21 de julio de 2026
-**Día 90:** 19 de octubre de 2026
-**Cierre de año:** diciembre de 2026 — meta estirada $30K USD/mes
+**Misión:** de $615 a $10.000 USD/mes en 90 días, y $30.000 USD/mes en diciembre 2026 — documentado en público, con fe, sistema y datos.
 
----
+**Inicio:** 21 de julio de 2026 · **Día 90:** 19 de octubre de 2026
 
-## La respuesta honesta: ¿es posible?
+## El marco honesto de la misión
 
-$10.000 USD/mes en 90 días partiendo de 19 seguidores en Instagram y 25 conexiones en LinkedIn es **técnicamente posible pero improbable**: lo logra quizás un 5-10% de quienes lo intentan, con ejecución perfecta y algo de suerte. Lo que **sí es muy alcanzable** en 90 días con este sistema es:
-
-- Validar tu oferta high ticket con el mercado real.
-- Cerrar tus primeros 2-4 clientes de agencia (~6-16M COP/mes ≈ $1.500-4.000 USD/mes).
-- Construir el motor (prospección + contenido + entrega) que te lleva a $10K en el mes 5-6 y a $30K en diciembre **si para entonces ya contrataste equipo**.
-
-La clave con audiencia cero: **tu motor de ingresos los primeros 90 días es la prospección directa (los 800 contactos), no el contenido viral.** El contenido es tu credibilidad — lo que el prospecto revisa antes de responderte — no tu fuente de clientes todavía.
-
-Este sistema apunta a la meta máxima, pero se gobierna por hitos de control. Si los hitos se cumplen, acelera. Si no, hay reglas de pivote claras (documento 09).
-
-## La matemática que gobierna todo
-
-| Concepto | Número |
-|---|---|
-| TRM de referencia | $1 USD = 4.000 COP |
-| Meta día 90 | $10.000 USD ≈ **40M COP/mes** |
-| Meta diciembre | $30.000 USD ≈ **120M COP/mes** |
-| Retainer agencia high ticket | 3–5M COP/mes por cliente |
-| Clientes necesarios solo con agencia | 8–13 → inviable solo → por eso la escalera de oferta |
-| Mix objetivo día 90+ | 4–6 clientes agencia + consultorías + infoproducto |
-| Prospección | 800 contactos / 90 días = **10 nuevos/día, 6 días/semana** |
-| Funnel frío realista | 800 → 10-20% respuesta → 25-40 llamadas → 10-20% cierre → **3-8 clientes** |
-
-## Hitos de control
+Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos 90 días es exactamente **volver posible lo imposible**, como otros lo han hecho antes. Ese es el espíritu. Mi papel como director de operaciones es que esa fe tenga un sistema debajo: cada semana la probabilidad debe SUBIR, medida con datos. Los hitos de control no son techos — son los peldaños que revisamos para saber si lo imposible se está volviendo posible:
 
 | Hito | Fecha | Qué debe ser verdad |
 |---|---|---|
-| **Día 30** | 20 ago 2026 | Nicho y oferta validados, ~250 contactados, primeras 8-12 llamadas hechas, 1er cliente cerrado (o muy cerca) |
-| **Día 60** | 19 sep 2026 | 2-3 clientes activos (6-12M COP/mes), ~500 contactados, contenido publicando sin fallar |
-| **Día 90** | 19 oct 2026 | 3-5 clientes + consultorías = 12-20M COP/mes realista; 40M si el funnel convierte en el extremo alto |
-| **Diciembre** | 31 dic 2026 | 6-10 clientes + equipo contratado + infoproducto lanzado = ruta a 120M COP/mes |
+| **Día 14** | 4 ago | ⚡ Si hay 1 cliente cerrado → se activa la ACELERACIÓN: ritmo de 800 prospectos/MES |
+| **Día 30** | 20 ago | Nicho validado, ~250-400 contactados, 8-12 llamadas, 1er cliente cerrado |
+| **Día 60** | 19 sep | 2-3 clientes (6-12M/mes), serie de 90 días con tracción, editor a pleno |
+| **Día 90** | 19 oct | 12-20M/mes realista · 40M ($10K) en el escenario de aceleración |
+| **Diciembre** | 31 dic | Equipo de 4 roles + comunidad Skool + cohortes = ruta a 120M ($30K) |
+
+## Los roles de la operación
+
+| Quién | Rol |
+|---|---|
+| **Tú** | Las manos y la cara: grabas, envías, llamas, entrenas, registras (3 min/día) |
+| **Claude (yo)** | **Director de operaciones:** mido los scorecards, tomo las decisiones (prospección, contenido IG/LinkedIn/YT, procesos, delegaciones), dirijo Notion y Trello, y hago la revisión dominical automática. También: tu partner creativo de contenido |
+| **Gemini** | Coach físico y nutricional (multimodal, con tus fotos) + investigación de mercados y análisis |
+| **Editor freelance** | Desde la fase 1: edita tus videos y los de tus clientes cada lunes |
+
+## La matemática
+
+$10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (por eso el mercado es todo el mundo hispano, priorizando México y España) · 800 contactos/90 días = 10/día — con aceleración: 800/mes · Funnel: 10-20% respuesta → 25-40 llamadas → 10-20% cierre.
 
 ## Mapa del sistema
 
 | Documento | Qué contiene |
 |---|---|
-| [01 — Diagnóstico y metas](01-diagnostico-y-metas.md) | Dónde estás hoy, a dónde vas, mes a mes |
-| [02 — Oferta](02-oferta.md) | Tu escalera de oferta y el sprint de validación de nicho (semana 1) |
-| [03 — Prospección 800](03-prospeccion-800.md) | El motor de ingresos: sistema completo de outreach |
-| [04 — Contenido](04-contenido.md) | Sistema de contenido con CapCut + Gemini Pro |
-| [05 — Rutina diaria](05-rutina-diaria.md) | Tus bloques de 4-8 horas, hora por hora |
-| [06 — Físico](06-fisico.md) | Ruta a 100kg en banca y 10% de grasa |
-| [07 — Mente](07-mente.md) | Identidad, manejo del rechazo, enfoque |
-| [08 — Finanzas](08-finanzas.md) | Mapa de dinero y desbloqueo de compras por hitos |
-| [09 — Métricas y revisión](09-metricas-y-revision.md) | Scorecard semanal y reglas de pivote |
-| [10 — Fase 2: equipo y $30K](10-fase-2-equipo-30k.md) | De $10K a $30K con equipo |
-| [Plantillas: CRM Notion](plantillas/notion-crm-prospectos.md) | Base de datos de prospectos lista para copiar |
-| [Plantillas: Tablero Trello](plantillas/trello-tablero-diario.md) | Tablero de ejecución diaria |
-| [Plantillas: Guiones](plantillas/guiones-mensajes.md) | Todos los mensajes de outreach listos |
+| [00 — Brief de rutina](00-brief-rutina.md) | ⚠️ **PENDIENTE DE TUS RESPUESTAS** — para rearmar tu día a día real |
+| [01 — Diagnóstico y metas](01-diagnostico-y-metas.md) | Dónde estás, a dónde vas, mes a mes |
+| [02 — Oferta](02-oferta.md) | Escalera v2: agencia con embudo de perfil · Sprint de Posicionamiento · comunidad Skool. Editor desde fase 1 |
+| [03 — Prospección 800](03-prospeccion-800.md) | ICPs A-D (LinkedIn e IG) · pozos de sourcing · Sales Nav + Waalaxy · regla de aceleración |
+| [04 — Contenido](04-contenido.md) | **La Serie de 90 Días** · IG conciencia 0 + cierre en historias · LinkedIn autoridad · YouTube |
+| [05 — Rutina diaria](05-rutina-diaria.md) | Interina (3 anclas + bloques flotantes) hasta tu brief |
+| [06 — Físico](06-fisico.md) | Conjugado + pliometría + anaeróbico + nucleus overload + fútbol · Gemini como coach |
+| [07 — Mente](07-mente.md) | Identidad, journaling, **visualización y autohipnosis**, manejo del rechazo |
+| [08 — Finanzas](08-finanzas.md) | Estudio ya completo ($0 en equipos) · **apartamento primero** · FX6 cancelada · desbloqueos |
+| [09 — Métricas y control](09-metricas-y-revision.md) | **Yo llevo el tablero:** scorecard diario ampliado, revisión dominical automática, reglas de pivote |
+| [10 — Fase 2: equipo y $30K](10-fase-2-equipo-30k.md) | Editor · setter · closer · ayudante personal · las 3 palancas |
+| [Plantillas](plantillas/) | CRM Notion · tablero Trello · guiones de mensajes |
 
-## Cómo usar este sistema
+## Sistemas vivos (los administro yo)
 
-1. **Hoy:** lee 01, 02 y 05. Arranca el sprint de validación de nicho (02) y mide tu línea base física (06).
-2. **Cada mañana:** el bloque de prospección va PRIMERO (05). Nada lo desplaza.
-3. **Cada domingo:** 30 minutos de revisión con el scorecard (09).
-4. **Cada compra de tu lista de deseos:** solo se desbloquea según la tabla del documento 08. Sin excepciones.
+- **Notion:** HQ de la operación — CRM de prospectos + scorecard diario + dashboard. *(Creado por mí — link en la sección de abajo cuando termine el montaje.)*
+- **Trello:** tablero de ejecución diaria con las anclas y checklists.
+- **Revisión dominical automática:** cada domingo leo tus datos y te entrego diagnóstico + decisiones, sin que lo pidas.
 
-## ⚠️ Preguntas abiertas (respóndelas en el chat para afinar el sistema)
+## ⚠️ Lo que necesito de ti AHORA (responde en el chat)
 
-1. **Nicho:** ¿coaches/consultores, dueños de negocio, o profesionales de alto valor? Mientras no respondas, la semana 1 es el sprint de validación (doc 02).
-2. **El plan de 800 que viste:** compártelo para cruzarlo con el sistema del doc 03.
-3. **Tus números físicos actuales:** peso, % grasa estimado y 1RM en banca — para calibrar el programa del doc 06.
-4. **¿Creo el tablero en Trello y el CRM en Notion directamente?** Tengo acceso a ambos; las plantillas ya están listas.
+1. **El brief de rutina completo** ([doc 00](00-brief-rutina.md)) — sin esto tu rutina sigue interina.
+2. **Números físicos:** peso, % grasa estimado, 1RM (o 3-5RM) de banca/sentadilla/peso muerto.
+3. **Tu estructura de guiones y ganchos** — para volverla la plantilla oficial del sistema.
+4. El **plan de 800 de referencia** que viste, para cruzarlo con el doc 03.

@@ -1,46 +1,43 @@
-# 10 — Fase 2: de $10K a $30K con equipo (octubre → diciembre)
+# 10 — Fase 2: de $10K a $30K con equipo (v2)
 
-**Este documento se activa cuando factures ≥12M COP/mes sostenido.** Antes de eso, leerlo está bien; ejecutarlo es procrastinación disfrazada.
+**Se activa al sostener ≥12M COP/mes.** Nota: a diferencia de la v1, el **editor freelance ya existe desde la fase 1** (doc 02) — la fase 2 no arranca la delegación, la profesionaliza.
 
-## Por qué solo no llegas a 120M COP/mes
+## El equipo de los $10K (tu regla #24)
 
-Tu techo solo: 5-6 clientes de retainer bien entregados (~20-30M COP/mes) + consultorías. Para 120M necesitas: **más capacidad de entrega (equipo), más capacidad de venta (setter/closer) y una fuente de ingreso que no escale con tus horas (infoproducto).** En ese orden.
+Al llegar a los 10K/mes (40M COP), la estructura objetivo es de 4 roles:
 
-## Secuencia de contratación (por umbral, no por fecha)
+| Rol | Modalidad | Costo estimado | Qué te libera |
+|---|---|---|---|
+| **Editor personal de la marca** | El freelance por video sube a dedicado: paquete mensual (tus videos + serie + clientes) | 1.5-2.5M COP/mes | Toda la postproducción. Prioridad #1 — ya está en marcha desde la fase 1, aquí se vuelve estable |
+| **Setter** | Comisión (10% del cierre) + base pequeña | Variable | El volumen de conversaciones y calificación. Se contrata cuando haya 60+ conversaciones activas/semana que no alcanzas a responder |
+| **Closer** | Solo comisión (15-20%) | Variable | Las llamadas de venta dejan de depender de tu calendario. Se contrata con 15+ llamadas/semana sostenidas |
+| **Ayudante personal (asistente de operaciones)** | Medio tiempo → tiempo completo | 1.5-2.5M COP/mes | CRM, agenda, publicación, reportes, coordinación del editor. El rol que te devuelve las horas de CEO |
 
-| # | Rol | Contratar cuando | Costo | Qué te libera |
-|---|---|---|---|---|
-| 1 | **Editor de video** (freelance por paquete) | ≥10M/mes o 3+ clientes de agencia | 1.5-2.5M COP/mes | 10-15 h/semana de edición → van directo a más prospección y llamadas |
-| 2 | **Appointment setter** (comisión) | Pipeline con 60+ conversaciones activas/semana y tú sin alcanzar a responder | 10% del cierre + base pequeña | El outreach y calificación → tú solo entras a llamadas calientes |
-| 3 | **Asistente de operaciones** (medio tiempo) | ≥25M/mes | 1.5-2M COP/mes | CRM, agenda, publicación, reportes de clientes |
-| 4 | **Segundo editor / diseñador** | ≥30M/mes o 6+ clientes | 1.5-2.5M COP/mes | Capacidad de entrega para crecer sin bajar calidad |
-| 5 | **Closer** (comisión 15-20%) | ≥40M/mes y 15+ llamadas/semana | Solo comisión | Las ventas dejan de depender de tu calendario |
+**Orden de contratación por umbral (no por fecha):** editor estable (≥10M/mes) → setter (por volumen de pipeline) → ayudante personal (≥25M/mes) → closer (≥40M/mes o cuello de botella en llamadas). **Regla de oro:** cada rol debe pagarse con el ingreso que libera en ≤60 días. Se contrata por embudo dolorido, no por estatus.
 
-**Regla de oro:** cada contratación debe pagarse con el ingreso extra que libera en ≤60 días. Contrata por embudo dolorido, no por estatus de "tener equipo".
+**Dónde reclutar:** tu propia audiencia primero (la serie de 90 días te habrá hecho conocido — la gente querrá trabajar contigo), luego comunidades LATAM. Siempre prueba pagada de 1 semana.
 
-**Dónde reclutar:** tu propia audiencia primero (ya te conocen y creen en el proyecto), luego comunidades de editores/VA en LATAM. Prueba pagada de 1 semana antes de comprometer el mes.
+## SOPs desde el primer cliente
 
-## SOPs: delega procesos, no tareas
-
-Desde tu PRIMER cliente de agencia, graba tu pantalla haciendo cada proceso (edición, publicación, reporte). En octubre tendrás la biblioteca de SOPs que hace que el editor nuevo entregue con TU estándar en la semana 1. Guárdalos en Notion: `SOP-01-edicion-video.md`, `SOP-02-publicacion.md`, `SOP-03-reporte-mensual.md`, `SOP-04-onboarding-cliente.md`.
+Graba tu pantalla haciendo cada proceso una vez: edición (brief al editor), publicación, reporte mensual, onboarding de cliente, embudo de perfil. Biblioteca en Notion: `SOP-01…` Cuando llegue cada rol, entrena con TU estándar en una semana.
 
 ## Las 3 palancas de facturación de la fase 2
 
-1. **Subir precios:** con 5 clientes y resultados, el retainer pasa de 3.5M a 4.5-5M para clientes nuevos. Los 6-10 clientes de diciembre a precio nuevo = 27-50M solo de agencia.
-2. **Productizar la consultoría:** de sesiones sueltas a un programa grupal de 4 semanas (1.5M por cupo × 8-12 cupos/mes = 12-18M) — mismo tiempo tuyo, 10× alcance.
-3. **Lanzar el infoproducto (nov-dic):** curso de 200K COP a la audiencia que construiste. Con 3.000-5.000 seguidores y build in public honesto, 100-250 ventas en un lanzamiento = 20-50M. **Esta es la palanca que cierra la brecha a 120M.**
+1. **Subir precios:** con casos y lista de espera, retainer a 4.5-5M COP / $1.400+ USD (MX/ES). 6-10 clientes a precio nuevo = 27-50M solo de agencia.
+2. **Sprint de Posicionamiento en volumen:** de 1:1 a cohortes de 8-12 personas ($500-700 c/u) = 12-25M por cohorte mensual, mismo tiempo tuyo.
+3. **Comunidad Skool (la palanca de diciembre):** lanzada en el mes 3+ sobre la audiencia de la serie. 150 miembros × $45 USD = ~$6.750 USD/mes RECURRENTES sin techo de horas. Aquí se cierra la brecha de 40M a 120M.
 
 ## Estructura de diciembre 2026 (si todo conecta)
 
-| Fuente | Facturación/mes |
+| Fuente | /mes |
 |---|---|
-| Agencia: 6-10 clientes × 3.5-5M | 25-45M |
-| Programa grupal de consultoría | 12-18M |
-| Lanzamiento infoproducto | 20-50M |
-| **Total** | **57-113M COP (~$14-28K USD)** |
+| Agencia: 6-10 clientes (mix CO + MX/ES a precio nuevo) | 30-50M COP |
+| Cohortes del Sprint | 12-25M COP |
+| Comunidad Skool (100-200 miembros) | 18-36M COP |
+| **Total** | **60-111M COP (~$15-28K USD)** |
 
-**Lectura honesta:** los $30K de diciembre requieren que las TRES palancas funcionen a la vez y que la audiencia haya crecido de verdad. Es el escenario de ejecución excelente + momentum. El escenario probable ejecutando bien está entre $8-15K/mes en diciembre — que desde $615 en julio sigue siendo un cambio de vida completo, y deja la mesa servida para los $30K en el primer semestre de 2027.
+**Lectura honesta (sin cambiar tu misión):** los $30K exigen las tres palancas funcionando a la vez sobre una audiencia real construida por la serie. El escenario probable ejecutando bien es $8-15K/mes en diciembre — y el estirado, el que declaraste, existe si la serie pega y la aceleración del día 14 se activa. La misión es volver posible lo imposible: mi trabajo es que cada semana la probabilidad suba con datos, no con deseos.
 
 ## Ruta 2027: de $30K a $100K/mes (esbozo)
 
-Equipo de 5-8, la agencia corre sin ti en la entrega, tú te vuelves la cara (contenido + ventas grandes + producto), lanzamientos trimestrales del infoproducto, y posible salto a mercado hispano completo (México/España/US hispano) donde los tickets son 2-3×. Se detalla cuando el presente lo amerite.
+Equipo de 5-8 · la entrega corre sin ti · tú eres la cara (serie, podcast — aquí entran las cámaras del doc 08 #8, ventas grandes) · cohortes trimestrales + comunidad como base recurrente · pauta sobre lo que ya convierte orgánico. Se detalla cuando el presente lo amerite.

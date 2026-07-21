@@ -1,101 +1,93 @@
-# 03 — Prospección: el sistema de los 800
+# 03 — Prospección: el sistema de los 800 (v2)
 
-**Este es el motor de ingresos de los primeros 90 días.** Todo lo demás (contenido, perfil, oferta) existe para que cuando un prospecto reciba tu mensaje y revise quién eres, diga "este tipo sabe lo que hace".
+Motor de ingresos de los 90 días. Mercado: **todo el mundo hispano, priorizando México y España** por capacidad adquisitiva, sin descartar Colombia/LATAM.
 
-## La matemática del sistema
+## La matemática
 
 | Variable | Número |
 |---|---|
-| Meta total | 800 contactos nuevos en 90 días |
-| Ritmo | **10 contactos nuevos/día × 6 días/semana** (~780 en 13 semanas) |
-| Tasa de respuesta objetivo | 10-20% → 80-160 conversaciones |
-| Llamadas agendadas | 25-40 |
-| Tasa de cierre objetivo | 10-20% de llamadas → **3-8 clientes** |
-| Valor por cliente | 2.5-3.5M COP/mes × 3 meses mínimo |
+| Meta base | 800 contactos nuevos en 90 días = 10/día × 6 días/semana |
+| **Regla de aceleración (nueva):** | **Si cierras 1 cliente en los primeros 14 días → el ritmo sube a 800/MES (~27-30/día), apoyado en Sales Navigator + Waalaxy** |
+| Funnel objetivo | 10-20% respuesta → 25-40 llamadas → 10-20% cierre → 3-8 clientes (a ritmo base) |
+| Valor esperado por mensaje | ~50.000 COP al nivel de la meta. Cada ignorado es inventario comprado |
 
-**Traducción mental:** al nivel de la meta, cada mensaje enviado vale ~50.000 COP de facturación esperada (40M ÷ 800). Cada "no" y cada ignorado te acercan al que sí. Esto es un juego de volumen con calidad — no de suerte.
+## ICPs validados (elige 2 para el sprint; puedes trabajar varios en paralelo tras validar)
 
-## Paso 1 — Define tu ICP (perfil de cliente ideal)
+### ICP-A · LinkedIn — Consultor/coach B2B hispano ⭐ (prioridad 1)
 
-Llena esto el día que cierres el sprint de nicho (doc 02):
+| Criterio | Definición |
+|---|---|
+| Quién | Consultores, coaches ejecutivos, mentores B2B y fraccionales (CMO/CFO fractional) |
+| Mercado | México, España, y CO/LATAM |
+| Tamaño | Negocio facturando $5-30K USD/mes (señal: oferta clara, web, testimonios) |
+| Edad típica | 32-55 |
+| Señales de validación ✅ | Publica esporádicamente (quiere pero no sostiene) · vende ticket alto propio · activo últimos 30 días · +1.000 seguidores con engagement pobre (autoridad sin sistema) · invierte en su negocio (cursos, equipo) |
+| Descarte ❌ | Sin oferta propia, buscando empleo, MLM, inactivo 6+ meses, humo sin caso real |
+| Dolor | "Sé que LinkedIn me traería clientes pero no tengo tiempo/sistema/constancia" |
 
-```
-NICHO: ______________________
-CARGO/ROL: ______________________ (ej: "fundador de firma de asesoría financiera")
-FACTURACIÓN MÍNIMA DEL PROSPECTO: ______ (debe poder pagar 3-5M/mes sin dolor)
-SEÑALES DE QUE INVIERTE EN SU MARCA: publica a veces / tiene web / paga pauta
-SEÑALES DE DESCARTE: sin actividad hace 6+ meses, sin negocio real, MLM
-DOLOR PRINCIPAL: ______________________ (lo que descubriste en el sprint)
-DÓNDE ESTÁ: LinkedIn / Instagram / ambos
-```
+### ICP-B · LinkedIn — Fundador de agencia o servicio B2B
 
-## Paso 2 — Construye las listas (batch semanal: 60-70 prospectos cada domingo)
+Fundadores/CEOs de agencias (marketing, software, RRHH, finanzas) de 2-20 personas que venden por referidos y saben que la marca personal del fundador es su canal desaprovechado. Mismas señales de validación que ICP-A + empresa real verificable. Dolor: "dependemos de referidos, yo debería ser la cara pero no publico".
 
-**LinkedIn (fuente principal para B2B):**
+### ICP-C · Instagram — Coach/infoproductor con audiencia que no convierte
 
-- Búsqueda de personas con filtros: cargo + ubicación (Colombia/LATAM) + industria.
-- Comentaristas y reactores de publicaciones de referentes de tu nicho → gente ya activa e interesada en visibilidad.
-- Asistentes/ponentes de eventos del nicho.
-- "Personas también vieron" en perfiles de buenos prospectos.
+| Criterio | Definición |
+|---|---|
+| Quién | Coaches (fitness, negocios, mindset), infoproductores, creadores con oferta |
+| Señales ✅ | 3.000-50.000 seguidores · vende algo high/mid ticket (link en bio, lanzamientos) · publica reels pero con views inestables · historias activas (le importa) · engagement real en comentarios |
+| Descarte ❌ | Sin oferta (solo audiencia), cuentas de memes/reposts, engagement comprado (100K seguidores, 30 likes) |
+| Dolor | "Tengo audiencia pero no se traduce en ventas" → tu embudo de perfil es exactamente esto |
 
-**Instagram (fuente principal para coaches y médicos/estética):**
+### ICP-D · Instagram — Profesional de alto valor con presencia pobre
 
-- Seguidores activos de cuentas referentes del nicho (los que comentan, no los que solo siguen).
-- Hashtags del nicho + ubicación.
-- Sugerencias de cuentas similares a buenos prospectos.
+Médicos estéticos, odontólogos, abogados, financieros, inmobiliarios premium (MX/ES/CO) con negocio próspero offline y cuenta muerta o institucional. Ticket de sus servicios altísimo → el retainer les es barato. Ciclo de venta más largo: segunda ola, tras validar A/C.
 
-**Google Maps (para profesionales locales de alto valor):** clínicas, firmas, inmobiliarias en tu ciudad → busca al dueño en LinkedIn/IG.
+**Definición operativa de "prospecto validado" (checklist antes de entrar al CRM):** cumple el perfil de su ICP + activo últimos 30 días + puede pagar (negocio real a la vista) + tiene algo que ganar visible con marca personal + tienes UNA observación personal escrita. Sin las 5, no entra.
 
-**Regla de calidad:** cada prospecto entra al CRM con nombre, link de perfil y UNA observación personal (algo que publicó, un logro, su especialidad). Sin observación no hay mensaje — la personalización es lo que separa 15% de respuesta de 2%.
+## Solución al problema real: "hay días que solo encuentro 5"
 
-## Paso 3 — El CRM
+**El error es buscar prospectos uno a uno todos los días.** El sourcing (encontrar) y el outreach (contactar) son procesos separados: **encuentras en batch semanal, contactas a diario.** Una sesión de 90 min el fin de semana llena la nevera de 70-100 prospectos; entre semana solo ejecutas.
 
-Estructura completa lista para montar en Notion: `plantillas/notion-crm-prospectos.md`. Estados del pipeline:
+### Los pozos de agua (dónde están por decenas, no de a uno)
 
-`Nuevo → Contactado → Respondió → Llamada agendada → Llamada hecha → Propuesta enviada → CLIENTE / Perdido / No calificado`
+1. **Comentaristas de referentes (el mejor pozo):** identifica 10-15 cuentas grandes de tu nicho (ES/MX/CO). Cada post con tracción tiene 50-300 comentaristas — gente ACTIVA e interesada en el tema. Un solo post viral de un referente = tu semana entera de prospectos. Filtra con el checklist y a la lista.
+2. **Sales Navigator (prueba gratuita 30 días — mes 1):** búsqueda con filtros exactos (cargo: coach/consultor/founder · geografía: México, España · tamaño de empresa: 1-10) → guarda la búsqueda → te da CIENTOS de una vez. Extrae 25-30/día a tu CRM.
+3. **Invitados de podcasts del nicho:** cada podcast hispano de negocios/marketing lista decenas de invitados que YA invierten en visibilidad (por eso van a podcasts). Spotify/YouTube → lista de episodios = lista de prospectos precalificados.
+4. **Seguidores/comentaristas de tus competidores** (otras agencias de marca personal hispanas): su audiencia ya está educada en el problema que resuelves.
+5. **Speakers de eventos y comunidades:** ponentes de eventos de negocio hispanos, miembros activos de comunidades (Skool, Discord, grupos de FB de emprendedores MX/ES).
+6. **IG específico:** hashtags del nicho por país + "cuentas sugeridas" al visitar un buen prospecto (IG te regala 10 similares por cada uno) + tags en posts de referentes.
+7. **El efecto bola de nieve:** cada semana de outreach genera visitas a tu perfil → LinkedIn te muestra "personas también vieron" cada vez mejores. El pozo se llena solo con el uso.
 
-## Paso 4 — Cadencia diaria (bloque de 2h, primero en el día)
+**Regla:** sesión de sourcing = 90 min, una vez por semana (en el batch del fin de semana), meta 70-100 al CRM. Prohibido buscar prospectos durante el bloque diario de outreach.
 
-| Tarea | Tiempo | Detalle |
+## Herramientas: Sales Navigator + Waalaxy (pruebas gratuitas) + manual
+
+**Estrategia declarada: usar las 2 pruebas gratuitas para generar la facturación que luego las pague** (Sales Nav ~$99 USD/mes ≈ 400K COP; Waalaxy según plan). El primer cliente paga ambas por meses.
+
+| Herramienta | Uso | Regla de seguridad |
 |---|---|---|
-| 10 contactos nuevos | 45 min | Mensaje personalizado (plantillas en `plantillas/guiones-mensajes.md`) |
-| 10-15 seguimientos | 30 min | Los que tocan hoy según el CRM (día 3, 7, 14, 30) |
-| Responder conversaciones | 30 min | Objetivo de cada conversación: la llamada, no vender por chat |
-| Actualizar CRM | 15 min | Estados + próxima acción. Sin excepción. |
+| **Sales Navigator** (trial 30 días) | Sourcing masivo con filtros por país/cargo + listas guardadas | Actívala la semana 2 (cuando ya tengas nicho elegido) para no quemar el trial en la validación |
+| **Waalaxy** (trial) | Secuencias de invitación + mensaje en LinkedIn | ⚠️ Tu cuenta tiene 25 conexiones — es NUEVA para LinkedIn. Warm-up obligatorio: semana 1-2 solo manual (15-20 invitaciones/día), luego Waalaxy con máx 20-25 invitaciones/día subiendo gradual a 40-50. Variables de personalización SIEMPRE. Automatizar la invitación está bien; **las CONVERSACIONES son 100% manuales, siempre** — ahí se cierra o se pierde |
+| **Manual** | Instagram completo (no automatizar IG: baneo casi seguro) + todas las respuestas y llamadas | La personalización manual es tu ventaja sobre los que spamean |
 
-**Secuencia de toques por prospecto:**
+**Riesgo aceptado y mitigación:** LinkedIn restringe cuentas que automatizan agresivo. Con warm-up + límites conservadores + tasa de aceptación >25% (mensajes personalizados) el riesgo baja mucho. Si llega un aviso de restricción: Waalaxy OFF 2 semanas, se sigue manual. La operación nunca depende de una sola herramienta ni de una sola red.
 
-1. **Día 0:** interacción previa (comenta o reacciona a algo suyo) + solicitud de conexión con nota (LinkedIn) o DM directo (IG).
-2. **Día 0-1:** primer mensaje de valor (no pitch).
-3. **Día 3:** seguimiento 1 — ángulo distinto.
-4. **Día 7:** seguimiento 2 — aporta algo (idea, observación de su perfil).
-5. **Día 14:** seguimiento 3 — pregunta directa y corta.
-6. **Día 30:** reactivación final. Si no responde → `Perdido` y a otra cosa. Nunca ruegues.
+## Cadencia diaria (bloque de 2h) — ritmo base
 
-**Límites de seguridad de plataforma:** LinkedIn ~15-20 solicitudes de conexión/día con cuenta nueva (sube gradual), IG ~20-30 DMs/día. Los 10/día están muy por debajo — no uses automatización, te quemas la cuenta y el mensaje personalizado convierte más.
+| Tarea | Tiempo |
+|---|---|
+| 10 contactos nuevos (de la nevera del CRM, ya sourceados) — LinkedIn + IG | 40 min |
+| Seguimientos del día (vista "Toques de hoy" en Notion) | 30 min |
+| Conversaciones → objetivo: llamada agendada | 35 min |
+| CRM + scorecard diario | 15 min |
 
-## Paso 5 — La llamada de venta (30-45 min)
+**Con la regla de aceleración activa (cliente en ≤14 días):** Waalaxy toma el volumen de invitaciones LinkedIn (30-40/día) y tu bloque manual se reenfoca: 10 IG manuales + TODAS las conversaciones + llamadas. El bloque sigue siendo 2h; la máquina escala, tu tiempo no.
 
-Estructura SPIN simplificada — tu trabajo es diagnosticar, no recitar:
+## Secuencia de toques y llamada de venta
 
-1. **Apertura (2 min):** agradece, marca agenda: "te hago unas preguntas para entender tu situación y al final te digo si puedo ayudarte y cómo, ¿te parece?"
-2. **Situación (5-10 min):** su negocio, cómo consigue clientes hoy, qué ha intentado con contenido.
-3. **Problema (10 min):** qué le duele de su visibilidad. Cuánto le cuesta en clientes no conseguidos. Hazlo poner número: "¿cuánto vale para ti un cliente nuevo?"
-4. **Deseo (5 min):** cómo se vería su negocio con marca funcionando.
-5. **Oferta (5-10 min):** SOLO si califica. Presenta el sistema (doc 02), precio, garantía. Silencio después del precio.
-6. **Cierre:** "¿Qué te impediría empezar esta semana?" Maneja objeción, define siguiente paso CON fecha.
+Sin cambios de fondo respecto a v1: interacción previa → invitación con nota → mensaje de valor → seguimientos día 3/7/14 → reactivación día 30 → `Perdido`. Guiones en `plantillas/guiones-mensajes.md`. Llamada con estructura de diagnóstico (situación → problema → deseo → oferta → cierre) y manejo de objeciones. **Novedad para MX/ES:** agenda llamadas con España en tu mañana (su tarde); México comparte casi tu horario (CDMX = CO -1h en esta época).
 
-**Objeciones frecuentes:**
+## Reparto de trabajo con IA
 
-- *"Está caro"* → "¿Comparado con qué? Si el sistema te trae 1 cliente tuyo al mes, ¿cuánto vale eso?" (usa el número que él mismo dio).
-- *"Déjame pensarlo"* → "Claro. ¿Qué parte específica necesitas pensar? Normalmente es precio, confianza o momento — ¿cuál es?"
-- *"¿Y si no funciona?"* → garantía del doc 02.
-- *"No tengo tiempo para grabar"* → "El sistema está diseñado para 2 horas tuyas al mes. Yo hago el resto."
-
-**Después de cada llamada:** registra en CRM resultado + aprendizaje. Cada 10 llamadas, revisa qué objeción se repite y ajusta la oferta o el guion.
-
-## Uso de Gemini Pro en prospección
-
-- Pásale el perfil/publicaciones de un prospecto y pídele 3 ángulos de personalización → tú escribes el mensaje final (nunca envíes texto de IA sin editar: se nota y mata la conversión).
-- Pídele que critique tus mensajes con más respuesta vs. los ignorados cada semana.
-- Simula objeciones: "actúa como un [nicho] escéptico al que le ofrezco X" — entrena la llamada.
+- **Claude (yo):** ángulos creativos de mensajes, revisión semanal de qué mensajes convierten, decisiones de pivote (doc 09).
+- **Gemini:** investigación de nichos y mercados MX/ES, análisis de perfiles en volumen, simulación de objeciones para entrenar llamadas.

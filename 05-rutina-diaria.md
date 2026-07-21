@@ -1,48 +1,40 @@
-# 05 — Rutina diaria: tus bloques de ejecución
+# 05 — Rutina diaria (v2 — INTERINA, pendiente de tu brief)
 
-El sistema vive o muere en la rutina. Con 4-8 horas disponibles, esta es la distribución. El principio: **lo que genera ingresos va primero en el día, cuando la energía está intacta.**
+⚠️ **Esta rutina está en versión interina.** La v1 asumía un día ideal que no es el tuyo. Para rearmarla con tu realidad, responde el **[brief de rutina](00-brief-rutina.md)** en el chat: qué es fijo (transporte de tu novia, horarios, obligaciones), qué es flexible, y cuántas horas reales de trabajo profundo tienes en tu peor y mejor día. Con eso escribo la v3 definitiva, bloque a bloque.
 
-## Día tipo (lunes a viernes)
+## Mientras tanto: el sistema de 3 anclas + 2 bloques
 
-| Hora | Bloque | Detalle |
-|---|---|---|
-| 5:30-6:00 | Despertar + activación | Agua, luz de sol, 3 min de journaling AM (doc 07). Cero celular en la cama |
-| 6:00-7:30 | **Entrenamiento** | Programa del doc 06. Innegociable: el gym es el ancla de identidad del día |
-| 7:30-8:30 | Desayuno + preparación | Comida real (doc 06). Revisa el tablero Trello del día |
-| 8:30-10:30 | **BLOQUE 1: Prospección (2h)** 🔒 | El bloque sagrado: 10 nuevos + seguimientos + conversaciones + CRM (doc 03). Nada lo desplaza, nada lo interrumpe. Celular en modo avión excepto las apps de prospección |
-| 10:30-10:45 | Pausa real | Lejos de pantallas |
-| 10:45-12:30 | **BLOQUE 2: Entrega** | Cliente freelance actual y, a medida que cierres, clientes de agencia. Cuando la entrega crezca, este bloque se expande hacia la tarde |
-| 12:30-13:30 | Almuerzo | Sin pantallas si puedes |
-| 13:30-15:00 | **BLOQUE 3: Llamadas de venta / contenido** | Agenda las llamadas de cierre aquí (13:30-15:00 es buena franja para dueños de negocio). Sin llamadas → publicar + 20 min de interacción + preparar mensajes de mañana |
-| 15:00-16:30 | **BLOQUE 4 (si tienes las 8h):** entrega extra / estudio | Más entrega, o 45 min de estudio de ventas/copy (máx 45 min: estudiar no es ejecutar) |
-| 16:30-17:00 | Cierre del día | Actualizar Trello y CRM, dejar listo el día siguiente, journaling PM (doc 07) |
-| Noche | Vida | Novia, familia, descanso real. La recuperación es parte del sistema |
-| 22:00-22:30 | Dormir | 7-8h de sueño: sin esto ni el gym ni el cerebro de ventas funcionan |
+La rutina interina no fija horas — fija **anclas innegociables** que caben en cualquier configuración de día:
 
-## Sábado
+### Anclas diarias (pase lo que pase)
 
-- Entrenamiento.
-- **Bloque de contenido batch (4h):** ideación, guiones, grabación, edición (doc 04).
-- 30-45 min: construir la lista de prospectos de la semana siguiente (60-70 perfiles al CRM, doc 03).
+1. 🔒 **Bloque de prospección (2h)** — en tu franja de mayor energía mental. Si el día se rompe y solo hay 2 horas, son estas.
+2. 🏋️ **Entrenamiento** (según programación del doc 06; los días de fútbol cuentan).
+3. 📊 **Registro del scorecard diario en Notion** (3 min al cerrar el día) + journaling AM/PM (doc 07).
 
-## Domingo
+### Bloques flotantes (se acomodan a tu día real)
 
-- Descanso real (el sistema necesita que no te quemes).
-- **Revisión semanal (30 min):** scorecard del doc 09 + planear la semana en Trello.
+- **Bloque de entrega (1-2h):** cliente freelance + clientes de agencia cuando lleguen.
+- **Bloque de contenido (30-45 min L-V):** publicar, historias, 20 min de interacción. (La producción pesada vive en el batch del fin de semana + editor el lunes, doc 04.)
 
-## Reglas del sistema
+### Estructura semanal fija (esto sí quedó definido por ti)
 
-1. **La prospección va primero.** Si solo tienes 2 horas un día, son LAS DOS del Bloque 1.
-2. **Un solo negocio.** Nada de ideas nuevas, criptos, otro nicho ni "oportunidades" hasta el día 90. La dispersión es el asesino #1 de esta operación.
-3. **No consumas más de 45 min/día de contenido educativo.** Estás en fase de ejecución, no de preparación eterna.
-4. **El celular es herramienta de trabajo.** Redes solo en los bloques de interacción y prospección. Instagram personal scrolleando = fuga de la operación.
-5. **El transporte de tu novia (400K):** mantenlo por ahora si no rompe los bloques 1-2. Se elimina al superar 8M/mes — tu hora ya valdrá más.
-6. **Proteges el sueño como proteges la facturación.**
+| Día | Compromiso |
+|---|---|
+| Sábado tarde **o** domingo | Batch de grabación (3-4h) + sourcing de 70-100 prospectos (90 min) — elige cuál en el brief |
+| Domingo noche | Brutos al editor + planear semana en Trello |
+| Lunes | Día de edición del editor (tú solo QA, ~30 min) |
+| Domingo | Revisión semanal — la hago YO con tus datos de Notion/Trello (doc 09) |
+| 1-2 días/semana | ⚽ Fútbol (libera mente, cuenta como anaeróbico — doc 06). Días por definir en el brief |
 
-## Qué NO hacer (lista negra de los 90 días)
+## Reglas que sobreviven a cualquier rutina
 
-- ❌ Comprar cursos, mentorías o equipos "para estar listo" (doc 08: todo se desbloquea con facturación).
-- ❌ Rediseñar el logo/web/branding — tu perfil de LinkedIn optimizado ES tu web por ahora.
-- ❌ Cambiar de nicho antes del día 45 (regla de pivote, doc 09).
-- ❌ Automatizar el outreach con bots.
-- ❌ Aceptar clientes fuera del nicho "porque pagan" a menos que paguen precio completo sin descuento.
+1. La prospección va antes que el contenido, la entrega antes que la perfección, el sueño antes que el hustle de madrugada.
+2. Un solo negocio hasta el día 90. Cero oportunidades nuevas.
+3. Máx 45 min/día de consumo educativo. Ejecutar > estudiar.
+4. El transporte de tu novia se respeta como bloque fijo (dime horarios en el brief y construyo alrededor — incluso sirve de descanso mental entre bloques).
+5. Llamadas con España: se agendan en tu mañana (su tarde). México: casi tu mismo horario.
+
+## Lista negra (sin cambios)
+
+❌ Comprar equipos/cursos fuera del doc 08 · ❌ cambiar de nicho antes del día 45 · ❌ automatizar IG · ❌ scroll fuera de los bloques de interacción · ❌ aceptar clientes fuera de ICP con descuento.

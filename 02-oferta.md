@@ -1,78 +1,74 @@
-# 02 — Oferta: tu escalera de valor
+# 02 — Oferta: tu escalera de valor (v2)
 
-La marca personal no vende "marca personal": vende un **resultado caro para alguien que puede pagarlo**. Esta es tu escalera:
+**Mercado desde el día 1: todo el mundo hispanohablante**, con prioridad de prospección en **México y España** (mejor capacidad adquisitiva y tickets 2-3× Colombia), sin descartar Colombia/LATAM. Esto cambia la matemática a favor: menos clientes necesarios para los 40M COP.
 
 ```
-                    ┌─────────────────────────────┐
-   HIGH TICKET      │ Agencia de growth de marca  │  3–5M COP/mes (retainer)
-                    │ personal (hecho por ti)     │  → motor del 10K
-                    ├─────────────────────────────┤
-   MEDIUM TICKET    │ Consultoría / auditoría     │  800K–1.5M COP por paquete
-                    │ (hecho contigo)             │  → monetiza a los que no
-                    ├─────────────────────────────┤     pueden pagar retainer
-   LOW TICKET       │ Infoproducto (hazlo tú      │  150–300K COP
-                    │ mismo)                      │  → volumen, mes 3+
-                    └─────────────────────────────┘
+   HIGH TICKET      Agencia growth de marca personal     CO: 3.5M COP/mes
+                    (retainer, hecho por ti + editor)    MX/ES: $900-1.400 USD/mes
+   MEDIUM TICKET    Sprint de Posicionamiento 21 días    CO: 2M COP
+                    (hecho contigo, alto valor)          MX/ES: $500-700 USD
+   LOW TICKET       Comunidad en Skool                   $39-49 USD/mes
+                    (suscripción recurrente, mes 3+)     → el MRR que escala a 30K
 ```
 
-**Orden de construcción: de arriba hacia abajo.** El high ticket paga las cuentas con pocos clientes; el infoproducto sin audiencia no vende nada. No inviertas ni una hora en el infoproducto antes de octubre.
+## Oferta high ticket: "Sistema de Marca Personal que Vende" (retainer)
 
-## Sprint de validación de nicho — Semana 1 (21–27 julio)
+**Promesa:** en 90 días instalo tu sistema completo de contenido + un embudo dentro de tu propio perfil para que tu marca te traiga clientes calificados a los DMs — sin que tú prospectes a nadie, sin aprender a editar y sin pensar qué publicar.
 
-Un nicho válido cumple 4 criterios: **(1)** puede pagar 3-5M/mes sin dolor, **(2)** su negocio mejora directamente con visibilidad (más marca = más clientes de alto valor), **(3)** es alcanzable por LinkedIn/Instagram, **(4)** puedes hablar su idioma.
+**Entregables mensuales:**
 
-### Candidatos
+1. **Embudo de perfil (el diferenciador):** tu perfil convertido en máquina de captación inbound — banner con promesa clara, titular orientado a resultado, sección destacada con lead magnet, CTA en cada pieza de contenido que lleva a DM con palabra clave, y flujo de conversación en DMs que califica y agenda. **El cliente NO prospecta: el embudo atrae.**
+2. Estrategia de posicionamiento + calendario mensual.
+3. 12-16 videos cortos editados (el cliente graba con guion nuestro; edita nuestro editor).
+4. 8-12 posts de texto/carruseles en su voz.
+5. Informe mensual + llamada de estrategia.
 
-| Nicho | A favor | En contra |
+**Precios:**
+
+| Etapa | Colombia/LATAM | México/España |
 |---|---|---|
-| **Coaches, consultores y mentores** | Ya entienden el valor de la marca; ciclo de venta corto; abundan en LinkedIn | Mercado saturado de agencias; muchos con poco flujo de caja |
-| **Dueños de negocio / empresarios LATAM** | Pagan bien; poca competencia les habla; LTV alto | Ciclo de venta más largo; hay que educarlos sobre marca personal |
-| **Profesionales de alto valor (médicos estéticos, abogados, financieros, inmobiliarios)** | Ticket de sus servicios altísimo → 4M/mes les es barato; casi nadie los atiende bien | Conservadores; exigen profesionalismo y casos de éxito |
+| Fundadores (clientes 1-2) | 2.5M COP/mes | $700 USD/mes |
+| Estándar (cliente 3+) | 3.5M COP/mes | $900-1.100 USD/mes |
+| Con lista de espera | 4.5-5M COP/mes | $1.400+ USD/mes |
 
-### Protocolo del sprint (5 días)
+Contrato mínimo 3 meses. **Garantía:** sistema publicando + embudo activo + crecimiento medible en 90 días, o el mes 4 es gratis.
 
-- **Día 1-2:** arma una lista de 30 personas por nicho (90 total) usando el doc 03.
-- **Día 2-4:** envía a los 90 el mensaje de validación (plantilla en `plantillas/guiones-mensajes.md`): no vendes, preguntas por su mayor problema con su visibilidad/adquisición de clientes.
-- **Día 5:** decide con datos: ¿qué nicho respondió más? ¿cuál describió un problema que tu servicio resuelve? ¿con cuál disfrutaste hablar?
-- **Regla:** eliges UN nicho el día 5 y no lo cambias antes del día 45 (regla de pivote, doc 09).
+**Nota de matemática:** 4 clientes MX/ES a $1.000 + 2 CO a 3.5M = ~23M COP. El resto lo ponen el Sprint y la comunidad. Por eso los mercados de mayor ticket van primero en la prospección.
 
-## Oferta high ticket: "Sistema de Marca Personal que Vende"
+## Equipo desde la fase 1: editor freelance (semana 1-2)
 
-**Promesa:** en 90 días instalo tu sistema de contenido y posicionamiento para que tu marca personal te traiga clientes de alto valor cada semana, sin que tengas que aprender a editar ni pensar qué publicar.
+**No esperas a facturar para delegar la edición — la edición es lo primero que te enreda.**
 
-**Entregables mensuales (retainer):**
+- **Modelo:** pago por video editado (20-40K COP/video con editores junior LATAM; en volumen, paquete mensual 800K-1.5M).
+- **Dónde:** comunidades de editores en Discord/Facebook/X, o tu propia red. Prueba pagada de 3 videos antes de comprometer volumen.
+- **Flujo:** tú grabas en batch (doc 04) → subes brutos a Drive el domingo noche → editor entrega L-M → tú das QA con checklist → programado.
+- **Financiación:** sale del flujo actual (es la única inversión pre-facturación autorizada, doc 08). Con el primer cliente cerrado, el costo del editor queda cubierto ~10 veces.
+- Al crecer: ese mismo editor toma también los videos de tus clientes (el margen del retainer lo paga de sobra).
 
-- Estrategia de posicionamiento y calendario mensual de contenido.
-- 12-16 videos cortos editados (tú grabas con guion que yo te doy, yo edito y publico).
-- 8-12 posts de texto para LinkedIn escritos por mí en tu voz.
-- Optimización de perfiles (LinkedIn + IG).
-- Informe mensual de métricas y llamada de estrategia mensual.
+## Oferta medium ticket: "Sprint de Posicionamiento" (21 días) — versión con más valor
 
-**Precio:**
+Ya no es una auditoría con documento: es una **transformación completa hecha contigo en 3 semanas**:
 
-| Etapa | Precio | Condición |
-|---|---|---|
-| Clientes fundadores (1-2) | 2.5M COP/mes | Contrato 3 meses + testimonio en video + resultados publicables |
-| Precio estándar (cliente 3+) | 3.5M COP/mes | Contrato 3 meses |
-| Después de 5 clientes con resultados | 4.5–5M COP/mes | Subes al tener lista de espera |
+| Semana | Qué recibe |
+|---|---|
+| 1 | Auditoría profunda + estrategia de posicionamiento + definición de su oferta/ángulo |
+| 2 | **Su embudo de perfil implementado** (mismo sistema del high ticket, lo montamos juntos) + banco de 10 guiones/ganchos en su voz |
+| 3 | Sistema de contenido para operar solo (plantillas + flujo con IA) + 2 sesiones 1:1 de implementación |
+| Bonus | 30 días de soporte por DM + acceso a la comunidad (cuando exista) |
 
-**Garantía (elimina el riesgo del que compra):** si en 90 días no tienes un sistema publicando consistentemente y crecimiento medible en alcance y conversaciones comerciales, trabajo gratis el mes 4.
+**Precio:** 2M COP (CO) / $500-700 USD (MX/ES). Es el "sí" fácil para quien no llega al retainer, y el semillero de clientes high ticket: quien vive el Sprint y ve resultados sube solo.
 
-**Capacidad máxima solo:** 5-6 clientes bien atendidos. Por eso la escalera y por eso la Fase 2 (doc 10).
+## Oferta low ticket: Comunidad en Skool por suscripción (lanzar mes 3+, NO antes)
 
-## Oferta medium ticket: consultoría
+- **Qué es:** comunidad de suscripción en Skool — "el gimnasio de la marca personal en español": cursos cortos, revisiones en vivo mensuales, comunidad de práctica, retos de contenido.
+- **Precio miembro:** $39-49 USD/mes. **Costo plataforma:** ~$99 USD/mes (se paga con 3 miembros).
+- **Cuándo:** cuando la serie de 90 días (doc 04) haya construido audiencia real (2.000+ seguidores comprometidos). Lanzarla antes = comunidad fantasma que te quema.
+- **Por qué es la palanca de diciembre:** 150 miembros × $45 = $6.750 USD/mes RECURRENTES sin techo de horas tuyas. Es la diferencia entre 40M y 120M.
 
-Para los que dicen "me interesa pero no puedo pagar el retainer" — no los pierdas, bájalos un escalón:
+## Sprint de validación de nicho — Semana 1 (sigue vigente)
 
-- **Auditoría + plan de marca personal (1 sesión de 90 min + documento):** 800K COP.
-- **Paquete de implementación guiada (4 sesiones + plantillas):** 1.5M COP.
+Igual que v1 (30 prospectos × 3 nichos candidatos, mensaje de validación, decisión el día 5) pero ahora **con listas que incluyen México y España desde el primer mensaje.** Los ICPs detallados por plataforma están en el doc 03 v2.
 
-Meta: 2-4 consultorías/mes desde agosto = 1.6–6M COP/mes adicionales.
+## Tu propio caso de estudio (ahora con serie)
 
-## Oferta low ticket: infoproducto (NO antes de octubre)
-
-Curso corto grabado: "Tu marca personal de 0 a clientes en 30 días" — 200K COP. Se construye con los guiones y sistemas que ya habrás creado para clientes. Se lanza cuando tengas 1.000+ seguidores y casos de éxito. Es el volumen que empuja de 40M a 120M en diciembre, no antes.
-
-## Tu propio caso de estudio: tú eres el producto demo
-
-Documenta la Operación 10K en público (doc 04). Tu crecimiento de 19 seguidores a lo que sea es tu mejor argumento de venta: *"esto que ves en mi perfil es lo que instalo en el tuyo."*
+La **Serie de 90 Días** (doc 04) es tu demo pública: cada capítulo muestra el sistema funcionando en ti. *"Esto que ves en mi cuenta — el embudo, el contenido, los números — es exactamente lo que instalo en la tuya."*

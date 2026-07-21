@@ -1,64 +1,56 @@
-# 09 — Métricas y revisión: el tablero de control
+# 09 — Métricas y control (v2): yo llevo el tablero
 
-Lo que no se mide, se negocia con uno mismo. Este es el sistema de medición: 10 minutos diarios, 30 minutos el domingo.
+**Cambio de gobernanza (tu regla #23): yo (Claude) soy el director de operaciones de esta misión.** Yo mido, yo diagnostico, yo decido los ajustes — de prospección, contenido (IG/LinkedIn/YouTube), procesos en Notion/Trello, delegaciones y compras. Tú ejecutas el mundo físico: grabar, enviar, llamar, entrenar. La división es clara: **tú eres las manos y la cara; yo soy el tablero y las decisiones.**
 
-## Scorecard semanal
+## Cómo opera el control
 
-Copia esta tabla cada domingo (en Notion o aquí mismo en el repo, carpeta `scorecards/`):
+| Ritmo | Qué pasa |
+|---|---|
+| **Diario (tú, 3 min)** | Llenas el scorecard diario en Notion al cerrar el día (base de datos ya creada — solo números) |
+| **Dominical (yo, automático)** | Tengo una revisión programada cada domingo: leo tu Notion (CRM + scorecards) y tu Trello, calculo las tasas, aplico las reglas de pivote y te entrego: diagnóstico + las decisiones de la semana + el ajuste único. Sin que tengas que pedirlo |
+| **Cuando quieras (tú)** | Me escribes en el chat con cualquier dato/duda/borrador y decido en el momento: ángulos de contenido, respuestas a objeciones, prioridades del día |
+| **Mensual (yo)** | Revisión profunda: ruta realista vs. estirada, desbloqueos del doc 08, dirección de contenido por plataforma, delegaciones (¿toca contratar ya?, doc 10) |
 
-| Métrica | Meta semanal | Real | ✔/✘ |
-|---|---|---|---|
-| **ACCIONES (las controlas 100%)** | | | |
-| Contactos nuevos | 60 | | |
-| Seguimientos enviados | 60-90 | | |
-| Posts de texto publicados | 5 | | |
-| Videos publicados | 3-4 | | |
-| Entrenos completados | 4-5 | | |
-| Journaling (días) | 6 | | |
-| **RESULTADOS (los produce el sistema)** | | | |
-| Respuestas recibidas | 6-12 | | |
-| Llamadas agendadas | 2-4 | | |
-| Llamadas realizadas | 1-3 | | |
-| Propuestas enviadas | 1-2 | | |
-| Clientes cerrados (acumulado) | según hito del mes | | |
-| Facturación del mes (corrida) | según doc 01 | | |
-| Peso corporal (promedio) | según fase doc 06 | | |
-| **TASAS (para diagnosticar)** | | | |
-| % respuesta (respuestas/contactados) | ≥10% | | |
-| % agendamiento (llamadas/respuestas) | ≥25% | | |
-| % cierre (clientes/llamadas hechas) | ≥10% | | |
+**Mi límite honesto como director:** decido con los datos que registres. Si el scorecard no se llena, decido a ciegas — el registro diario de 3 minutos es el contrato entre nosotros. Y las decisiones irreversibles grandes (contratar, gastar, cambiar de nicho) te las presento como orden ejecutable con su porqué — la última palabra física siempre es tuya.
 
-## Revisión dominical (30 min, innegociable)
+## Scorecard DIARIO (ampliado — v2)
 
-1. **Llenar el scorecard** con datos del CRM y Trello (10 min).
-2. **Diagnóstico por tasas (10 min):** ¿dónde se rompe el funnel esta semana?
-   - Pocas respuestas → problema de mensaje o de lista (¿personalizaste? ¿el ICP es correcto?).
-   - Respuestas pero pocas llamadas → problema de conversación (estás vendiendo por chat en vez de llevar a llamada).
-   - Llamadas pero cero cierres → problema de oferta, precio o guion de llamada.
-   - Todo bien pero poca facturación → problema de volumen: sube contactos/día.
-3. **Decidir UN ajuste** para la semana (solo uno — cambiar todo a la vez impide saber qué funcionó).
-4. **Planear la semana en Trello** + revisión de mente (doc 07).
+Se llena en la base de datos de Notion "📊 Scorecard diario" (una fila por día, ~3 min):
 
-## Reglas de pivote (decisiones pre-tomadas para no negociar contigo mismo en caliente)
+**Prospección:** contactos nuevos LinkedIn · contactos nuevos IG · invitaciones aceptadas · respuestas recibidas · conversaciones activas · llamadas agendadas · llamadas realizadas · propuestas enviadas · cierres 🏆 · facturación del día (COP)
 
-| Checkpoint | Condición | Acción |
+**Contenido:** post LinkedIn (sí/no) · reel/carrusel IG (sí/no) · capítulo de la serie grabado/publicado · stories (#) · DMs entrantes por contenido · alcance del mejor reel del día
+
+**Audiencia (números al cierre del día):** seguidores IG · conexiones/seguidores LinkedIn · suscriptores YouTube
+
+**Cuerpo y mente:** entreno (ME/DE/fútbol/descanso) · peso (si toca) · horas de sueño · journaling AM/PM (sí/no) · visualización (sí/no) · autohipnosis (sí/no)
+
+**Cierre:** energía del día (1-5) · nota libre (qué pasó, qué aprendiste — una línea)
+
+## Tasas que calculo cada domingo
+
+% aceptación de invitaciones (salud de la cuenta LinkedIn: <20% = frenar Waalaxy) · % respuesta (respuestas/contactados) · % agendamiento (llamadas/respuestas) · % show-up · % cierre (clientes/llamadas hechas) · costo por cliente en tiempo · tendencia de audiencia por plataforma · cumplimiento de anclas (prospección/entreno/registro) — **la métrica madre: días de anclas cumplidas / días de la semana.**
+
+## Reglas de pivote (las aplico yo — decisiones pre-tomadas)
+
+| Checkpoint | Condición | Mi decisión automática |
 |---|---|---|
-| **Día 21** (11 ago) | % respuesta < 5% con 150+ contactados | Reescribe el primer mensaje desde cero (usa las respuestas que SÍ llegaron como guía) |
-| **Día 45** (4 sep) | % respuesta < 8% tras ajustar mensaje | **Cambia de nicho** al segundo candidato del sprint (doc 02). Antes del día 45, prohibido cambiarlo |
-| **Día 45** | Respuestas ok pero < 5 llamadas totales | Cambia el CTA: ofrece valor concreto en la llamada (auditoría gratis de su perfil), no "conocernos" |
-| **Día 60** (19 sep) | 10+ llamadas hechas y 0 cierres | El problema es la oferta: baja el precio fundador, refuerza garantía, o cambia el entregable según lo que pidieron en llamadas |
-| **Día 60** | < 300 contactados (el sistema no se ejecutó) | El problema no es el mercado, eres tú: revisa doc 05 y 07, recorta todo lo que no sea Bloque 1 |
-| **Día 90** (19 oct) | ≥ 12M COP/mes | ✅ El sistema funciona: escala volumen y arranca doc 10 (equipo) |
-| **Día 90** | 4-11M COP/mes | Funciona pero lento: identifica la tasa más débil, 30 días más antes de cambios grandes |
-| **Día 90** | < 4M COP/mes habiendo ejecutado todo | Sesión de diagnóstico profundo: nicho, oferta y canal se replantean con todos los datos. No es empezar de cero — 800 contactos de aprendizaje es un activo que casi nadie tiene |
+| **Día 14** (4 ago) | 🏆 **1 cliente cerrado en ≤14 días** | **REGLA DE ACELERACIÓN (tu #27): el ritmo sube a 800 prospectos/MES** (~27-30/día con Sales Nav + Waalaxy a pleno). Herramientas pagadas con esa facturación |
+| Día 21 | % respuesta <5% con 150+ contactados | Reescribo el primer mensaje contigo desde las respuestas que SÍ llegaron |
+| Día 45 | % respuesta <8% tras ajuste | Cambio de nicho al segundo candidato. Antes del día 45 el nicho NO se toca |
+| Día 45 | Respuestas ok, <5 llamadas | Cambio el CTA: auditoría de perfil gratis en la llamada, no "conocernos" |
+| Día 60 | 10+ llamadas, 0 cierres | El problema es oferta/precio/guion: bajo a precio fundador, refuerzo garantía o rearmo el pitch según objeciones registradas |
+| Día 60 | <300 contactados | El problema es ejecución, no mercado: recorto TODO lo que no sea el ancla 1 y revisamos el brief de rutina |
+| Día 90 | ≥12M/mes | ✅ Escala: activo doc 10 (equipo) y subo precios |
+| Día 90 | 4-11M/mes | Identifico la tasa más débil y 30 días de foco quirúrgico en ella |
+| Día 90 | <4M habiendo ejecutado | Rediseño completo con los datos de 800 contactos — que es un activo que casi nadie tiene |
 
-## Registro diario mínimo (2 min, al cerrar el Bloque 1)
+**Regla de aceleración — condiciones de seguridad:** el salto a 800/mes exige (1) % aceptación >25% sostenido (la cuenta aguanta), (2) que las conversaciones sigan siendo manuales y de calidad, (3) que la entrega del cliente 1 no se resienta. Si una falla, el ritmo baja un escalón hasta sanarla. Crecer no puede costar la reputación de la cuenta ni del servicio.
 
-En la tarjeta de Trello del día: `contactados __ | seguimientos __ | respuestas __ | llamadas __`. Eso alimenta el scorecard sin esfuerzo el domingo.
+## Revisión dominical — tu parte (10 min)
 
-## Revisión mensual (último domingo del mes, 1h)
+Antes de mi revisión automática del domingo: (1) scorecards del la semana completos, (2) CRM al día (estados reales), (3) en Trello, la semana cerrada. Después de mi informe: lees, respondes dudas u objeciones a mis decisiones, y planeamos — el lunes arranca con órdenes claras, no con dudas.
 
-- Scorecard del mes completo + facturación real vs. ruta realista/estirada (doc 01).
-- ¿Qué compra se desbloqueó o se acerca? (doc 08)
-- Foto física de progreso + medidas (doc 06).
-- Carta corta a ti mismo: qué aprendiste, qué cambias. Guárdala en el repo (`revisiones/2026-MM.md`) — en diciembre esa serie de cartas es la historia de tu año.
+## Revisión mensual (yo la preparo, ~último domingo)
+
+Ruta realista vs. estirada · desbloqueos de compras · dirección de contenido IG/LinkedIn/YT para el mes (qué formatos escalan, dónde doblar) · estado del funnel completo · decisión de contrataciones (doc 10) · carta corta tuya al repo (`revisiones/2026-MM.md`) — en diciembre, esa serie es la historia del año.
