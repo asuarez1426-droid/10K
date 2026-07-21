@@ -46,11 +46,11 @@ $10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (p
 | [10 — Fase 2: equipo y $30K](10-fase-2-equipo-30k.md) | Editor · setter · closer · ayudante personal · las 3 palancas |
 | [Plantillas](plantillas/) | CRM Notion · tablero Trello · guiones de mensajes |
 
-## Sistemas vivos (los administro yo)
+## Sistemas vivos (los administro yo) — YA CREADOS ✅
 
-- **Notion:** HQ de la operación — CRM de prospectos + scorecard diario + dashboard. *(Creado por mí — link en la sección de abajo cuando termine el montaje.)*
-- **Trello:** tablero de ejecución diaria con las anclas y checklists.
-- **Revisión dominical automática:** cada domingo leo tus datos y te entrego diagnóstico + decisiones, sin que lo pidas.
+- **Notion HQ:** [⚡ Operación 10K — HQ](https://app.notion.com/p/3a49c8785d7f811fbc5dd5fabcb8cc08) — contiene el 🎯 CRM Prospectos (vistas: Pipeline, Toques de hoy, Llamadas, Clientes) y el 📊 Scorecard Diario (tu registro de 3 min cada noche).
+- **Trello:** [⚡ Operación 10K — Ejecución](https://trello.com/b/szSAFvRf) — 6 listas (Sistema · Esta semana · HOY · En curso · Hecho hoy · Hecho semana) con las 6 tarjetas fijas de anclas y el checklist diario de prospección.
+- **Revisión dominical automática:** programada cada domingo 7pm (Colombia) — leo tus datos y entrego diagnóstico + decisiones sin que lo pidas.
 
 ## ⚠️ Lo que necesito de ti AHORA (responde en el chat)
 
