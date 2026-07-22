@@ -1,6 +1,10 @@
-# 06 — Físico (v2): conjugado + pliometría + anaeróbico + nucleus overload
+# 06 — Físico (v3): conjugado + pliometría + anaeróbico + nucleus overload
 
-**Meta:** 100kg en banca + 10% de grasa para diciembre 2026, con la explosividad y agilidad de un felino. **Seguimiento y nutrición delegados a Gemini** (multimodal: le mandas fotos y ajusta).
+**Metas con DOS plazos distintos (tu punto 14):** 100kg banca + 120kg sentadilla para el **15 de agosto de 2026**; 10% de grasa para el **día 90 (20 de octubre de 2026)**. Explosividad y agilidad de felino como referencia estética permanente.
+
+**Nota honesta sobre el 15 de agosto:** son ~3 semanas desde el inicio del reto. Solo es realista si tu 1RM actual ya está cerca (banca 85kg+, sentadilla 100-105kg+). Comparte tu línea base y Gemini te dirá con honestidad si esa fecha es alcanzable o cuál es la real — de todas formas se empuja al máximo hacia ella.
+
+**Todo el seguimiento y la programación semana a semana quedan delegados a Gemini (tu punto 13):** el método conjugado rota constantemente (variantes ME, porcentajes DE, bloques de nucleus overload) — un documento estático no puede seguirle el ritmo. Este documento da el FRAMEWORK; Gemini decide y ajusta el detalle de cada semana con tus datos y fotos reales.
 
 ## Semana 1 — Línea base (sigue siendo obligatoria)
 
@@ -32,57 +36,99 @@ Protocolo de saturación para el músculo rezagado (para ti: **pecho**, al servi
 - Los días ME suben el techo (fuerza absoluta); los días DE suben la velocidad de la barra (lo que te estanca en el punto medio del press).
 - Registro clave: el mejor single/triple de cada variante ME. Meta de tendencia: +2.5kg por variante cada 2-3 semanas.
 - Test de 1RM real de banca competición: cada 6-8 semanas, programado, con descanso previo.
-- Cuando compartas tu 1RM actual, fijo los porcentajes exactos y la fecha realista del 100kg.
+- Cuando compartas tu 1RM actual en el briefing del Chat 2 de Gemini (abajo), él fija los porcentajes exactos y te da la fecha realista para 100kg banca y 120kg sentadilla.
 
-## Delegación a Gemini: tu coach de seguimiento y nutrición 📸 (orden maestra lista para pegar)
+## Delegación a Gemini: DOS chats separados (tu punto 14 — nutrición y entrenamiento por separado)
 
-Abre un chat nuevo en Gemini, ponle de nombre **"Coach Físico — Operación 10K"** (un solo hilo, para que guarde historial) y pega esta orden completa tal cual. Él te hará el briefing y toma el mando desde ahí:
+Abre **dos chats nuevos** en Gemini (no uno solo): mezclar nutrición y programación de entrenamiento en el mismo hilo hace que las respuestas se vuelvan largas y confusas cuando ambas cambian semana a semana. Pega cada orden en su propio chat.
+
+### Chat 1 — "Coach de Nutrición — Operación 10K" (orden maestra lista para pegar)
 
 ```
-Eres mi COACH FÍSICO Y NUTRICIONAL de cabecera para un reto de 5 meses. Tomas el
-mando desde este mensaje y me guías tú a mí — yo solo ejecuto y te reporto.
+Eres mi COACH DE NUTRICIÓN para un reto de 90 días (23 jul - 20 oct 2026). Tomas el
+mando desde este mensaje — yo solo ejecuto y te reporto.
 
-MIS METAS (fecha límite: diciembre 2026):
-- Press banca: 100 kg (1RM)
-- Grasa corporal: 10%
-- Estética/atletismo: fuerza de powerlifter con explosividad y agilidad de felino
+MIS METAS:
+- 10% de grasa corporal para el día 90 (20 de octubre de 2026).
+- Apoyar en paralelo un objetivo agresivo de fuerza (100kg banca, 120kg sentadilla)
+  con fecha límite 15 de agosto de 2026 — mi coach de entrenamiento (chat aparte) lo
+  programa; tú necesitas saberlo porque afecta cuánta energía/calorías necesito.
 
 MI CONTEXTO FIJO:
-- Entreno método conjugado 4 días/semana (ME Torso, DE Pierna, DE Torso, ME Pierna,
-  con pliometría en días DE y finishers anaeróbicos) + fútbol miércoles y domingo.
-- Bloques opcionales de "nucleus overload" de pecho si la banca se estanca 3+ semanas.
-- Duermo 22:15-5:00 (6h45). Presupuesto de comida: máximo 1.000.000 COP/mes en
-  Colombia. Proteína objetivo: 2 g por kg de peso al día, innegociable.
+- Presupuesto de comida: máximo 1.000.000 COP/mes en Colombia.
+- Proteína objetivo: 2 g por kg de peso al día, innegociable.
 - Suplementos permitidos: creatina 5 g/día; proteína en polvo solo si no llego con comida.
+- Duermo 22:15-5:00 (6h45).
+- Entreno 4 días/semana + fútbol miércoles y domingo (alta demanda física total).
 
 TU PRIMERA TAREA — BRIEFING INICIAL:
-Hazme una entrevista completa, UNA pregunta a la vez, hasta tener: peso actual, altura,
-edad, % grasa estimado (te mandaré fotos frontal/lateral/espalda para que lo estimes),
-1RM o 3-5RM actual de banca/sentadilla/peso muerto, lesiones o molestias, qué como en
-un día normal, a qué hora entreno esta semana, y mi nivel de experiencia real en el gym.
-Con eso me entregas: (1) mi fase inicial (déficit/recomposición/superávit) con calorías
-y macros exactos, (2) mi menú semanal colombiano dentro del presupuesto (huevos, pollo,
-res, arroz, fríjol, avena, plátano, etc.), (3) los pesos de arranque para mis días ME y DE,
-y (4) la fecha proyectada realista para los 100 kg de banca y para el 10% de grasa.
+Pregúntame UNA cosa a la vez hasta tener: peso actual, altura, edad, % grasa estimado
+(te mandaré fotos frontal/lateral/espalda para que lo estimes), qué como en un día
+normal, y si tengo alguna restricción o intolerancia. Con eso entrégame: (1) mi fase
+inicial (déficit/recomposición/superávit) con calorías y macros exactos, (2) mi menú
+semanal colombiano dentro del presupuesto (huevos, pollo, res, arroz, fríjol, avena,
+plátano, etc.), y (3) una proyección honesta de si el 10% de grasa es realista para el
+20 de octubre desde mi punto de partida.
 
-PROTOCOLO SEMANAL (recuérdamelo tú cada domingo si no te escribo):
-- Yo te mando: fotos de progreso (misma luz, mismas poses), peso promedio de la semana,
-  y las cargas que moví en los días ME y DE.
-- Tú me devuelves: análisis visual honesto (sin halagos vacíos), ajuste de calorías/macros
-  si toca, ajuste de cargas/variantes para la semana, y una alerta clara si detectas
-  pérdida de músculo, estancamiento o exceso de fatiga (el fútbol + conjugado + 6h45 de
-  sueño pueden pasarme factura — vigílalo).
+PROTOCOLO SEMANAL (recuérdamelo cada domingo si no te escribo): te mando fotos de
+progreso (misma luz, mismas poses) + peso promedio de la semana. Tú me devuelves:
+análisis visual honesto (sin halagos vacíos), ajuste de calorías/macros si toca, y una
+alerta clara si detectas pérdida de músculo o estancamiento.
 
 PROTOCOLO DIARIO (opcional): si te mando la foto de un plato, respondes en 2 líneas:
 apto o no para mi fase, y qué le cambiarías.
 
-REGLAS DE ESTILO: sé directo y exigente, cero sermones largos, decisiones concretas con
-números. Si me desvío 2 semanas seguidas, dímelo sin suavizarlo. Español siempre.
+ESTILO: directo y exigente, cero sermones largos, decisiones concretas con números.
+Si me desvío 2 semanas seguidas, dímelo sin suavizarlo. Español siempre.
 
-Empieza ahora con la primera pregunta del briefing.
+Empieza con la primera pregunta del briefing.
 ```
 
-**Reparto claro:** Gemini lleva TU físico día a día; yo (Claude) superviso la tendencia mensual en el scorecard (¿peso y banca se mueven hacia la meta?) como parte del control general (doc 09). Si Gemini y el scorecard se contradicen, mando yo. 😄
+### Chat 2 — "Coach de Entrenamiento — Operación 10K" (orden maestra lista para pegar)
+
+```
+Eres mi COACH DE ENTRENAMIENTO para un reto de 90 días (23 jul - 20 oct 2026). Tomas
+el mando desde este mensaje. Programa mi semana de gimnasio con método CONJUGADO
+(Westside adaptado) — este método rota variantes y porcentajes constantemente, así
+que TÚ decides el detalle semana a semana, yo solo te reporto y ejecuto.
+
+MIS METAS DE FUERZA (fecha límite: 15 de agosto de 2026 — es un plazo corto y agresivo,
+dime con honestidad si es realista una vez tengas mi línea base, y de todas formas
+programa para empujar al máximo hacia esa fecha):
+- Press banca 1RM: 100 kg
+- Sentadilla 1RM: 120 kg
+Meta de estética/atletismo (a diciembre 2026): fuerza de powerlifter con explosividad
+y agilidad de felino.
+
+MI ESTRUCTURA FIJA (no la cambies, tú llenas el contenido cada semana):
+- 4 días de gym: ME Torso, DE Pierna (con pliometría + finisher anaeróbico), DE Torso
+  (con pliometría), ME Pierna — en este orden o el que tú definas mejor.
+- + Fútbol miércoles y domingo (cuenta como trabajo anaeróbico y de agilidad).
+- Bloques opcionales de "nucleus overload" de pecho si la banca se estanca 3+ semanas.
+- Entreno en la tarde o tarde-noche, hora variable según el día.
+
+TU PRIMERA TAREA — BRIEFING INICIAL:
+Pregúntame UNA cosa a la vez hasta tener: peso actual, altura, edad, 1RM o 3-5RM actual
+de banca/sentadilla/peso muerto, lesiones o molestias, y mi nivel de experiencia real
+en el gym. Con eso entrégame: (1) los pesos exactos de arranque para cada día (ME/DE),
+(2) una proyección honesta de si el 15 de agosto es alcanzable para 100kg banca y
+120kg sentadilla, o cuál es la fecha real, y (3) mi primera semana completa programada.
+
+PROTOCOLO SEMANAL: cada domingo/lunes te mando las cargas que moví esa semana. Tú me
+devuelves la programación de la semana siguiente (pesos, variantes, si toca nucleus
+overload) y una alerta si detectas fatiga excesiva por la combinación de conjugado +
+fútbol + solo 6h45 de sueño.
+
+PROTOCOLO DE PRUEBA DE 1RM: prográmame un test real de banca y sentadilla cada 6-8
+semanas, nunca más seguido.
+
+ESTILO: directo y exigente, decisiones concretas con números, cero relleno. Español
+siempre.
+
+Empieza con la primera pregunta del briefing.
+```
+
+**Reparto claro:** los dos Gemini llevan TU físico día a día (nutrición y entrenamiento por separado); yo (Claude) superviso la tendencia mensual en el scorecard (¿peso y banca se mueven hacia la meta?) como parte del control general (doc 09). Si Gemini y el scorecard se contradicen, mando yo. 😄
 
 ## Nutrición (sin cambios de fondo)
 

@@ -2,7 +2,7 @@
 
 **Misión:** de $615 a $10.000 USD/mes en 90 días, y $30.000 USD/mes en diciembre 2026 — documentado en público, con fe, sistema y datos.
 
-**Hoy (21 jul):** cierre de planeación · **DÍA 1 DEL RETO: 22 de julio de 2026** · **Día 90:** 19 de octubre de 2026
+**21-22 jul:** cierre de planeación y correcciones · **DÍA 1 DEL RETO: 23 de julio de 2026** · **Día 90:** 20 de octubre de 2026
 
 ## El marco honesto de la misión
 
@@ -10,11 +10,12 @@ Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos
 
 | Hito | Fecha | Qué debe ser verdad |
 |---|---|---|
-| **Día 7** | 28 jul | Calentamiento LI/IG hecho, nicho validado, ~150 contactados, nevera con 600+ prospectos |
-| **Día 21** | 11 ago | ⚡ **BLITZ COMPLETADO: los 800 contactados** (Sales Nav + Waalaxy + IG manual), primeras llamadas corriendo |
-| **Día 30** | 20 ago | 8-15 llamadas hechas, 1er cliente cerrado → editor freelance activado con su retainer |
-| **Día 60** | 19 sep | 2-3 clientes (6-12M/mes), serie con tracción, ¿segundo blitz financiado? |
-| **Día 90** | 19 oct | 12-20M/mes realista · 40M ($10K) en el escenario alto |
+| **Día 7** | 29 jul | Calentamiento LI/IG hecho, nicho validado, ~150 contactados, nevera con 600-900 prospectos |
+| **Día 14** | 5 ago | ⚡ Meta estirada de fuerza: 100kg banca + 120kg sentadilla (revisar con Gemini si es realista) |
+| **Día 21** | 12 ago | 🎯 **BLITZ COMPLETADO: los 800 contactados** (Sales Nav + Waalaxy + IG manual), primeras llamadas corriendo |
+| **Día 30** | 21 ago | 8-15 llamadas hechas, 1er cliente cerrado → editor freelance activado con su retainer |
+| **Día 60** | 20 sep | 2-3 clientes (6-12M/mes), serie con tracción, ¿segundo blitz financiado? |
+| **Día 90** | 20 oct | 12-20M/mes realista · 40M ($10K) en el escenario alto · 10% de grasa corporal |
 | **Diciembre** | 31 dic | Equipo de 4 roles + comunidad Skool + cohortes = ruta a 120M ($30K) |
 
 ## Los roles de la operación
@@ -28,7 +29,7 @@ Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos
 
 ## La matemática
 
-$10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (por eso el mercado es todo el mundo hispano, priorizando México y España) · **Los 800 en 21 días:** calentamiento días 1-7 (manual) → blitz días 8-21 (Waalaxy ~300 LI + Sales Nav ~100 + IG manual ~400) → cosecha días 22-90 · Funnel: 10-20% respuesta → 25-40 llamadas → 10-20% cierre.
+$10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (por eso el mercado es todo el mundo hispano, priorizando México y España) · **Los 800 en 21 días:** calentamiento días 1-7 (23-29 jul, manual) → blitz días 8-21 (30 jul-12 ago: Waalaxy pagado ~$15 ~300 LI + Sales Nav trial ~100 + IG manual ~400) → cosecha días 22-90 · Funnel: 10-20% respuesta → 25-40 llamadas → 10-20% cierre. **La oferta ya no vende "contenido" — vende conversaciones comerciales y clientes verificables** (doc 02).
 
 ## Mapa del sistema
 
@@ -49,13 +50,24 @@ $10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (p
 
 ## Sistemas vivos (los administro yo) — YA CREADOS ✅
 
-- **Notion HQ:** [⚡ Operación 10K — HQ](https://app.notion.com/p/3a49c8785d7f811fbc5dd5fabcb8cc08) — contiene el 🎯 CRM Prospectos (vistas: Pipeline, Toques de hoy, Llamadas, Clientes) y el 📊 Scorecard Diario (tu registro de 3 min cada noche).
-- **Trello:** [⚡ Operación 10K — Ejecución](https://trello.com/b/szSAFvRf) — 6 listas (Sistema · Esta semana · HOY · En curso · Hecho hoy · Hecho semana) con las 6 tarjetas fijas de anclas y el checklist diario de prospección.
+- **Notion HQ:** [⚡ Operación 10K — HQ](https://app.notion.com/p/3a49c8785d7f811fbc5dd5fabcb8cc08) — contiene el 🎯 CRM Prospectos, el 📊 Scorecard Diario y el 📈 Registro de Contenido.
+- **Trello:** [⚡ Operación 10K — Ejecución](https://trello.com/b/szSAFvRf) — 6 listas con las tarjetas fijas de anclas y el checklist diario de prospección.
 - **Revisión dominical automática:** programada cada domingo 7pm (Colombia) — leo tus datos y entrego diagnóstico + decisiones sin que lo pidas.
+
+## 🤖 Los 5 chats de IA que debes crear (checklist)
+
+| # | Nombre del chat/Proyecto | Dónde | Para qué | Orden maestra en |
+|---|---|---|---|---|
+| 1 | Coach de Nutrición — Operación 10K | Gemini | Tu dieta, fases, análisis de fotos de comida | doc 06 |
+| 2 | Coach de Entrenamiento — Operación 10K | Gemini | Programación semanal del conjugado, cargas, fecha real de tus metas de fuerza | doc 06 |
+| 3 | Coach Mental — Operación 10K | Proyecto de Claude | Journaling PM guiado, visualización AM, autohipnosis nocturna | doc 07 |
+| 4 | Oferta Ganadora — Operación 10K | Proyecto de Claude | Afinar precios, copy de venta, respuestas a objeciones reales | doc 02 |
+| 5 | Estudio Creativo — Operación 10K | Proyecto de Claude | Ideación de capítulos, guiones y ganchos sobre tu estructura | doc 04 |
+
+Yo (esta sesión) sigo siendo el director de operaciones — mido, decido y hago la revisión dominical con lo que registres en Notion/Trello.
 
 ## ⚠️ Lo que falta de ti (responde en el chat cuando puedas)
 
-1. **Números físicos:** peso, % grasa estimado, 1RM (o 3-5RM) de banca/sentadilla/peso muerto — o simplemente arranca el briefing con Gemini (orden lista en doc 06) y compárteme el resumen.
-2. **Tu estructura de guiones y ganchos** — para volverla la plantilla oficial del sistema.
-3. El **plan de 800 de referencia** que viste, para cruzarlo con el doc 03.
-4. Confirmar con tu novia los **días de gym** (propuesta: L-M-J-V gym, X y D fútbol).
+1. **Tu 1RM real** (banca, sentadilla) — arranca el briefing con el Chat 2 de Gemini (doc 06) y compárteme el resumen; sin esto no sabemos si el 15 de agosto es realista.
+2. **Tu estructura de guiones y ganchos** — para volverla la plantilla oficial del sistema (pégala en el Estudio Creativo, doc 04).
+3. Confirmar con tu novia los **días fijos de gym** (mientras tanto: entrena a la hora que el día lo permita).

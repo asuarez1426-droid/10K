@@ -4,7 +4,7 @@
 
 ## Tu estudio YA está completo — se elimina la compra de equipos de grabación
 
-Inventario actual: **Samsung S23 5G (cámara) · DJI Mic Mini (audio) · 2 trípodes (grande y pequeño) · luz LED blanca de fondo + aro mejorado con luz grande · Samsung Watch 5 (monitor/control) · Tab S11 Ultra (teleprompter/revisión) · DaVinci Resolve gratis (edición pro del editor).**
+Inventario actual: **Samsung S23 5G (cámara) · DJI Mic Mini (audio) · 2 trípodes (grande y pequeño) · luz LED blanca de fondo + aro mejorado con luz grande · Samsung Watch 5 (monitor/control) · Tab S11 Ultra (teleprompter/revisión) · CapCut Pro (edición — tu única herramienta, no tienes DaVinci).**
 
 Con esto se produce contenido al nivel que la operación necesita hasta bien pasados los 40M/mes. **Presupuesto de equipos en los 90 días: $0.** Cada peso va a lo que factura.
 
@@ -12,10 +12,10 @@ Con esto se produce contenido al nivel que la operación necesita hasta bien pas
 
 | Concepto | Costo | Cuándo |
 |---|---|---|
-| **Coworking cerca al trabajo de tu novia** | ~300-600K COP/mes (o pases por día) | **Aprobado desde YA** — te devuelve ~2h de trayectos diarios: es la compra de tiempo más barata de toda la operación. Salas para llamadas de venta: se pagan sin dudar (tu regla 17) |
-| Editor freelance (pago por video) | 20-40K COP/video | **Al firmar el primer cliente de agencia** (tu decisión, punto 27): se paga del retainer y edita solo contenido de clientes. Antes de eso: $0, editas tú |
-| Sales Navigator | $0 (trial 30 días, activado el día 8) → luego ~400K COP/mes | Se renueva SOLO si ya hay facturación que lo pague |
-| Waalaxy | $0 (trial 14 días, activado el día 8 — cubre el blitz exacto) → plan según resultados | El primer cliente paga las herramientas — esa es la estrategia declarada |
+| **Coworking cerca al trabajo de tu novia** | **Máx. 150.000 COP/mes** (tu límite, punto 15) — plan básico limitado o pases por día | Aprobado dentro de este tope. Salas puntuales para llamadas de venta importantes: se pagan aparte si hace falta (tu regla 17) |
+| Editor freelance (pago por video) | 20-40K COP/video | **Al firmar el primer cliente de agencia:** se paga del retainer y edita solo contenido de clientes. Antes de eso: $0, editas tú en CapCut Pro |
+| Sales Navigator | $0 (trial 30 días, activado en fase 1) → luego ~$100 USD/mes (~400K COP) | Se paga SOLO cuando haya flujo de caja (primer cliente cerrado) — tu plan de 3 pasos, doc 03 |
+| Waalaxy | **~$15 USD/mes (~60K COP) — se paga desde el día 8 del reto** | Barato: se paga de una para activar el blitz. Si hace falta, se sostiene sacando más listas del trial de Sales Nav (doc 03) |
 | Skool | ~$99 USD/mes | Solo al lanzar la comunidad (mes 3+); se paga con 3 miembros |
 
 ## Regla de reparto de cada peso facturado

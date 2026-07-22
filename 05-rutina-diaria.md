@@ -1,64 +1,66 @@
-# 05 — Rutina diaria v3 (DEFINITIVA — calibrada con tu brief)
+# 05 — Rutina diaria v4 (DEFINITIVA — con tus últimas correcciones)
 
-**Tus datos fijos:** despertar 5:00 AM · acostarse 10:15 PM · llevas a tu novia 6:15→7:00 (regresas 7:30-7:35) · la recoges 2:20 PM→3:00 (regresas 3:30-3:40) · cliente actual: 2h/semana flexibles · fútbol: miércoles tarde y domingo tarde · favores de papás: aparecen sin aviso · tu pico de energía: 5:00 AM ("para comerme el mundo") · tus peores días: fines de semana.
+**Tus datos fijos:** despertar 5:00 AM · acostarse 10:15 PM (todos los días) · llevas a tu novia **en moto** 6:15→7:00 (regresas 7:30-7:35) · la recoges 2:20 PM→3:00 PM (regresas 3:30-3:40) · sábados: la llevas 6:15 AM y la recoges 11:30 AM, con tenis + coworking en Comfenalco en el intermedio · cliente actual: 2h/semana flexibles · fútbol: miércoles y domingo tarde · gym: **tarde o tarde-noche**, hora flexible según el día (días fijos aún por definir con tu novia) · tesis de grado: **40 min TODOS los días, sin excepción** · favores de papás: aparecen sin aviso · tu pico de energía: 5:00 AM · tus peores días: fines de semana.
 
-**Decisión sobre el coworking: APROBADO desde ya.** Un coworking cerca al trabajo de tu novia te devuelve ~2 horas de trayectos al día — es la compra de tiempo más barata disponible (autorizado en doc 08 como gasto operativo). Mientras lo encuentras, la rutina funciona desde casa.
+**Coworking cerca al trabajo de tu novia: aprobado con presupuesto máx. 150.000 COP/mes (tu punto 15).** Con ese monto probablemente cubras un plan básico limitado o varios pases por día — úsalo estratégico (semanas de blitz, días con llamadas importantes) mientras encuentras la opción con mejor relación costo-beneficio. No es gasto libre: es la compra de tiempo más barata que tienes, pero dentro de tu límite real.
 
-## El principio que pediste (tu punto 14): el Andrés Mínimo Viable
+## El Día Mínimo Viable (DMV) — tu punto 14
 
 > "Que el Andrés en un día malo sea el mínimo viable para llegar a los 10K; el Andrés bueno salta directo a los 30K."
 
-**DÍA MÍNIMO VIABLE (DMV) — si el día se rompe, esto se cumple igual (~2h):**
+**DMV — si el día se rompe, esto se cumple igual (~2h):**
 1. 🔒 60-90 min de prospección (10 nuevos + seguimientos + conversaciones).
 2. 📤 1 pieza publicada (aunque sea una story simple del proceso).
 3. 📊 Scorecard + journaling PM (8 min).
 
-Si cumpliste el DMV, el día NO fue un fracaso — fue un día mínimo. La racha sigue viva. Todo lo demás de esta rutina es el Andrés bueno.
+Si cumpliste el DMV, el día NO fue un fracaso — fue un día mínimo. La racha sigue viva.
 
 ## Día tipo (lunes a viernes)
 
 | Hora | Bloque |
 |---|---|
-| 5:00-5:15 | Despertar + mente AM: tu journaling AM (el tuyo, que ya funciona) + visualización guiada con Claude Coach Mental (doc 07) |
-| 5:15-6:10 | 🔒 **PROSPECCIÓN #1 (55 min)** — tu mejor energía al motor de ingresos: envíos del día LI+IG. Bonus geográfico: España está en su mediodía — responden mientras envías |
-| 6:15-7:35 | Transporte (llevarla). En el carro: notas de voz con ideas de capítulos/ganchos (materia prima de contenido) |
-| 7:35-8:10 | Desayuno + revisar Trello (armar el HOY) |
-| 8:15-9:45 | **BLOQUE FÍSICO o FLEX:** días de gym → entreno (conjugado, doc 06). Días sin gym → entrega cliente actual / edición de tus videos (lunes es el día de edición semanal mientras no haya editor) |
-| 9:45-12:30 | **TRABAJO PROFUNDO:** conversaciones de prospección + llamadas con España (su tarde = tu mañana) + entrega + grabar clips sueltos de la serie |
-| 12:30-13:10 | Almuerzo |
-| 13:15-14:15 | 🔒 **PROSPECCIÓN #2 (60 min):** seguimientos del CRM + CRM al día + dejar listos los envíos de mañana |
-| 14:20-15:40 | Transporte (recogerla) |
-| 16:00-18:30 | Llamadas México/LATAM (su media tarde) + publicar contenido del día + buffer para favores de papás e imprevistos |
-| 18:30-21:15 | Vida: novia, familia, cena. **Miércoles: ⚽ fútbol en esta franja** |
+| 5:00-5:15 | Despertar + mente AM: tu journaling AM propio + visualización guiada (Coach Mental, doc 07) |
+| 5:15-6:10 | 🔒 **PROSPECCIÓN #1 (55 min)** — tu mejor energía al motor de ingresos |
+| 6:15-7:35 | **Moto** (llevarla, ida y vuelta). Ideas por nota de voz antes de salir o al llegar — evita el celular en movimiento |
+| 7:35-8:05 | Desayuno |
+| 8:05-8:45 | 🎓 **TESIS (40 min, bloque fijo diario)** — aquí porque la mente aún está fresca y así nunca se posterga al final del día, donde se cae fácil |
+| 8:50-12:00 | **TRABAJO PROFUNDO:** entrega cliente actual + conversaciones de prospección + edición de contenido (lunes, ver doc 04) + llamadas con España (su tarde = tu mañana) |
+| 12:00-12:40 | Almuerzo |
+| 12:45-13:45 | 🔒 **PROSPECCIÓN #2 (60 min):** seguimientos del CRM + CRM al día + dejar listos los envíos de mañana |
+| 13:50-14:15 | Buffer / llamadas |
+| 14:20-15:40 | **Moto** (recogerla, ida y vuelta) |
+| 15:40-16:00 | Descanso corto / transición |
+| 16:00-17:30 (o más tarde si el día lo pide) | 🏋️ **GYM** — tarde o tarde-noche, la única regla es que ocurra. Muévelo sin culpa si el día lo exige |
+| Tras el gym | Contenido del día (publicar, stories, interacción) + buffer para favores de papás e imprevistos |
+| Hasta 21:15 | Vida: novia, familia, cena. **Miércoles: ⚽ fútbol reemplaza esta franja** |
 | 21:30-21:45 | Cierre del día: scorecard en Notion + journaling PM guiado |
-| 21:45-22:05 | Autohipnosis guiada (Claude Coach Mental) |
-| 22:15 | Dormir (6h45 — es tu techo real de sueño con este horario; la siesta de 20 min post-almuerzo es opcional y legal) |
+| 21:45-22:05 | Autohipnosis guiada (Coach Mental) |
+| 22:15 | Dormir |
 
-**Con coworking activo:** 7:00 la dejas → 7:15 ya estás trabajando → el bloque 8:15-14:15 se hace corrido en el coworking → 14:20 la recoges. Ganas ~1.5-2h netas y el gym pasa a la franja de la tarde-noche o a un gym cerca al coworking.
+**Primera semana (transición):** mientras defines con tu novia los días fijos de gym, entrena a la hora que el día lo permita — no dejes que la indefinición te haga saltarte el entreno.
 
-**Distribución de gym propuesta (ajústala con tu novia):** Lunes ME Torso · Martes DE Pierna · Jueves DE Torso · Viernes ME Pierna · Miércoles solo fútbol · Domingo fútbol. Así el conjugado completo cabe sin chocar con el fútbol.
-
-## Sábado — tu día de mayor riesgo, blindado
-
-Tu dato: los fines de semana te desordenas. Por eso el sábado tiene UNA sola misión y es EN LA MAÑANA, antes de que el día se dañe:
+## Sábado — rediseñado con Comfenalco
 
 | Hora | Bloque |
 |---|---|
-| 7:30-8:00 | Desayuno tranquilo |
-| 8:00-11:30 | 📦 **BATCH DE GRABACIÓN** (capítulos de la serie + videos de la semana). Se graba hasta terminar — tu regla |
-| 11:30-13:00 | 🎯 Sourcing de prospectos (90 min; en semanas de blitz, hasta 3h — doc 03) |
-| Tarde | **LIBRE DE VERDAD** — novia, vida. Un sábado libre ganado con la mañana cumplida no es desorden: es el diseño |
+| 6:15 | Sales en moto (la llevas) |
+| 7:00-11:30 | **Ventana de Comfenalco (~4h30):** tenis con tu novia (tiempo variable) + el resto en coworking — aquí van: sourcing pesado de prospectos (2-3h en semanas de calentamiento/blitz, doc 03) + seguimientos + tus 40 min de tesis |
+| 11:30 | La recoges |
+| 12:00-12:40 | Llegada a casa + almuerzo |
+| 13:00-15:30 | 📦 **Bloque de narración/edición de la serie** (ver doc 04: revisas los clips reales de la semana, grabas la narración, y las piezas de autoridad que sí van guionadas) |
+| Resto de la tarde | **LIBRE DE VERDAD** — novia, vida |
 
-DMV del sábado: batch grabado. Punto.
+DMV del sábado: sourcing hecho en Comfenalco + tesis. La narración puede correrse al domingo si el sábado se complica (tu dato: los fines de semana son tu riesgo — por eso hay margen).
 
 ## Domingo
 
-⚽ Fútbol en la tarde · 7:00 PM llega mi revisión dominical automática → la lees y respondes (15 min) → semana planeada en Trello · scorecard del día · autohipnosis · a dormir. DMV del domingo: leer mi revisión y responder (15 min).
+Mañana libre/descanso · tesis 40 min en algún punto del día · ⚽ fútbol en la tarde · 7:00 PM llega mi revisión dominical automática → la lees y respondes (15 min) → semana planeada en Trello · scorecard · autohipnosis · a dormir. Si el bloque de narración de la serie no se hizo el sábado, se hace aquí. DMV del domingo: leer mi revisión y responder (15 min).
 
 ## Reglas vivas
 
-1. La prospección #1 jamás se negocia — es la primera hora del día por diseño (tu mejor energía).
-2. Llamadas de venta: a la hora que haga falta mientras haya posibilidad realista de cerrar (tu regla 16). Después de $5K/mes, delimitamos horario. Si toca pagar una sala de coworking para una llamada, se paga (tu regla 17).
-3. Los favores de tus papás viven en el buffer de 16:00-18:30 — nunca dentro de los bloques 🔒.
-4. Un solo negocio, cero oportunidades nuevas hasta el día 90, máx 45 min/día de consumo educativo.
-5. El transporte no es tiempo muerto: es tu estudio de ideación (notas de voz).
+1. La prospección #1 jamás se negocia — primera hora del día, tu mejor energía.
+2. Llamadas de venta: a la hora que haga falta mientras haya posibilidad realista de cerrar (tu regla 16). Después de $5K/mes, delimitamos horario. Si toca pagar una sala de coworking para una llamada puntual, se paga aparte del presupuesto mensual de 150K.
+3. Los favores de tus papás viven en el buffer de después del gym — nunca dentro de los bloques 🔒.
+4. La tesis (40 min) es innegociable TODOS los días, incluidos sábado y domingo.
+5. Un solo negocio, cero oportunidades nuevas hasta el día 90, máx 45 min/día de consumo educativo.
+6. El transporte no es tiempo muerto: es tu estudio de ideación (notas de voz, con cuidado en la moto).

@@ -1,65 +1,108 @@
-# 04 — Sistema de contenido (v2): la Serie de 90 Días + estrategia por conciencia
+# 04 — Sistema de contenido (v3): la Serie de 90 Días + estrategia por conciencia
 
 ## La pieza central: LA SERIE DE 90 DÍAS 🎬
 
-**Concepto:** documentas en video el reto completo — "De $615 a $10.000 USD/mes en 90 días" — capítulo a capítulo, con números reales, en público. Es tu apuesta de viralización, memorabilidad y confianza: la gente no recuerda consejos, recuerda HISTORIAS con riesgo real.
+**Concepto:** documentas en video el reto completo — "De $615 a $10.000 USD/mes en 90 días" — capítulo a capítulo, con números reales, en público.
 
-**Por qué funciona para ti:** (1) el formato reto/documental es el de mayor retención en IG/YouTube; (2) cada capítulo demuestra tu experticia aplicándola EN TI (la demo del servicio); (3) crea seguimiento episódico — la gente vuelve a ver cómo vas; (4) los números reales (aunque pequeños al inicio) son tu diferenciador contra los gurús de humo.
+**Por qué funciona para ti:** (1) el formato reto/documental es el de mayor retención en IG/YouTube; (2) cada capítulo demuestra tu experticia aplicándola EN TI; (3) crea seguimiento episódico; (4) los números reales son tu diferenciador contra los gurús de humo.
 
-**La serie ARRANCA EL DÍA 1 DEL RETO (22 de julio), no el día 60.** El capítulo 1 es el anuncio del reto: las metas, los números de partida (los $615, los 19 seguidores — sin esconder nada) y la promesa de documentarlo todo. La serie sin el principio no tiene arco — y el "antes" es lo que hace épico el "después".
+**La serie ARRANCA EL DÍA 1 DEL RETO (23 de julio), no el día 60.** El capítulo 1 es el anuncio del reto: las metas, los números de partida (los $615, los 19 seguidores) y la promesa de documentarlo todo.
 
-**Estructura semanal de la serie (así se organiza en 2-3 capítulos/semana):**
+### Tu pregunta (punto 11): "¿cómo voy a grabar el sábado algo que se supone que vivo día a día?"
+
+**No lo grabas el sábado. No se actúa nada.** Así funciona de verdad:
+
+- **Toda la semana, en el momento:** cuando pasa algo real — una llamada, un rechazo, un cierre, camino al gym, una idea en la moto — sacas el S23 y grabas un clip de 15-60 segundos, ahí mismo. **Eso ES la serie.** Nada se reconstruye después.
+- **El fin de semana NO se graba la vida — se narra lo que ya viviste:** revisas los clips reales de la semana, eliges los mejores, y grabas SOLO la narración (tú sentado, contando qué pasó), como un diario hablado. Esa narración + los clips reales se editan juntos en el episodio y los reels.
+- **Lo único que sí se graba de cero el fin de semana son las piezas de autoridad** (contenido de enseñanza, no forma parte de la serie viva — esas sí llevan guion).
+
+Es el mismo método que usan los documentalistas y vloggers reales: vivir con la cámara cerca, y sentarse después solo a ordenar y narrar lo que ya pasó.
+
+**Estructura semanal de la serie:**
 
 | Pieza | Cadencia | Formato |
 |---|---|---|
-| **Episodio semanal LARGO** → YouTube | 1/semana (grabado en el batch del sábado, publicado dom/lun) | 5-8 min: "Semana N del reto" — resumen con números reales de la semana, la lección grande, qué viene. **Este es el hilo completo de la serie: quien llegue tarde, se pone al día en YouTube** |
-| **Capítulos cortos** → Reels IG (+ Shorts) | 2/semana entre semana | 30-60 seg: UN momento de la semana ("Día 9: primera llamada de venta", "Me ignoraron 40 veces esta semana — esto aprendí"). Numerados por día del reto |
-| **El crudo diario** → Stories IG | Diario | El proceso sin editar: pantalla del CRM, camino al gym, la nota de voz del carro. Alimenta la secuencia de cierre en historias |
+| **Episodio semanal LARGO** → YouTube | 1/semana (clips reales de la semana + narración grabada el fin de semana, publicado lunes) | 5-8 min: "Semana N del reto" — resumen con números reales, la lección grande, qué viene |
+| **Capítulos cortos** → Reels IG (+ Shorts) | 2/semana entre semana | 30-60 seg: UN momento real ya capturado ("Día 9: primera llamada de venta"). Numerados por día del reto |
+| **El crudo diario** → Stories IG | Diario | El proceso sin editar: pantalla del CRM, camino al gym. Alimenta la secuencia de cierre en historias |
 
-- **Numeración:** los episodios de YouTube van por semana (Cap 1, Cap 2…); los reels por día del reto ("Día 14 de 90") — así la gente sabe siempre dónde está la historia.
+- **Numeración:** episodios de YouTube por semana (Cap 1, Cap 2…); reels por día del reto ("Día 14 de 90").
 - **Hitos = capítulos especiales fuera de cadencia:** primer cliente, primer pago de MX/ES, día 30, el día que algo salga mal de verdad. Los fracasos se publican igual: son los capítulos de más confianza.
-- **Cada capítulo enseña UNA técnica real** (cómo armé mi embudo de perfil, cómo saqué 100 prospectos en 90 min…) — la serie es autoridad, no solo vlog.
-- **Materia prima sin esfuerzo extra:** los clips del proceso se graban EN el momento (15-30 seg con el S23 mientras trabajas); el batch del sábado solo graba las piezas habladas. La serie no te añade horas — documenta las que ya vives.
+- **Cada capítulo enseña UNA técnica real** — la serie es autoridad, no solo vlog.
 
 ## Estrategia por nivel de conciencia (tu regla #12)
 
 | Plataforma | Nivel de conciencia | Qué se publica | Objetivo |
 |---|---|---|---|
-| **Instagram** | **Conciencia 0-1** (no saben que tienen el problema) | Reels virales con ganchos amplios + la Serie. **Sin carruseles por ahora** (tu punto 18: no tienes metodología viral de carruseles — no se improvisa formato en pleno reto; cuando quieras, la construimos juntos y se añade) | ALCANCE y seguidores. Viralidad siempre: ganchos masivos, temas amplios (dinero, disciplina, el reto) |
+| **Instagram** | **Conciencia 0-1** (no saben que tienen el problema) | Reels virales con ganchos amplios + la Serie. Sin carruseles por ahora (tu punto 18: no tienes metodología viral de carruseles todavía) | ALCANCE y seguidores. Viralidad siempre: ganchos masivos, temas amplios |
 | **Instagram Stories** | Audiencia caliente | Secuencias de venta: detrás de cámaras, resultados, testimonios, CTA directo a DM | **CIERRE. Las ventas en IG se cierran en historias, no en reels** |
-| **LinkedIn** | **Conciencia 3-4** (conocen el problema y las soluciones) | Autoridad pura: sistemas, casos, desgloses, opiniones de industria, números de la serie con lectura ejecutiva | Que el prospecto que revisa tu perfil diga "este sabe". Alimenta la prospección directa |
-| **YouTube** | Búsqueda + serie | Episodios largos de la serie + piezas de autoridad buscables | Activo de largo plazo; crece solo con los recortes |
+| **LinkedIn** | **Conciencia 3-4** (conocen el problema y las soluciones) | Autoridad pura: sistemas, casos, desgloses, números de la serie con lectura ejecutiva | Que el prospecto que revisa tu perfil diga "este sabe". Alimenta la prospección directa |
+| **YouTube** | Búsqueda + serie | Episodios largos de la serie + piezas de autoridad buscables | Activo de largo plazo |
 
-**Traducción operativa:** el mismo día de grabación produce las tres capas — el capítulo (IG/YT), su versión ejecutiva en texto (LinkedIn) y el material de historias (crudo, sin editar, del proceso mismo).
+**Traducción operativa:** los clips reales de la semana producen las tres capas — el capítulo (IG/YT), su versión ejecutiva en texto (LinkedIn) y el material de historias.
 
 ## Cadencia semanal
 
 | Día | IG | LinkedIn | YouTube |
 |---|---|---|---|
-| L-V | 1 reel o carrusel/día (mín. 4/semana, 2-3 son capítulos de la serie) + 3-5 stories diarias | 1 post texto/día (autoridad) | — |
-| Fin de semana | Stories del batch (detrás de cámaras) | — | 1 episodio largo (opcional desde semana 3-4) |
+| L-V | 1 reel/día (mín. 4/semana, 2 son capítulos de la serie) + 3-5 stories diarias | 1 post texto/día (autoridad) | — |
+| Fin de semana | Stories del proceso | — | 1 episodio largo/semana |
 | Siempre | 20 min/día de interacción con cuentas del nicho (también es prospección pasiva) | | |
 
-## Flujo de producción (SIN editor hasta el primer cliente — decisión tuya, puntos 4 y 27)
+## Flujo de producción (SIN editor hasta el primer cliente — tu decisión, puntos 4 y 27)
 
-El editor freelance NO se contrata todavía: se activa **cuando firmes tu primer cliente de agencia**, se paga del retainer de ese cliente y edita SOLO el contenido de tus clientes (tu contenido lo pasas al editor más adelante, cuando el flujo lo pague). Hasta entonces, tú editas — con este flujo para que no te coma:
+El editor freelance NO se contrata todavía: se activa **cuando firmes tu primer cliente de agencia**, se paga del retainer y edita SOLO el contenido de tus clientes. Hasta entonces, tú editas — con este flujo para que no te coma:
 
 | Momento | Qué pasa |
 |---|---|
-| **Sábado 8:00-11:30** | **Batch de grabación:** episodio largo de la semana + 2 reels-capítulo + piezas de autoridad. Ideación previa conmigo (Claude) el viernes en el chat |
-| **Entre semana (en el momento)** | Clips crudos del proceso con el S23 (15-30 seg) — sin edición, van a stories directo |
-| **Lunes 8:15-9:45** | **Tu bloque de edición semanal (90 min máx):** plantilla fija de CapCut (subtítulos auto revisados + cortes + zoom en frases clave, cero efectos) = 15-20 min por reel + el episodio de YT en DaVinci con plantilla. Si no cabe en 90 min, se publica más simple — hecho > perfecto |
+| **Toda la semana, en el momento** | Clips crudos REALES con el S23 (15-60 seg) cada vez que pasa algo. Esto ES la serie; nada se actúa después |
+| **Fin de semana (bloque de narración/edición — ver doc 05 para el horario exacto según tu día)** | Revisión de los clips de la semana + grabación de la narración + piezas de autoridad (sí guionadas). Ideación previa conmigo (Claude) el viernes en el chat |
+| **Primer bloque de trabajo profundo del lunes (ver doc 05)** | **Tu bloque de edición semanal (40-90 min según el día): plantilla fija en CapCut Pro** — subtítulos revisados + cortes + zoom en frases clave, cero efectos. El episodio largo y los reels salen de la misma plantilla. Si no cabe, se publica más simple — hecho > perfecto |
 | **Martes** | Todo programado. El resto de la semana no se edita nada |
-| **Al firmar el cliente 1** | Editor freelance por video (20-40K/video) toma la edición del CLIENTE desde el día uno de ese contrato. Tu QA: 15 min con checklist |
+| **Al firmar el cliente 1** | Editor freelance por video (20-40K/video) toma la edición del CLIENTE. Tu QA: 15 min con checklist |
 
 ## Tus guiones, tu estructura (regla #14)
 
-**Tú ya tienes tu estructura de guiones, ganchos y desarrollo de ideas — el sistema la respeta y la potencia, no la reemplaza.** Compárteme tu estructura en el chat y la convierto en plantilla oficial del sistema (para ti y como entregable para tus clientes). Mientras tanto el sistema solo fija: cadencia, niveles de conciencia por plataforma y el formato episódico de la serie.
+**Tú ya tienes tu estructura de guiones, ganchos y desarrollo de ideas — el sistema la respeta y la potencia, no la reemplaza.** Compárteme tu estructura en el chat y la convierto en plantilla oficial del sistema.
 
-## Reparto creativo entre IAs (regla #15)
+## 🎬 Tu Estudio Creativo en Claude (orden maestra lista para pegar — tu punto 6)
 
-- **Claude (yo) = tu partner creativo de contenido:** ideación de capítulos y ángulos de la serie, refinamiento de ganchos sobre TU estructura, guiones conmigo en el chat, análisis de qué está funcionando y hacia dónde llevar el contenido en IG/LinkedIn/YouTube (parte de mi rol de control, doc 09).
-- **Gemini = investigación y análisis:** tendencias y audios en IG por mercado (MX/ES), análisis de competidores, repurposing mecánico (video→texto), y todo el seguimiento físico/nutrición multimodal (doc 06).
+Crea un **Proyecto en Claude (claude.ai)** llamado **"Estudio Creativo — Operación 10K"**, pega esto como instrucciones del proyecto. Es tu chat rápido y dedicado para ideación, guiones y ganchos — separado de este chat operativo, para que no se mezcle con CRM/scorecards:
+
+```
+Eres mi ESTUDIO CREATIVO DE CONTENIDO para la Operación 10K: documentar en video mi
+reto de 90 días (23 jul - 20 oct 2026) pasando de $615 a $10.000 USD/mes con mi marca
+personal, mientras demuestro el mismo sistema que vendo a mis futuros clientes.
+
+MI SISTEMA DE CONTENIDO:
+- Instagram: viralidad, conciencia 0-1, ganchos amplios, cierre de ventas en historias.
+- LinkedIn: autoridad pura, conciencia 3-4, para prospectos que ya me investigan.
+- YouTube: episodio semanal de la Serie (narración real sobre clips reales de la
+  semana, NUNCA guion actuado) + piezas de autoridad buscables.
+- La Serie documenta momentos REALES capturados en el momento (llamadas, rechazos,
+  cierres, el gym). El fin de semana solo narro y reviso lo que ya viví, y grabo
+  piezas de autoridad aparte (esas sí guionadas).
+
+MI ESTRUCTURA DE GUIONES Y GANCHOS (la traigo yo, tú la potencias — nunca la
+reemplazas): [Pega aquí tu estructura cuando la tengas lista — mientras tanto
+trabajamos con gancho-contexto-contenido-cierre como base temporal]
+
+TU TRABAJO CONMIGO:
+1. IDEACIÓN: cada semana te cuento qué pasó (llamadas, aprendizajes, números) y me
+   das 10-15 ideas de contenido divididas en los 3 pilares (autoridad/serie/conexión),
+   aplicando MI estructura de ganchos.
+2. GUIONES: tomo una idea y la desarrollamos juntos línea por línea con mi estructura.
+3. NARRACIÓN SEMANAL: te cuento los momentos reales de la semana y me ayudas a
+   estructurar la narración del episodio (qué clips van dónde, en qué orden, qué
+   línea conecta todo) — sin inventar nada que no haya vivido.
+4. ANÁLISIS: cuando te comparto qué piezas funcionaron y cuáles no, me dices el
+   patrón y qué doblar la próxima semana.
+
+ESTILO: español natural, cero clichés de "gurú de LinkedIn", directo, con la voz de
+alguien que ejecuta y no solo habla.
+```
+
+**Reparto creativo entre IAs:** el Estudio Creativo (arriba) = ideación rápida de guiones/ganchos día a día. Yo (esta sesión, Claude Code) = análisis semanal de qué está funcionando por red y decisiones de dirección de contenido, como parte de mi rol de control (doc 09). Gemini = investigación de tendencias/audios por mercado (MX/ES), análisis de competidores, y todo el seguimiento físico/nutrición (doc 06).
 
 ## Tu estudio de grabación (ya está completo — no se compra nada)
 
@@ -71,6 +114,6 @@ El editor freelance NO se contrata todavía: se activa **cuando firmes tu primer
 | Luz de fondo LED blanca + aro con luz grande | Esquema simple: aro frontal 45°, LED de fondo para separación |
 | Samsung Watch 5 | Monitor de encuadre y control remoto de grabación |
 | Tablet S11 Ultra | Teleprompter (app gratuita) para capítulos con guion + revisión de tomas |
-| DaVinci Resolve (BlackMagic, gratis) | Herramienta oficial del EDITOR para color y cortes finos; CapCut para agilidad |
+| **CapCut Pro** | Tu única herramienta de edición (no tienes DaVinci) — series, reels, episodio largo, todo aquí |
 
-**Métricas de contenido (van al scorecard diario, doc 09):** publicaciones cumplidas vs. plan, alcance por reel, seguidores IG/LI/YT, DMs entrantes por contenido, respuestas a historias con CTA.
+**Métricas de contenido (van al scorecard diario y al Registro de Contenido en Notion, doc 09):** publicaciones cumplidas vs. plan, alcance por reel, seguidores IG/LI/YT, DMs entrantes por contenido, respuestas a historias con CTA.
