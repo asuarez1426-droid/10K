@@ -7,7 +7,7 @@
 | Ritmo | Qué pasa |
 |---|---|
 | **Diario (tú, 3 min)** | Llenas el scorecard diario en Notion al cerrar el día (base de datos ya creada — solo números) |
-| **Dominical (yo, automático)** | Tengo una revisión programada cada domingo: leo tu Notion (CRM + scorecards) y tu Trello, calculo las tasas, aplico las reglas de pivote y te entrego: diagnóstico + las decisiones de la semana + el ajuste único. Sin que tengas que pedirlo |
+| **Dominical (yo, automático)** | Tengo una revisión programada cada domingo: leo tu Notion (CRM + scorecards + 📈 Registro de Contenido) y tu Trello, calculo las tasas, aplico las reglas de pivote y te entrego: diagnóstico + decisiones de la semana + el ajuste único + **el análisis de contenido por red social** (qué reels escalaron y por qué, qué ganchos convierten en LinkedIn, tendencia de la serie en YouTube, y qué formato doblar la próxima semana). Sin que tengas que pedirlo |
 | **Cuando quieras (tú)** | Me escribes en el chat con cualquier dato/duda/borrador y decido en el momento: ángulos de contenido, respuestas a objeciones, prioridades del día |
 | **Mensual (yo)** | Revisión profunda: ruta realista vs. estirada, desbloqueos del doc 08, dirección de contenido por plataforma, delegaciones (¿toca contratar ya?, doc 10) |
 
@@ -26,6 +26,10 @@ Se llena en la base de datos de Notion "📊 Scorecard diario" (una fila por dí
 **Cuerpo y mente:** entreno (ME/DE/fútbol/descanso) · peso (si toca) · horas de sueño · journaling AM/PM (sí/no) · visualización (sí/no) · autohipnosis (sí/no)
 
 **Cierre:** energía del día (1-5) · nota libre (qué pasó, qué aprendiste — una línea)
+
+## 📈 Registro de Contenido (base aparte en Notion — alimenta mi análisis semanal)
+
+Cada pieza publicada = una fila (30 segundos al publicarla; las métricas las actualizas 24-48h después o el domingo antes de mi revisión): red, formato, pilar, nº de capítulo si es de la serie, el gancho textual, link, y sus números (alcance/views, likes, comentarios, compartidos, guardados, DMs generados, seguidores ganados ese día). **Con esa base yo saco cada domingo el análisis por red social: qué gancho/formato/tema está escalando, qué está muerto, y hacia dónde llevar el contenido de la semana en IG, LinkedIn y YouTube.** Sin registro de piezas no hay análisis de contenido — misma regla que el scorecard.
 
 ## Tasas que calculo cada domingo
 

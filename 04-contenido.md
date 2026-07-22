@@ -6,18 +6,26 @@
 
 **Por qué funciona para ti:** (1) el formato reto/documental es el de mayor retención en IG/YouTube; (2) cada capítulo demuestra tu experticia aplicándola EN TI (la demo del servicio); (3) crea seguimiento episódico — la gente vuelve a ver cómo vas; (4) los números reales (aunque pequeños al inicio) son tu diferenciador contra los gurús de humo.
 
-**Estructura de la serie:**
+**La serie ARRANCA EL DÍA 1 DEL RETO (22 de julio), no el día 60.** El capítulo 1 es el anuncio del reto: las metas, los números de partida (los $615, los 19 seguidores — sin esconder nada) y la promesa de documentarlo todo. La serie sin el principio no tiene arco — y el "antes" es lo que hace épico el "después".
 
-- **Cadencia:** 2-3 capítulos/semana (reel IG + YouTube; el corte largo semanal puede ir a YouTube como episodio de 5-8 min).
-- **Formato de capítulo (reel):** gancho con el número de la semana → qué hice estos días (acción real: prospección, llamadas, cierres, fallos) → la lección/técnica mostrada con experticia → cliffhanger del próximo movimiento.
-- **Hitos = capítulos especiales:** primer cliente, primera llamada perdida dolorosa, día 30, primer pago MX/ES, día 90. Los fracasos se publican igual: son los capítulos de más confianza.
-- **En cada capítulo enseñas UNA técnica real** (cómo armé mi embudo de perfil, cómo encontré 100 prospectos en 90 min…) — así la serie es autoridad, no solo vlog.
+**Estructura semanal de la serie (así se organiza en 2-3 capítulos/semana):**
+
+| Pieza | Cadencia | Formato |
+|---|---|---|
+| **Episodio semanal LARGO** → YouTube | 1/semana (grabado en el batch del sábado, publicado dom/lun) | 5-8 min: "Semana N del reto" — resumen con números reales de la semana, la lección grande, qué viene. **Este es el hilo completo de la serie: quien llegue tarde, se pone al día en YouTube** |
+| **Capítulos cortos** → Reels IG (+ Shorts) | 2/semana entre semana | 30-60 seg: UN momento de la semana ("Día 9: primera llamada de venta", "Me ignoraron 40 veces esta semana — esto aprendí"). Numerados por día del reto |
+| **El crudo diario** → Stories IG | Diario | El proceso sin editar: pantalla del CRM, camino al gym, la nota de voz del carro. Alimenta la secuencia de cierre en historias |
+
+- **Numeración:** los episodios de YouTube van por semana (Cap 1, Cap 2…); los reels por día del reto ("Día 14 de 90") — así la gente sabe siempre dónde está la historia.
+- **Hitos = capítulos especiales fuera de cadencia:** primer cliente, primer pago de MX/ES, día 30, el día que algo salga mal de verdad. Los fracasos se publican igual: son los capítulos de más confianza.
+- **Cada capítulo enseña UNA técnica real** (cómo armé mi embudo de perfil, cómo saqué 100 prospectos en 90 min…) — la serie es autoridad, no solo vlog.
+- **Materia prima sin esfuerzo extra:** los clips del proceso se graban EN el momento (15-30 seg con el S23 mientras trabajas); el batch del sábado solo graba las piezas habladas. La serie no te añade horas — documenta las que ya vives.
 
 ## Estrategia por nivel de conciencia (tu regla #12)
 
 | Plataforma | Nivel de conciencia | Qué se publica | Objetivo |
 |---|---|---|---|
-| **Instagram** | **Conciencia 0-1** (no saben que tienen el problema) | Reels virales con ganchos amplios + carruseles compartibles + la Serie | ALCANCE y seguidores. Viralidad siempre: ganchos masivos, temas amplios (dinero, disciplina, el reto) |
+| **Instagram** | **Conciencia 0-1** (no saben que tienen el problema) | Reels virales con ganchos amplios + la Serie. **Sin carruseles por ahora** (tu punto 18: no tienes metodología viral de carruseles — no se improvisa formato en pleno reto; cuando quieras, la construimos juntos y se añade) | ALCANCE y seguidores. Viralidad siempre: ganchos masivos, temas amplios (dinero, disciplina, el reto) |
 | **Instagram Stories** | Audiencia caliente | Secuencias de venta: detrás de cámaras, resultados, testimonios, CTA directo a DM | **CIERRE. Las ventas en IG se cierran en historias, no en reels** |
 | **LinkedIn** | **Conciencia 3-4** (conocen el problema y las soluciones) | Autoridad pura: sistemas, casos, desgloses, opiniones de industria, números de la serie con lectura ejecutiva | Que el prospecto que revisa tu perfil diga "este sabe". Alimenta la prospección directa |
 | **YouTube** | Búsqueda + serie | Episodios largos de la serie + piezas de autoridad buscables | Activo de largo plazo; crece solo con los recortes |
@@ -32,14 +40,17 @@
 | Fin de semana | Stories del batch (detrás de cámaras) | — | 1 episodio largo (opcional desde semana 3-4) |
 | Siempre | 20 min/día de interacción con cuentas del nicho (también es prospección pasiva) | | |
 
-## Flujo de producción con editor desde la fase 1
+## Flujo de producción (SIN editor hasta el primer cliente — decisión tuya, puntos 4 y 27)
+
+El editor freelance NO se contrata todavía: se activa **cuando firmes tu primer cliente de agencia**, se paga del retainer de ese cliente y edita SOLO el contenido de tus clientes (tu contenido lo pasas al editor más adelante, cuando el flujo lo pague). Hasta entonces, tú editas — con este flujo para que no te coma:
 
 | Momento | Qué pasa |
 |---|---|
-| **Sábado tarde O domingo** (según tu brief, doc 00) | **Batch de grabación (3-4h):** capítulos de la serie + videos de autoridad + brutos para carruseles. Ideación previa con Claude (yo) |
-| **Domingo noche** | Subes brutos organizados a Drive (carpeta por video, con guion) + brief al editor |
-| **Lunes** | **Día de edición del editor:** tus videos de la semana + los de tu cliente. Tú NO editas — haces QA con checklist (subtítulos correctos, gancho en los 2 primeros seg, cortes, CTA) |
-| **Martes** | Todo programado para la semana. CapCut queda solo para retoques de emergencia tuyos |
+| **Sábado 8:00-11:30** | **Batch de grabación:** episodio largo de la semana + 2 reels-capítulo + piezas de autoridad. Ideación previa conmigo (Claude) el viernes en el chat |
+| **Entre semana (en el momento)** | Clips crudos del proceso con el S23 (15-30 seg) — sin edición, van a stories directo |
+| **Lunes 8:15-9:45** | **Tu bloque de edición semanal (90 min máx):** plantilla fija de CapCut (subtítulos auto revisados + cortes + zoom en frases clave, cero efectos) = 15-20 min por reel + el episodio de YT en DaVinci con plantilla. Si no cabe en 90 min, se publica más simple — hecho > perfecto |
+| **Martes** | Todo programado. El resto de la semana no se edita nada |
+| **Al firmar el cliente 1** | Editor freelance por video (20-40K/video) toma la edición del CLIENTE desde el día uno de ese contrato. Tu QA: 15 min con checklist |
 
 ## Tus guiones, tu estructura (regla #14)
 

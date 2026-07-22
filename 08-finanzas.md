@@ -12,9 +12,10 @@ Con esto se produce contenido al nivel que la operación necesita hasta bien pas
 
 | Concepto | Costo | Cuándo |
 |---|---|---|
-| Editor freelance (pago por video) | 20-40K COP/video ≈ 300-600K/mes al ritmo del batch | Desde la semana 1-2. Es la delegación que te destraba (regla #6) |
-| Sales Navigator | $0 (trial 30 días) → luego ~400K COP/mes | Trial desde semana 2; se renueva SOLO si ya hay facturación que lo pague |
-| Waalaxy | $0 (trial) → plan según resultados | Igual: el primer cliente paga las herramientas — esa es la estrategia declarada |
+| **Coworking cerca al trabajo de tu novia** | ~300-600K COP/mes (o pases por día) | **Aprobado desde YA** — te devuelve ~2h de trayectos diarios: es la compra de tiempo más barata de toda la operación. Salas para llamadas de venta: se pagan sin dudar (tu regla 17) |
+| Editor freelance (pago por video) | 20-40K COP/video | **Al firmar el primer cliente de agencia** (tu decisión, punto 27): se paga del retainer y edita solo contenido de clientes. Antes de eso: $0, editas tú |
+| Sales Navigator | $0 (trial 30 días, activado el día 8) → luego ~400K COP/mes | Se renueva SOLO si ya hay facturación que lo pague |
+| Waalaxy | $0 (trial 14 días, activado el día 8 — cubre el blitz exacto) → plan según resultados | El primer cliente paga las herramientas — esa es la estrategia declarada |
 | Skool | ~$99 USD/mes | Solo al lanzar la comunidad (mes 3+); se paga con 3 miembros |
 
 ## Regla de reparto de cada peso facturado

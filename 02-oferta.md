@@ -35,15 +35,14 @@ Contrato mínimo 3 meses. **Garantía:** sistema publicando + embudo activo + cr
 
 **Nota de matemática:** 4 clientes MX/ES a $1.000 + 2 CO a 3.5M = ~23M COP. El resto lo ponen el Sprint y la comunidad. Por eso los mercados de mayor ticket van primero en la prospección.
 
-## Equipo desde la fase 1: editor freelance (semana 1-2)
+## Editor freelance: se activa CON el primer cliente (ajuste tuyo — puntos 4 y 27)
 
-**No esperas a facturar para delegar la edición — la edición es lo primero que te enreda.**
+Todavía no puedes pagarlo, así que la regla queda así:
 
-- **Modelo:** pago por video editado (20-40K COP/video con editores junior LATAM; en volumen, paquete mensual 800K-1.5M).
-- **Dónde:** comunidades de editores en Discord/Facebook/X, o tu propia red. Prueba pagada de 3 videos antes de comprometer volumen.
-- **Flujo:** tú grabas en batch (doc 04) → subes brutos a Drive el domingo noche → editor entrega L-M → tú das QA con checklist → programado.
-- **Financiación:** sale del flujo actual (es la única inversión pre-facturación autorizada, doc 08). Con el primer cliente cerrado, el costo del editor queda cubierto ~10 veces.
-- Al crecer: ese mismo editor toma también los videos de tus clientes (el margen del retainer lo paga de sobra).
+- **Disparador:** firmas tu primer cliente de agencia → contratas editor por video ESA misma semana. El costo (20-40K COP/video, editores junior LATAM) sale del retainer del cliente — el margen lo cubre de sobra.
+- **Alcance inicial:** el editor edita SOLO el contenido de tus clientes (el entregable prometido no puede depender de tus madrugadas). Tu contenido personal sigue en tus manos con el flujo ligero del doc 04 (plantilla CapCut, 90 min los lunes).
+- **Upgrade:** cuando haya 2-3 clientes o superes 10M/mes, el editor pasa a paquete mensual y toma TAMBIÉN tu contenido y la serie.
+- **Prepara desde ya (gratis):** identifica 3-5 editores candidatos en comunidades de Discord/Facebook/X y ten el brief de prueba listo (3 videos pagados) — para que el día que firmes el cliente, el editor arranque en 48h y no te quedes enredado justo cuando más entrega tienes.
 
 ## Oferta medium ticket: "Sprint de Posicionamiento" (21 días) — versión con más valor
 

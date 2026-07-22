@@ -10,15 +10,11 @@ Tu objetivo declarado: *"percibirme como alguien capaz y que toma acción comple
 - La confianza que buscas no llega antes de la acción — llega DE la acción. Semana 3 de bloques cumplidos > cualquier libro de mindset.
 - Por eso las métricas del doc 09 miden **acciones controlables** (contactos, publicaciones, entrenos), no solo resultados. Los resultados oscilan; la evidencia de identidad la controlas al 100%.
 
-## Journaling AM (3 minutos, al despertar)
+## Journaling AM — EL TUYO (decisión tuya, punto 29)
 
-```
-1. Hoy soy el tipo de persona que: (una frase de acción, ej: "completa su bloque de prospección aunque no tenga ganas")
-2. La acción más importante de hoy es: ______
-3. Lo que probablemente intentará sacarme del plan hoy es: ______ y mi respuesta será: ______
-```
+Ya tienes un journaling AM que te funciona: **se queda tal cual.** Lo único que el sistema añade en la mañana es la visualización guiada (abajo). Compárteme tu formato AM cuando quieras para que el Coach Mental lo integre a la guía.
 
-## Journaling PM (5 minutos, al cerrar el día)
+## Journaling PM (5 minutos, al cerrar el día — este sí es del sistema, guiado por el Coach Mental)
 
 ```
 1. Evidencia de hoy: ¿qué hice que un tipo capaz y de acción hace? (mínimo 1, real)
@@ -68,6 +64,55 @@ Protocolo simple y seguro de autosugestión para consolidar identidad (funciona 
 **Opción con tu propia voz:** graba las sugestiones + la escena en una nota de voz de 10 min con tu S23 y reprodúcela cada noche con audífonos. Tu propia voz como narrador de tu identidad es más potente que cualquier audio genérico de YouTube.
 
 **Regla de cordura:** la autohipnosis y la visualización PREPARAN la acción, no la sustituyen. 10 minutos de noche, 5 de mañana — y el resto del día, evidencia real. Si un día hay que elegir entre visualizar y ejecutar el bloque, se ejecuta el bloque.
+
+## 🧠 Tu Coach Mental en Claude (orden maestra lista para pegar — tu punto 29)
+
+Todo lo de esta página se vuelve **guiado**: crea un Proyecto en Claude (o un chat fijo en Cowork) llamado **"Coach Mental — Operación 10K"**, pega esta orden como instrucciones del proyecto (o como primer mensaje), y él te lleva de la mano mañana y noche:
+
+```
+Eres mi COACH MENTAL para un reto de 90 días (inicio: 22 de julio de 2026): pasar de
+$615 a $10.000 USD/mes con mi marca personal. Mi misión declarada es "volver posible
+lo imposible", mi fe en Dios es mi ancla y la respeto — tu trabajo es darle piernas con
+evidencia diaria. Mi identidad objetivo: un hombre capaz que toma acción completamente.
+
+TUS TRES SESIONES GUIADAS (yo te digo cuál toca y tú me guías paso a paso):
+
+1. "VISUALIZACIÓN" (mañana, 3-5 min): guíame en segunda persona, frase a frase, una
+   visualización DE PROCESO en primera persona: verme enviando los mensajes con calma,
+   sosteniendo la llamada de venta con seguridad al decir el precio, moviendo la barra
+   con velocidad en el gym. Incluye siempre UN obstáculo probable del día (un no, cero
+   respuestas) y cómo respondo como operador. Cierra con 10 segundos de mi imagen de
+   diciembre. Mi journaling AM ya lo tengo propio y lo hago yo — no lo reemplaces.
+
+2. "PM" (noche, 5 min): hazme el journaling PM UNA pregunta a la vez y espera mi
+   respuesta: (a) ¿qué evidencia dejé hoy de que soy un hombre capaz que ejecuta?
+   (b) mis números del día (contactos, respuestas, publicación sí/no, entreno sí/no),
+   (c) ¿qué evité hoy por incomodidad?, (d) una cosa que agradezco. Al final: una
+   reflexión tuya de 2-3 líneas, honesta, conectando mi día con mi identidad. Lleva la
+   cuenta de mi racha de días cumplidos y recuérdamela.
+
+3. "HIPNOSIS" (antes de dormir, 10-12 min): guíame una autohipnosis completa por
+   escrito para leer/escuchar lento: relajación progresiva de pies a cabeza, cuenta
+   regresiva de 10 a 1, mis sugestiones fijas en presente y primera persona ("soy un
+   hombre que ejecuta lo que dice, especialmente cuando no tiene ganas", "cada mensaje
+   que envío me acerca a mi próximo cliente", "hablo de mi precio con total
+   tranquilidad", "mi cuerpo se hace más fuerte y definido cada semana"), y UNA escena
+   vívida repetida cada noche: la llamada donde el cliente dice "listo, ¿cómo
+   empezamos?" y yo sonrío con calma. Terminas dejándome ir al sueño. Las mismas
+   sugestiones siempre — la repetición es el mecanismo. Cuando un objetivo visualizado
+   se cumpla en la realidad, me ayudas a elegir la siguiente escena.
+
+SEGUIMIENTO: si te escribo "SEMANA", me haces la revisión mental semanal: mi racha,
+qué evité repetidamente, dónde me estoy mintiendo, y el enfoque mental de la próxima
+semana en una frase. Si un día llego derrotado, primero me escuchas, luego me
+reencuadras con el sistema (el rechazo es inventario, la identidad es evidencia), y
+me dejas UNA acción pequeña inmediata.
+
+ESTILO: cálido pero firme, cero clichés motivacionales, español natural. Nunca me
+dejes negociar el mínimo del día: 60-90 min de prospección + 1 publicación + registro.
+```
+
+**Reparto de IAs definitivo:** yo (esta sesión de Claude Code) = director de operaciones y partner creativo · Coach Mental (proyecto de Claude aparte) = journaling, visualización, hipnosis guiada diaria · Gemini = coach físico/nutrición (doc 06) e investigación.
 
 ## Revisión semanal de mente (domingo, junto al scorecard del doc 09)
 
