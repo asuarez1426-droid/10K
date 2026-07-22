@@ -23,9 +23,10 @@ Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos
 | Quién | Rol |
 |---|---|
 | **Tú** | Las manos y la cara: grabas, envías, llamas, entrenas, registras (3 min/día) |
-| **Claude (yo)** | **Director de operaciones:** mido los scorecards, tomo las decisiones (prospección, contenido IG/LinkedIn/YT, procesos, delegaciones), dirijo Notion y Trello, y hago la revisión dominical automática. También: tu partner creativo de contenido |
-| **Gemini** | Coach físico y nutricional (multimodal, con tus fotos) + investigación de mercados y análisis |
-| **Editor freelance** | Desde la fase 1: edita tus videos y los de tus clientes cada lunes |
+| **Claude (yo)** | **Director de operaciones:** mido los scorecards, tomo las decisiones (prospección, procesos, delegaciones), dirijo Notion y Trello, hago la revisión dominical automática, y el análisis semanal de qué está funcionando por red |
+| **Estudio Creativo** (Proyecto de Claude aparte) | Tu director creativo día a día: ideación, guiones, ganchos — sobre tu Playbook de Contenido (doc 04) |
+| **2 chats de Gemini** | Coach de Nutrición y Coach de Entrenamiento por separado (multimodal, con tus fotos) — doc 06 |
+| **Editor freelance** | Se activa el día que firmes tu primer cliente de agencia; se paga de su retainer y edita solo contenido de clientes (doc 02) |
 
 ## La matemática
 
@@ -35,13 +36,13 @@ $10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (p
 
 | Documento | Qué contiene |
 |---|---|
-| [00 — Brief de rutina](00-brief-rutina.md) | ✅ Respondido — la rutina definitiva vive en el doc 05 v3 |
+| [00 — Brief de rutina](00-brief-rutina.md) | ✅ Respondido — la rutina definitiva vive en el doc 05 v4 |
 | [01 — Diagnóstico y metas](01-diagnostico-y-metas.md) | Dónde estás, a dónde vas, mes a mes |
-| [02 — Oferta](02-oferta.md) | Escalera v2: agencia con embudo de perfil · Sprint de Posicionamiento · comunidad Skool. Editor desde fase 1 |
-| [03 — Prospección 800](03-prospeccion-800.md) | ICPs A-D (LinkedIn e IG) · pozos de sourcing · Sales Nav + Waalaxy · regla de aceleración |
-| [04 — Contenido](04-contenido.md) | **La Serie de 90 Días** · IG conciencia 0 + cierre en historias · LinkedIn autoridad · YouTube |
-| [05 — Rutina diaria](05-rutina-diaria.md) | ✅ v3 DEFINITIVA con tus horarios reales + el Día Mínimo Viable |
-| [06 — Físico](06-fisico.md) | Conjugado + pliometría + anaeróbico + nucleus overload + fútbol · Gemini como coach |
+| [02 — Oferta](02-oferta.md) | v4: **Contenido Viral con Propósito** (Done-For-You, tu experticia real) · Programa 9 Semanas · comunidad Skool. Editor con el primer cliente |
+| [03 — Prospección 800](03-prospeccion-800.md) | ICPs A-D (LinkedIn e IG) · pozos de sourcing · Sales Nav + Waalaxy · calentamiento + blitz de 21 días |
+| [04 — Contenido](04-contenido.md) | **La Serie de 90 Días** · IG conciencia 0 + cierre en historias · LinkedIn autoridad · YouTube · onboarding del Estudio Creativo |
+| [05 — Rutina diaria](05-rutina-diaria.md) | ✅ v4 DEFINITIVA con tus horarios reales + el Día Mínimo Viable |
+| [06 — Físico](06-fisico.md) | Conjugado + pliometría + anaeróbico + nucleus overload + fútbol · 2 coaches de Gemini separados |
 | [07 — Mente](07-mente.md) | Identidad, journaling, **visualización y autohipnosis**, manejo del rechazo |
 | [08 — Finanzas](08-finanzas.md) | Estudio ya completo ($0 en equipos) · **apartamento primero** · FX6 cancelada · desbloqueos |
 | [09 — Métricas y control](09-metricas-y-revision.md) | **Yo llevo el tablero:** scorecard diario ampliado, revisión dominical automática, reglas de pivote |
