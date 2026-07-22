@@ -29,7 +29,7 @@ Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos
 
 ## La matemática
 
-$10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (por eso el mercado es todo el mundo hispano, priorizando México y España) · **Los 800 en 21 días:** calentamiento días 1-7 (23-29 jul, manual) → blitz días 8-21 (30 jul-12 ago: Waalaxy pagado ~$15 ~300 LI + Sales Nav trial ~100 + IG manual ~400) → cosecha días 22-90 · Funnel: 10-20% respuesta → 25-40 llamadas → 10-20% cierre. **La oferta ya no vende "contenido" — vende conversaciones comerciales y clientes verificables** (doc 02).
+$10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (por eso el mercado es todo el mundo hispano, priorizando México y España) · **Los 800 en 21 días:** calentamiento días 1-7 (23-29 jul, manual) → blitz días 8-21 (30 jul-12 ago: Waalaxy pagado ~$15 ~300 LI + Sales Nav trial ~100 + IG manual ~400) → cosecha días 22-90 · Funnel: 10-20% respuesta → 25-40 llamadas → 10-20% cierre. **Importante — dos motores distintos, no confundir:** los 800 son TU prospección para conseguir clientes (doc 03); lo que le VENDES al cliente una vez firma es contenido viral con propósito + embudo de historias + acceso a su cuenta, con TU experticia real (doc 02) — nunca prospección como servicio.
 
 ## Mapa del sistema
 

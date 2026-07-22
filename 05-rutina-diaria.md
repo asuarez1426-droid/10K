@@ -24,7 +24,8 @@ Si cumpliste el DMV, el día NO fue un fracaso — fue un día mínimo. La racha
 | 6:15-7:35 | **Moto** (llevarla, ida y vuelta). Ideas por nota de voz antes de salir o al llegar — evita el celular en movimiento |
 | 7:35-8:05 | Desayuno |
 | 8:05-8:45 | 🎓 **TESIS (40 min, bloque fijo diario)** — aquí porque la mente aún está fresca y así nunca se posterga al final del día, donde se cae fácil |
-| 8:50-12:00 | **TRABAJO PROFUNDO:** entrega cliente actual + conversaciones de prospección + edición de contenido (lunes, ver doc 04) + llamadas con España (su tarde = tu mañana) |
+| 8:45-9:15 | 📚 **Mentoría pregrabada de Víctor Hera (30 min, bloque fijo diario)** — igual que la tesis, va temprano para que nunca se caiga |
+| 9:15-12:00 | **TRABAJO PROFUNDO:** entrega cliente actual + conversaciones de prospección + edición de contenido (lunes, ver doc 04) + llamadas con España (su tarde = tu mañana) |
 | 12:00-12:40 | Almuerzo |
 | 12:45-13:45 | 🔒 **PROSPECCIÓN #2 (60 min):** seguimientos del CRM + CRM al día + dejar listos los envíos de mañana |
 | 13:50-14:15 | Buffer / llamadas |
@@ -39,12 +40,14 @@ Si cumpliste el DMV, el día NO fue un fracaso — fue un día mínimo. La racha
 
 **Primera semana (transición):** mientras defines con tu novia los días fijos de gym, entrena a la hora que el día lo permita — no dejes que la indefinición te haga saltarte el entreno.
 
+**Mentorías EN VIVO de Víctor Hera (tarde):** estas NO ocupan bloque propio — las escuchas de fondo mientras trabajas o te transportas por la tarde (con audífono, sin que desplace ningún bloque 🔒 ni el gym). Es aprendizaje pasivo, no un compromiso de agenda.
+
 ## Sábado — rediseñado con Comfenalco
 
 | Hora | Bloque |
 |---|---|
 | 6:15 | Sales en moto (la llevas) |
-| 7:00-11:30 | **Ventana de Comfenalco (~4h30):** tenis con tu novia (tiempo variable) + el resto en coworking — aquí van: sourcing pesado de prospectos (2-3h en semanas de calentamiento/blitz, doc 03) + seguimientos + tus 40 min de tesis |
+| 7:00-11:30 | **Ventana de Comfenalco (~4h30):** tenis con tu novia (tiempo variable) + el resto en coworking — aquí van: sourcing pesado de prospectos (2-3h en semanas de calentamiento/blitz, doc 03) + seguimientos + tus 40 min de tesis + 30 min de mentoría pregrabada |
 | 11:30 | La recoges |
 | 12:00-12:40 | Llegada a casa + almuerzo |
 | 13:00-15:30 | 📦 **Bloque de narración/edición de la serie** (ver doc 04: revisas los clips reales de la semana, grabas la narración, y las piezas de autoridad que sí van guionadas) |
@@ -54,13 +57,13 @@ DMV del sábado: sourcing hecho en Comfenalco + tesis. La narración puede corre
 
 ## Domingo
 
-Mañana libre/descanso · tesis 40 min en algún punto del día · ⚽ fútbol en la tarde · 7:00 PM llega mi revisión dominical automática → la lees y respondes (15 min) → semana planeada en Trello · scorecard · autohipnosis · a dormir. Si el bloque de narración de la serie no se hizo el sábado, se hace aquí. DMV del domingo: leer mi revisión y responder (15 min).
+Mañana libre/descanso · tesis 40 min + mentoría pregrabada 30 min en algún punto del día · ⚽ fútbol en la tarde · 7:00 PM llega mi revisión dominical automática → la lees y respondes (15 min) → semana planeada en Trello · scorecard · autohipnosis · a dormir. Si el bloque de narración de la serie no se hizo el sábado, se hace aquí. DMV del domingo: leer mi revisión y responder (15 min).
 
 ## Reglas vivas
 
 1. La prospección #1 jamás se negocia — primera hora del día, tu mejor energía.
 2. Llamadas de venta: a la hora que haga falta mientras haya posibilidad realista de cerrar (tu regla 16). Después de $5K/mes, delimitamos horario. Si toca pagar una sala de coworking para una llamada puntual, se paga aparte del presupuesto mensual de 150K.
 3. Los favores de tus papás viven en el buffer de después del gym — nunca dentro de los bloques 🔒.
-4. La tesis (40 min) es innegociable TODOS los días, incluidos sábado y domingo.
-5. Un solo negocio, cero oportunidades nuevas hasta el día 90, máx 45 min/día de consumo educativo.
+4. La tesis (40 min) y la mentoría pregrabada de Víctor Hera (30 min) son innegociables TODOS los días, incluidos sábado y domingo. Las mentorías en vivo de la tarde son aparte: van de fondo, nunca desplazan un bloque.
+5. Un solo negocio, cero oportunidades nuevas hasta el día 90. Fuera de tesis + mentoría (que son inversión estructurada en tu formación), cero consumo educativo casual adicional.
 6. El transporte no es tiempo muerto: es tu estudio de ideación (notas de voz, con cuidado en la moto).
