@@ -61,9 +61,9 @@ El editor freelance NO se contrata todavía: se activa **cuando firmes tu primer
 | **Martes** | Todo programado. El resto de la semana no se edita nada |
 | **Al firmar el cliente 1** | Editor freelance por video (20-40K/video) toma la edición del CLIENTE. Tu QA: 15 min con checklist |
 
-## Tus guiones, tu estructura (regla #14)
+## Tu conocimiento y estructura ya existentes (regla #14 — ahora se potencian en el Estudio Creativo, no aquí)
 
-**Tú ya tienes tu estructura de guiones, ganchos y desarrollo de ideas — el sistema la respeta y la potencia, no la reemplaza.** Compárteme tu estructura en el chat y la convierto en plantilla oficial del sistema.
+**Tú ya tienes tu estructura de guiones, ganchos, ejemplos de contenido que ha funcionado, y aprendizajes de mentorías (Víctor Hera y otras).** Ese trabajo de adaptar y potenciar todo eso ya no pasa por este chat operativo — pasa directamente en tu Estudio Creativo (abajo), que trae un protocolo de onboarding integrado en su primera sesión para recibir y sintetizar todo ese material en un Playbook de Contenido permanente. Antes de grabar tu primer capítulo, vale la pena correr ese onboarding.
 
 ## 🎬 Tu Estudio Creativo en Claude (orden maestra lista para pegar — corregida, tu punto sobre alcance)
 
@@ -86,6 +86,24 @@ MI BASE DE CONOCIMIENTO: tengo información guardada (aprendizajes, plantillas, 
 de mentorías como la de Víctor Hera) que te iré pegando con el tiempo. Cada vez que
 te comparta algo, intégralo como referencia permanente para nuestras ideaciones
 futuras — no lo trates como un dato suelto de una sola vez.
+
+TU PRIMERA TAREA — ONBOARDING DE MI CONOCIMIENTO (antes de idear nada nuevo):
+Quiero volcarte todo lo que ya sé y tengo aprendido, para que lo adaptes y lo
+potencies conmigo — este trabajo ya no lo hago con otro asistente, lo hacemos aquí.
+Guíame UNA categoría a la vez, pidiéndome que te pegue el material y haciéndome
+preguntas para entenderlo a fondo antes de pasar a la siguiente:
+1. Mi estructura de guiones, ganchos y desarrollo de ideas (la que ya uso).
+2. Ejemplos de mis mejores contenidos/virales (propios o de referencia que estudio)
+   — con números si los tengo (vistas, alcance, comentarios) y por qué creo que
+   funcionaron.
+3. Aprendizajes y frameworks de mentorías que sigo (Víctor Hera y otras).
+4. Cualquier plantilla, proceso de ideación o caso de estudio propio que tenga
+   guardado de clientes o proyectos anteriores.
+Con cada categoría: resume lo que entendiste, señala patrones o principios que veas
+repetirse entre lo que te comparto, y pregúntame si algo necesita más contexto. Al
+terminar las 4 categorías, constrúyeme un "Playbook de Contenido" corto que
+sintetice todo — esa síntesis se vuelve nuestra referencia permanente para cada
+ideación futura, tanto para mi marca como luego para mis clientes.
 
 MI SISTEMA DE CONTENIDO (para mi marca personal, ahora):
 - Instagram: viralidad con propósito, conciencia 0-1, cierre de ventas en historias.

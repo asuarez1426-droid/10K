@@ -69,5 +69,5 @@ Yo (esta sesión) sigo siendo el director de operaciones — mido, decido y hago
 ## ⚠️ Lo que falta de ti (responde en el chat cuando puedas)
 
 1. **Tu 1RM real** (banca, sentadilla) — arranca el briefing con el Chat 2 de Gemini (doc 06) y compárteme el resumen; sin esto no sabemos si el 15 de agosto es realista.
-2. **Tu estructura de guiones y ganchos** — para volverla la plantilla oficial del sistema (pégala en el Estudio Creativo, doc 04).
+2. **Corre el onboarding del Estudio Creativo (doc 04) — idealmente hoy, antes del capítulo 1:** vuelca ahí tu estructura de guiones, ejemplos de contenido viral, aprendizajes de mentorías (Víctor Hera y otras) y casos propios. El proyecto los sintetiza en tu Playbook de Contenido permanente. Esta adaptación ya no se hace conmigo — se hace ahí.
 3. Confirmar con tu novia los **días fijos de gym** (mientras tanto: entrena a la hora que el día lo permita).
