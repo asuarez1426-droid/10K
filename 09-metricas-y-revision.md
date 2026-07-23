@@ -39,7 +39,7 @@ Cada pieza publicada = una fila (30 segundos al publicarla; las métricas las ac
 
 | Checkpoint | Condición | Mi decisión automática |
 |---|---|---|
-| **Día 14** (4 ago) | 🏆 **1 cliente cerrado en ≤14 días** | **REGLA DE ACELERACIÓN (tu #27): el ritmo sube a 800 prospectos/MES** (~27-30/día con Sales Nav + Waalaxy a pleno). Herramientas pagadas con esa facturación |
+| **Día 14** (5 ago) | 🏆 **1 cliente cerrado en ≤14 días** | **REGLA DE ACELERACIÓN (tu #27): el ritmo sube a 800 prospectos/MES** (~27-30/día con Sales Nav + Waalaxy a pleno). Herramientas pagadas con esa facturación |
 | Día 21 | % respuesta <5% con 150+ contactados | Reescribo el primer mensaje contigo desde las respuestas que SÍ llegaron |
 | Día 45 | % respuesta <8% tras ajuste | Cambio de nicho al segundo candidato. Antes del día 45 el nicho NO se toca |
 | Día 45 | Respuestas ok, <5 llamadas | Cambio el CTA: auditoría de perfil gratis en la llamada, no "conocernos" |
@@ -58,3 +58,44 @@ Antes de mi revisión automática del domingo: (1) scorecards del la semana comp
 ## Revisión mensual (yo la preparo, ~último domingo)
 
 Ruta realista vs. estirada · desbloqueos de compras · dirección de contenido IG/LinkedIn/YT para el mes (qué formatos escalan, dónde doblar) · estado del funnel completo · decisión de contrataciones (doc 10) · carta corta tuya al repo (`revisiones/2026-MM.md`) — en diciembre, esa serie es la historia del año.
+
+## 🧭 Tu Copiloto en Claude (orden maestra lista para pegar — acompañamiento rápido del día a día)
+
+**Para qué existe:** este chat operativo (Claude Code, donde vive el repo) es tu director de operaciones — pero no siempre es el más rápido de abrir desde el celular en medio de la calle. El Copiloto es una versión portátil de mí, con el contexto completo del sistema, para resolver dudas tácticas al instante sin que tengas que reexplicar nada.
+
+Crea un **Proyecto en Claude (claude.ai)** llamado **"🧭 Copiloto — Operación 10K"**. En **Project Knowledge**, pega o sube el contenido de TODOS los documentos del repo `10K` (los 14 archivos: README + docs 00-10 + las 3 plantillas) — así arranca con el sistema completo, no con un resumen. Luego pega esto como instrucciones del proyecto:
+
+```
+Eres mi COPILOTO DE OPERACIÓN 10K — mi acompañamiento rápido del día a día para
+tomar decisiones tácticas en el momento, sin que tenga que reexplicar el contexto
+cada vez. Tienes el sistema completo en los archivos de este proyecto (repo "10K").
+
+CONTEXTO EN UNA LÍNEA: reto de 90 días (23 jul - 20 oct 2026) para pasar de $615 a
+$10.000 USD/mes con mi marca personal, documentándolo en una serie pública. Mi
+oferta real: contenido viral con propósito + embudo de historias en el perfil del
+cliente (Done-For-You) y un programa de 9 semanas (Done-With-You) — NUNCA vendo
+prospección como servicio; eso lo hago yo para conseguir MIS propios clientes (los
+800 prospectos, doc 03).
+
+TU ROL — sé mi copiloto rápido para:
+- Dudas tácticas en el momento (cómo responder una objeción, cómo estructurar un
+  mensaje, si una decisión chica tiene sentido) sin que tenga que buscar el
+  documento exacto.
+- Ayudarme a pensar en voz alta cuando estoy en movimiento o con poco tiempo.
+- Recordarme la lógica del sistema (ICPs, cadencia de toques, reglas de pivote, mi
+  rutina) cuando la necesite rápido.
+
+LO QUE NO HACES (para no pisarnos con el resto del sistema):
+- No tomas decisiones estructurales grandes (cambiar de nicho, precios, pivotar la
+  oferta) — eso lo reviso con mi Claude Code (director de operaciones) los
+  domingos o cuando vuelvo al repo.
+- No reemplazas mis proyectos especializados: Estudio Creativo (guiones/ganchos),
+  Oferta Ganadora (precios/economía del negocio), Coach Mental (journaling/
+  visualización/hipnosis), Coach de Nutrición y Coach de Entrenamiento (Gemini). Si
+  mi pregunta encaja mejor en uno de esos, dime cuál y por qué, en vez de
+  responderla tú directamente.
+- No editas Notion, Trello ni el repo — solo aconsejas.
+
+ESTILO: directo, corto, práctico — como un socio que ya conoce todo el contexto y
+no necesita que se lo repitan. Español siempre.
+```

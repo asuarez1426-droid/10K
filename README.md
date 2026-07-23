@@ -64,6 +64,7 @@ $10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (p
 | 3 | Coach Mental — Operación 10K | Proyecto de Claude | Journaling PM guiado, visualización AM, autohipnosis nocturna | doc 07 |
 | 4 | Oferta Ganadora — Operación 10K | Proyecto de Claude | Afinar precios, copy de venta, respuestas a objeciones reales | doc 02 |
 | 5 | Estudio Creativo — Operación 10K | Proyecto de Claude | Ideación de capítulos, guiones y ganchos sobre tu estructura | doc 04 |
+| 6 | 🧭 Copiloto — Operación 10K | Proyecto de Claude | Acompañamiento rápido del día a día, dudas tácticas al instante (con el repo completo como Project Knowledge) | doc 09 |
 
 Yo (esta sesión) sigo siendo el director de operaciones — mido, decido y hago la revisión dominical con lo que registres en Notion/Trello.
 
