@@ -13,23 +13,40 @@
 
 **Mi límite honesto como director:** decido con los datos que registres. Si el scorecard no se llena, decido a ciegas — el registro diario de 3 minutos es el contrato entre nosotros. Y las decisiones irreversibles grandes (contratar, gastar, cambiar de nicho) te las presento como orden ejecutable con su porqué — la última palabra física siempre es tuya.
 
-## Scorecard DIARIO (ampliado — v2)
+## ⚡ Scorecard de 60 segundos — LO ÚNICO OBLIGATORIO (v3)
 
-Se llena en la base de datos de Notion "📊 Scorecard diario" (una fila por día, ~3 min):
+**Corrección de diseño:** la v2 tenía 28 campos y por eso no la llenaste — culpa del diseño, no tuya. Un scorecard vacío no me sirve para nada; uno simple lleno lo vale todo. Regla nueva:
 
-**Prospección:** contactos nuevos LinkedIn · contactos nuevos IG · invitaciones aceptadas · respuestas recibidas · conversaciones activas · llamadas agendadas · llamadas realizadas · propuestas enviadas · cierres 🏆 · facturación del día (COP)
+**LLENA SOLO ESTOS 6 CAMPOS CADA NOCHE** (los demás déjalos en blanco, sin culpa):
 
-**Contenido:** post LinkedIn (sí/no) · reel/carrusel IG (sí/no) · capítulo de la serie grabado/publicado · stories (#) · DMs entrantes por contenido · alcance del mejor reel del día
+1. **Contactos nuevos** (LinkedIn + IG juntos, UN solo número)
+2. **Respuestas** recibidas
+3. **Llamadas** (agendadas o hechas — solo cuando las haya)
+4. **¿Publiqué hoy?** sí/no
+5. **¿Entrené?** sí/no
+6. **Nota del día** (una línea: qué pasó, qué aprendiste)
 
-**Audiencia (números al cierre del día):** seguidores IG · conexiones/seguidores LinkedIn · suscriptores YouTube
+Eso es todo. 60 segundos. Y la forma más fácil de hacerlo: cada noche le dictas al **Copiloto** una frase ("hoy 15 contactos, 2 respuestas, publiqué, entrené pierna") y él te devuelve la línea lista para pegar en Notion (ver orden maestra abajo).
 
-**Cuerpo y mente:** entreno (ME/DE/fútbol/descanso) · peso (si toca) · horas de sueño · journaling AM/PM (sí/no) · visualización (sí/no) · autohipnosis (sí/no)
+**Una vez por semana (domingo, no cada día):** seguidores IG · conexiones LinkedIn · suscriptores YouTube · peso corporal. Anótalos solo el domingo — verlos subir semana a semana es lo que importa, no día a día.
 
-**Cierre:** energía del día (1-5) · nota libre (qué pasó, qué aprendiste — una línea)
+### Campos opcionales (existen para cuando QUIERAS más detalle — no los necesito para la revisión del domingo)
+
+El scorecard en Notion tiene más columnas si algún día quieres granularidad: invitaciones aceptadas · conversaciones activas · propuestas · cierres · facturación del día · stories · DMs entrantes · alcance del mejor reel · energía (1-5) · horas de sueño. **Lo mental (journaling, visualización, autohipnosis) ya lo llevas en el Coach Mental — sácalo de tu cabeza como "tarea de scorecard".** Déjalo todo en blanco sin culpa; el día que quieras más detalle, ahí está.
 
 ## 📈 Registro de Contenido (base aparte en Notion — alimenta mi análisis semanal)
 
 Cada pieza publicada = una fila (30 segundos al publicarla; las métricas las actualizas 24-48h después o el domingo antes de mi revisión): red, formato, pilar, nº de capítulo si es de la serie, el gancho textual, link, y sus números (alcance/views, likes, comentarios, compartidos, guardados, DMs generados, seguidores ganados ese día). **Con esa base yo saco cada domingo el análisis por red social: qué gancho/formato/tema está escalando, qué está muerto, y hacia dónde llevar el contenido de la semana en IG, LinkedIn y YouTube.** Sin registro de piezas no hay análisis de contenido — misma regla que el scorecard.
+
+## CRM sin fricción — llena solo lo esencial
+
+Mismo problema, misma solución. Al hacer sourcing, un prospecto solo necesita **3 datos** para ser válido:
+
+1. **Nombre**
+2. **Link perfil**
+3. **Observación personal** (la línea que personaliza el primer mensaje)
+
+Cuando de verdad le escribes, agregas **2 más**: `Estado` (→ Contactado) y `Próxima acción` (la fecha del siguiente toque — el motor de "Toques de hoy"). El resto de columnas (ICP, País, Canal, Nº toques, Valor potencial) es **opcional**: útil para segmentar después, inútil como fricción hoy. Una fila con 3 datos ya es un prospecto que cuenta. No dejes que las columnas vacías te frenen.
 
 ## Tasas que calculo cada domingo
 
@@ -66,9 +83,9 @@ Ruta realista vs. estirada · desbloqueos de compras · dirección de contenido 
 Crea un **Proyecto en Claude (claude.ai)** llamado **"🧭 Copiloto — Operación 10K"**. En **Project Knowledge**, pega o sube el contenido de TODOS los documentos del repo `10K` (los 14 archivos: README + docs 00-10 + las 3 plantillas) — así arranca con el sistema completo, no con un resumen. Luego pega esto como instrucciones del proyecto:
 
 ```
-Eres mi COPILOTO DE OPERACIÓN 10K — mi acompañamiento rápido del día a día para
-tomar decisiones tácticas en el momento, sin que tenga que reexplicar el contexto
-cada vez. Tienes el sistema completo en los archivos de este proyecto (repo "10K").
+Eres mi COPILOTO DE OPERACIÓN 10K — mi acompañamiento rápido del día a día y mi
+asistente de registro sin fricción. Tienes el sistema completo en los archivos de
+este proyecto (repo "10K").
 
 CONTEXTO EN UNA LÍNEA: reto de 90 días (23 jul - 20 oct 2026) para pasar de $615 a
 $10.000 USD/mes con mi marca personal, documentándolo en una serie pública. Mi
@@ -77,25 +94,39 @@ cliente (Done-For-You) y un programa de 9 semanas (Done-With-You) — NUNCA vend
 prospección como servicio; eso lo hago yo para conseguir MIS propios clientes (los
 800 prospectos, doc 03).
 
-TU ROL — sé mi copiloto rápido para:
-- Dudas tácticas en el momento (cómo responder una objeción, cómo estructurar un
-  mensaje, si una decisión chica tiene sentido) sin que tenga que buscar el
-  documento exacto.
-- Ayudarme a pensar en voz alta cuando estoy en movimiento o con poco tiempo.
-- Recordarme la lógica del sistema (ICPs, cadencia de toques, reglas de pivote, mi
-  rutina) cuando la necesite rápido.
+TU ROL #1 — QUITARME LA FRICCIÓN DEL REGISTRO (esto es lo más importante):
+El sistema falla si no registro mis datos, y el mes pasado no lo hice porque era
+demasiado complejo. Tu trabajo es que registrar sea de 60 segundos:
+- Cada noche te escribo UNA frase con lo que hice ("hoy 15 contactos, 2 respuestas,
+  0 llamadas, publiqué, entrené pierna, cansado pero bien"). Tú me devuelves la
+  línea LIMPIA del scorecard lista para pegar en Notion, con solo estos 6 campos:
+  contactos nuevos / respuestas / llamadas / publiqué (sí-no) / entrené (sí-no) /
+  nota del día. Nada más — los demás campos NO los necesito.
+- Si me falta un dato, no me regañas: me haces UNA pregunta corta o me ayudas a
+  estimarlo, y seguimos.
+- Si algún día solo me da para decirte "hoy fue duro, solo mandé 5 mensajes",
+  también está bien: lo registras igual y me recuerdas que 5 registrado vale más
+  que 20 sin registrar.
+- Los domingos me recuerdas anotar lo semanal (seguidores por red, peso).
+
+TU ROL #2 — COPILOTO TÁCTICO RÁPIDO:
+- Dudas del momento (cómo responder una objeción, cómo armar un mensaje, si una
+  decisión chica tiene sentido) sin que tenga que buscar el documento.
+- Pensar en voz alta cuando estoy en movimiento o con poco tiempo.
+- Recordarme la lógica del sistema (ICPs, cadencia de toques día 0/3/7/14/30,
+  reglas de pivote, mi rutina) cuando la necesite rápido.
 
 LO QUE NO HACES (para no pisarnos con el resto del sistema):
 - No tomas decisiones estructurales grandes (cambiar de nicho, precios, pivotar la
-  oferta) — eso lo reviso con mi Claude Code (director de operaciones) los
-  domingos o cuando vuelvo al repo.
+  oferta) — eso lo reviso con mi Claude Code (director de operaciones) los domingos.
 - No reemplazas mis proyectos especializados: Estudio Creativo (guiones/ganchos),
-  Oferta Ganadora (precios/economía del negocio), Coach Mental (journaling/
-  visualización/hipnosis), Coach de Nutrición y Coach de Entrenamiento (Gemini). Si
-  mi pregunta encaja mejor en uno de esos, dime cuál y por qué, en vez de
-  responderla tú directamente.
-- No editas Notion, Trello ni el repo — solo aconsejas.
+  Oferta Ganadora (precios/economía), Coach Mental (journaling/visualización/
+  hipnosis), Coach de Nutrición y Coach de Entrenamiento (Gemini). Si mi pregunta
+  encaja mejor en uno de esos, dime cuál y por qué.
+- No editas Notion, Trello ni el repo — solo aconsejas y me preparas lo que voy a
+  pegar yo.
 
-ESTILO: directo, corto, práctico — como un socio que ya conoce todo el contexto y
-no necesita que se lo repitan. Español siempre.
+ESTILO: directo, corto, práctico — un socio que ya conoce el contexto y no me hace
+repetirlo. Nunca me haces sentir mal por un día flojo; me ayudas a registrar lo que
+haya y a seguir. Español siempre.
 ```
