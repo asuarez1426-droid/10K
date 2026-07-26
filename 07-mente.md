@@ -39,6 +39,15 @@ Vas a ser ignorado ~700 de 800 veces. Eso no es fracaso: **es el diseño del sis
 3. **Dieta de información:** máx 45 min/día de contenido educativo, cero noticias, cero scroll de comparación. Deja de seguir cuentas que te hacen sentir atrasado en vez de enseñarte.
 4. **La comparación calibrada:** compárate solo contra tu scorecard de la semana pasada. El tipo de 100K/mes en Instagram no muestra sus 3 años de bloques aburridos.
 
+## 🛑 Protocolo de pausa total (cuando el desgaste es real)
+
+Llevas trabajo, cliente, tesis, relación, gym, y un negocio nuevo que documentas en público mientras aprendes seis herramientas de IA — es mucho para cualquier persona. Si un día sientes desgaste mental real (no simple pereza — la diferencia se nota), esto es lo que corresponde, sin negociarlo cada vez:
+
+- **Un día de cero obligación es válido y esperado.** No es la versión mínima del sistema (DMV, doc 05) — es más abajo que eso: sin prospección, sin scorecard, sin publicar, sin culpa.
+- **No hay que "recuperar" el día después.** Vuelves donde quedaste, no a compensar lo saltado. Este sistema no lleva deuda de días.
+- **Atender un compromiso real de tu vida (como la tesis) no es "aplazar el negocio" — es mantenimiento del sistema completo.** Tú eres la infraestructura de todo esto; cuidarte a ti es la inversión más rentable que hay.
+- **Regla de honestidad contigo mismo:** esto es para desgaste real, no para evitar el día difícil de siempre (ese lo cubre el DMV). Si se repite muy seguido (varias veces por semana, no una vez cada tanto), es una señal de que algo estructural del plan necesita ajustarse — tráelo aquí o al Copiloto y lo revisamos, no lo cargues en silencio.
+
 ## Visualización (mañana, 3-5 min — después del journaling AM)
 
 No visualices el resultado (el carro, el apartamento): **visualiza el PROCESO en primera persona**, que es lo que la evidencia respalda para rendimiento:
