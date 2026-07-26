@@ -2,6 +2,8 @@
 
 **Reglas de todos los mensajes:** cortos (el largo se ignora), personalizados en la primera línea (por eso la "Observación personal" del CRM es obligatoria), UNA pregunta por mensaje, cero links en el primer contacto, y suenan a persona — no a plantilla. Ajusta cada guion a tu voz; lo que está `[entre corchetes]` se reemplaza siempre.
 
+**Regla añadida (corrección tuya — el mensaje 1 NUNCA habla de dinero/clientes/ventas):** a nadie le gusta que le hablen de negocio en el primer contacto, se siente una venta disfrazada de cumplido. El primer mensaje es 100% humano: una observación genuina + curiosidad real por ELLOS (su trabajo, su trayectoria), nunca por su facturación o si consiguen clientes. La pregunta de diagnóstico de negocio se gana DESPUÉS de que ya respondieron algo, no se asume desde el mensaje 1.
+
 ---
 
 ## 0. Mensaje del sprint de validación (semana 1 — no vende nada)
@@ -18,17 +20,17 @@
 
 *Nunca vendas en la nota de conexión. Tasa de aceptación esperada: 30-50% con nota personalizada.*
 
-## 2. LinkedIn — Primer mensaje (1-24h tras aceptar)
+## 2. LinkedIn — Primer mensaje (1-24h tras aceptar) — v2, sin hablar de negocio todavía
 
-> ¡Gracias por conectar, [nombre]! Te soy directo: revisé tu perfil y tu contenido, y creo que [observación específica: tienes una autoridad enorme en X que casi no se está viendo / publicas muy bien pero muy poco / tu experiencia en Y daría para atraer clientes mucho más grandes].
->
-> ¿Hoy la mayoría de tus clientes te llegan por referidos o ya te llegan por tu presencia online?
+> ¡Gracias por conectar, [nombre]! Vi [observación específica: llevas años en X / tu forma de explicar Y / el caso que compartiste sobre Z] y me llamó la atención. ¿Cómo llegaste a especializarte en eso?
 
-*La pregunta es de diagnóstico, fácil de responder, y su respuesta te dice exactamente cómo seguir.*
+*Cero mención a clientes, ventas o presencia online. Es una pregunta que cualquier persona respondería con gusto porque habla de SU historia, no de su negocio. Si responde, la conversación sigue su curso natural — la pregunta de diagnóstico ("¿hoy tus clientes te llegan más por referidos o por tu presencia online?") se hace en el 2º o 3er mensaje de la conversación real, no en el guion, cuando ya hay algo de rapport.*
 
-## 3. Instagram — Primer DM
+## 3. Instagram — Primer DM — v2, sin hablar de negocio todavía
 
-> Hola [nombre] 👋 Llegué a tu perfil por [cómo: X hashtag / la cuenta de Y] y me quedé viendo [observación: tu contenido sobre X / tu trabajo en Y]. Una curiosidad genuina: con lo bueno que es lo que haces, ¿tu Instagram ya te trae clientes o sigue siendo más vitrina que canal de ventas?
+> Hola [nombre] 👋 Llegué a tu perfil por [cómo: X hashtag / la cuenta de Y] y me quedé viendo [observación: tu contenido sobre X / tu trabajo en Y]. Se nota que sabes de lo tuyo — ¿hace cuánto estás en esto?
+
+*Misma lógica: cumplido + curiosidad genuina por su historia, cero pregunta de negocio en el mensaje 1.*
 
 ## 4. Puente a la llamada (cuando responden con interés o describen un dolor)
 

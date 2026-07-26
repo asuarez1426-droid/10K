@@ -4,6 +4,23 @@
 
 **21-22 jul:** cierre de planeación y correcciones · **DÍA 1 DEL RETO: 23 de julio de 2026** · **Día 90:** 20 de octubre de 2026
 
+---
+
+## 🧭 SI SOLO LEES UNA COSA HOY, QUE SEA ESTO
+
+No necesitas releer los 14 documentos cada día — son referencia de fondo, no tarea diaria. **Esto es lo único que de verdad importa hoy:**
+
+1. **¿Prospectaste algo hoy (aunque sea poco)?** Si no, es lo primero.
+2. **¿Publicaste algo hoy?** Aunque sea una story simple, cuenta.
+3. **¿Entrenaste?** Sepáralo si no.
+4. **Anota una línea esta noche** (contactos, respuestas, publiqué sí/no, entrené sí/no, una nota) — dictásela a tu Copiloto y te la deja lista para pegar.
+
+**Si cumpliste eso, tu día cumplió.** Punto. La tesis, las mentorías, la rutina hora por hora, los 6 chats de IA — son apoyo que usas CUANDO TENGAS ESPACIO, no una lista de pendientes de la que sentirte mal si no la completas entera. No necesitas tener creados los 6 chats para que esto funcione: si solo usas este chat (o tu Copiloto una vez lo crees) + el Estudio Creativo para contenido, ya tienes el 90% del valor. Gemini x2, Coach Mental y Oferta Ganadora son profundidad opcional, no requisitos.
+
+**¿No sabes qué hacer en este momento exacto?** Pregúntame directamente aquí, o a tu Copiloto — para eso existe. No busques la respuesta en los documentos primero.
+
+---
+
 ## El marco honesto de la misión
 
 Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos 90 días es exactamente **volver posible lo imposible**, como otros lo han hecho antes. Ese es el espíritu. Mi papel como director de operaciones es que esa fe tenga un sistema debajo: cada semana la probabilidad debe SUBIR, medida con datos. Los hitos de control no son techos — son los peldaños que revisamos para saber si lo imposible se está volviendo posible:
