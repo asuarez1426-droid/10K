@@ -6,18 +6,13 @@
 
 ---
 
-## 🧭 SI SOLO LEES UNA COSA HOY, QUE SEA ESTO
+## 🧭 EMPIEZA AQUÍ
 
-No necesitas releer los 14 documentos cada día — son referencia de fondo, no tarea diaria. **Esto es lo único que de verdad importa hoy:**
+**👉 [EMPIEZA-AQUI.md](EMPIEZA-AQUI.md) — el manual completo de un día: cómo prospectar en LinkedIn/IG paso a paso, qué es exactamente "anotar el scorecard", cómo funciona el CRM, qué publicas y cuándo, y por qué todo esto suma hacia los $10.000.** Léelo primero — es lo único que necesitas para saber CÓMO ejecutar cada pieza, no solo QUÉ hacer.
 
-1. **¿Prospectaste algo hoy (aunque sea poco)?** Si no, es lo primero.
-2. **¿Publicaste algo hoy?** Aunque sea una story simple, cuenta.
-3. **¿Entrenaste?** Sepáralo si no.
-4. **Anota una línea esta noche** (contactos, respuestas, publiqué sí/no, entrené sí/no, una nota) — dictásela a tu Copiloto y te la deja lista para pegar.
+Y la parte emocional, igual de importante: no necesitas releer los 14 documentos cada día, ni tener los 6 chats de IA creados desde ya. Si cumples 4 cosas — prospectar algo, publicar algo, entrenar, y anotar una línea esta noche — tu día cumplió. Todo lo demás (tesis, mentorías, rutina hora por hora, Gemini x2, Coach Mental, Oferta Ganadora) es apoyo que sumas cuando tengas espacio, no una lista de la que sentirte mal por no completar entera.
 
-**Si cumpliste eso, tu día cumplió.** Punto. La tesis, las mentorías, la rutina hora por hora, los 6 chats de IA — son apoyo que usas CUANDO TENGAS ESPACIO, no una lista de pendientes de la que sentirte mal si no la completas entera. No necesitas tener creados los 6 chats para que esto funcione: si solo usas este chat (o tu Copiloto una vez lo crees) + el Estudio Creativo para contenido, ya tienes el 90% del valor. Gemini x2, Coach Mental y Oferta Ganadora son profundidad opcional, no requisitos.
-
-**¿No sabes qué hacer en este momento exacto?** Pregúntame directamente aquí, o a tu Copiloto — para eso existe. No busques la respuesta en los documentos primero.
+**¿No sabes qué hacer en este momento exacto?** Pregúntame aquí, o a tu Copiloto, con el caso real que tengas enfrente.
 
 ---
 
