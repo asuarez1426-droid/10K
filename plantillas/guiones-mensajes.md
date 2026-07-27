@@ -14,11 +14,11 @@
 
 ---
 
-## 1. LinkedIn — Nota de solicitud de conexión (máx 300 caracteres)
+## 1. LinkedIn — Nota de solicitud de conexión (máx 300 caracteres) — v2, corregida
 
-> Hola [nombre], vi [observación: tu publicación sobre X / que trabajas ayudando a Y]. Me dedico a ayudar a [nicho] con su visibilidad y me interesa conectar con gente que hace las cosas bien en [su industria]. ¡Saludos!
+> Hola [nombre], vi [observación específica: tu publicación sobre X / tu trabajo en Y] y me pareció genuino. Me gustaría seguir viendo lo que compartes — ¿conectamos?
 
-*Nunca vendas en la nota de conexión. Tasa de aceptación esperada: 30-50% con nota personalizada.*
+*Corrección real (detectada por baja tasa de aceptación): la v1 decía "nunca vendas en la nota" pero el ejemplo SÍ vendía ("me dedico a ayudar a X con su visibilidad") — se contradecía a sí misma. Cero mención a qué haces, cero intención comercial, en la nota de conexión. Punto. Tasa de aceptación esperada con nota personalizada real: 30-50% — PERO solo si tu perfil tiene contenido real detrás (ver nota de credibilidad en doc 03, sección Fase 1). Con perfil vacío, ninguna nota por buena que sea compensa eso del todo.*
 
 ## 2. LinkedIn — Primer mensaje (1-24h tras aceptar) — v2, sin hablar de negocio todavía
 

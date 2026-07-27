@@ -11,6 +11,8 @@ Tu cuenta de LinkedIn tiene 25 conexiones — para LinkedIn eres una cuenta nuev
 ### FASE 1 — Calentamiento + validación (días 1-7: 23-29 jul)
 
 - **LinkedIn:** actividad humana intensa SIN herramientas: perfil optimizado el día 1, 1 post diario, 15-20 comentarios diarios en cuentas del nicho, 10-15 invitaciones manuales/día con nota (= el sprint de validación de nicho del doc 02 corre aquí). LinkedIn te ve como humano activo antes del blitz.
+
+**⚠️ Aprendizaje real (día 4): el contenido no es opcional en el calentamiento, es lo que hace que acepten tu conexión.** Cuando alguien recibe tu solicitud, entra a tu perfil antes de decidir — si el titular está bien pero no hay ni una publicación, lee "cuenta inactiva o falsa" y no acepta, sin importar qué tan buena sea la nota. **Si tu tasa de aceptación está baja, la causa más probable es perfil sin contenido, no el mensaje.** Prioridad de secuencia: antes de escalar volumen de invitaciones, ten mínimo 3-5 publicaciones reales en tu perfil (aunque sea repurposing de lo que ya grabaste para IG/YouTube, adaptado a texto o video corto para LinkedIn). El "1 post diario" de esta lista no es relleno — es lo que sostiene toda la tasa de aceptación de las invitaciones.
 - **Instagram:** publicar diario (arranca la serie), 30-50 interacciones diarias reales, 10 DMs manuales/día de validación.
 - **Sourcing pesado:** varias sesiones esta semana (usa la ventana de coworking del sábado en Comfenalco, doc 05) → la nevera llega al blitz con 600-900 prospectos listos con observación personal.
 - Resultado fase 1: ~120-150 contactados + nicho validado + cuentas calientes.
