@@ -34,12 +34,21 @@ Es el mismo método que usan los documentalistas y vloggers reales: vivir con la
 
 | Plataforma | Nivel de conciencia | Qué se publica | Objetivo |
 |---|---|---|---|
-| **Instagram** | **Conciencia 0-1** (no saben que tienen el problema) | Reels virales con ganchos amplios + la Serie. Sin carruseles por ahora (tu punto 18: no tienes metodología viral de carruseles todavía) | ALCANCE y seguidores. Viralidad siempre: ganchos masivos, temas amplios |
+| **Instagram / LinkedIn** | **Conciencia 0-1** (no saben que tienen el problema) | Reels virales con ganchos amplios + la Serie + **carruseles diarios (nuevo, día 6)** | ALCANCE y seguidores. Viralidad siempre: ganchos masivos, temas amplios |
 | **Instagram Stories** | Audiencia caliente | Secuencias de venta: detrás de cámaras, resultados, testimonios, CTA directo a DM | **CIERRE. Las ventas en IG se cierran en historias, no en reels** |
 | **LinkedIn** | **Conciencia 3-4** (conocen el problema y las soluciones) | Autoridad pura: sistemas, casos, desgloses, números de la serie con lectura ejecutiva | Que el prospecto que revisa tu perfil diga "este sabe". Alimenta la prospección directa |
 | **YouTube** | Búsqueda + serie | Episodios largos de la serie + piezas de autoridad buscables | Activo de largo plazo |
 
 **Traducción operativa:** los clips reales de la semana producen las tres capas — el capítulo (IG/YT), su versión ejecutiva en texto (LinkedIn) y el material de historias.
+
+## Carruseles automatizados con Claude Cowork (día 6 en adelante)
+
+Cowork genera un carrusel diario, inspirado en la estructura de un creador de referencia experto en carruseles virales. Antes de subir cada uno, filtro de 15 segundos:
+
+1. **¿Suena a algo que yo diría?** Si es genérico o no tiene un punto real, se ajusta antes de publicar — tu diferenciador es "contenido con propósito", no viralidad vacía.
+2. **¿Es estructura o es copia?** Inspirarse en el ritmo/ganchos/formato del creador de referencia está bien. Reproducir sus ejemplos, historias o diseños específicos de cerca no — eso es plagio, no inspiración. Regla simple: **estructura sí, contenido literal no.**
+
+Prueba esta cadencia diaria 1 semana; si empieza a quitarle tiempo al bloque de contacto (lo que de verdad mueve el negocio), se ajusta a 3-4/semana sin culpa.
 
 ## Cadencia semanal
 
