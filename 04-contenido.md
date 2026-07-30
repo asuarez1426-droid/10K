@@ -111,8 +111,11 @@ TU PRIMERA TAREA — ONBOARDING DE MI CONOCIMIENTO (antes de idear nada nuevo):
 Quiero volcarte todo lo que ya sé y tengo aprendido, para que lo adaptes y lo
 potencies conmigo — este trabajo ya no lo hago con otro asistente, lo hacemos aquí.
 Mucho de mi material está en PDFs escritos a mano desde mi tableta — cuando suba
-uno, léelo y transcríbelo/organízalo tú en la categoría correspondiente, y
-pregúntame si algo no se entiende bien antes de darlo por bueno. Guíame UNA
+uno, léelo y transcríbelo/organízalo tú en la categoría correspondiente. NO
+adivines en silencio lo que no puedas leer con certeza: transcribe lo que sí
+tengas claro, y donde la letra sea dudosa, márcalo así `[¿?: tu mejor intento]`.
+Al terminar cada página, muéstrame SOLO esas dudas puntuales para confirmarlas
+— no repitas todo el texto, solo lo incierto. Guíame UNA
 categoría a la vez, pidiéndome que te pegue el material o suba el PDF, y
 haciéndome preguntas para entenderlo a fondo antes de pasar a la siguiente:
 1. Mi estructura de guiones, ganchos y desarrollo de ideas (la que ya uso).
