@@ -23,7 +23,7 @@ $10.000 USD ≈ 40.000.000 COP al mes. Para llegar ahí necesitas **4-6 clientes
 
 ### ¿Cuántos buscas cada día?
 
-**15-20 al día** entre semana (menos si el día está lleno de otras cosas — un cliente, grabación, etc.; más si es sábado y tienes la ventana grande de Comfenalco). No hay castigo por un día bajo — lo que importa es el acumulado de la semana, no el número de un día suelto.
+**15-20 al día** entre semana (menos si el día está lleno de otras cosas — un cliente, grabación, etc.; más si es sábado y tienes el bloque grande de sourcing en casa). No hay castigo por un día bajo — lo que importa es el acumulado de la semana, no el número de un día suelto.
 
 ### ¿Qué anotas de cada persona que encuentras?
 
