@@ -50,6 +50,17 @@ Cowork genera un carrusel diario, inspirado en la estructura de un creador de re
 
 Prueba esta cadencia diaria 1 semana; si empieza a quitarle tiempo al bloque de contacto (lo que de verdad mueve el negocio), se ajusta a 3-4/semana sin culpa.
 
+## Fórmula fija para posts de autoridad en LinkedIn (día 7 — para dejar de partir de cero cada vez)
+
+No se inventa el post: se traduce de algo que ya viviste esa semana (una llamada, un "no", un ajuste, un número real) — es la misma materia prima de la Serie, en versión texto para la audiencia que ya entiende el problema (conciencia 3-4).
+
+1. **Gancho (1-2 líneas):** una afirmación, dato o pregunta que pare el scroll, ligada a algo real tuyo.
+2. **Contexto (2-4 líneas):** qué pasó, con un número o detalle concreto — tu diferenciador contra los gurús es que tus números son reales.
+3. **La enseñanza (4-8 líneas):** UNA idea o técnica aplicable. Esto es lo que hace que el prospecto que revisa tu perfil piense "este sabe".
+4. **Cierre (1-2 líneas):** una pregunta que invite a comentar — nada de vender aquí.
+
+Formato: párrafos de 1-2 líneas con espacio entre ellos, sin saturar de hashtags. El Estudio Creativo (más abajo) usa esta misma fórmula cuando le cuentas el momento real de tu semana.
+
 ## Cadencia semanal
 
 | Día | IG | LinkedIn | YouTube |
