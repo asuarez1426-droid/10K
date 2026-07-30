@@ -1,6 +1,6 @@
 # 03 — Prospección: el sistema de los 800 (v4)
 
-Motor de ingresos del reto. Mercado: **todo el mundo hispano, priorizando México y España**. Decisión estratégica tuya: **los 800 se contactan en el arranque del reto** — usando la prueba gratuita de Sales Navigator (30 días) para construir listas y un mes pagado de Waalaxy (barato, ~$15 USD) para el envío masivo.
+Motor de ingresos del reto. Mercado: **todo el mundo hispano, priorizando México y España**. Decisión estratégica tuya: **los 800 se contactan en el arranque del reto** — usando la prueba gratuita de Sales Navigator Advanced (30 días) para construir listas y la prueba gratuita de Waalaxy Advanced (14 días, luego ~$15 USD/mes si sigues) para el envío masivo.
 
 **Aclaración importante (tu punto 3): los 600-900 prospectos del sourcing NO son adicionales a los 800 — SON los 800.** La nevera de sourcing es la materia prima; de ahí sale exactamente el volumen que se contacta en el blitz. "Sourcing pesado" significa llenar la nevera con margen para que el blitz nunca se quede sin material fresco — no significa 800 + 600 = 1.400.
 
@@ -19,7 +19,7 @@ Tu cuenta de LinkedIn tiene 25 conexiones — para LinkedIn eres una cuenta nuev
 
 ### FASE 2 — BLITZ de los 800 (días 8-21: 30 jul - 12 ago)
 
-Se activa Waalaxy pagado el día 8 (1 mes, ~$15 USD — cubre de sobra el blitz de 14 días); Sales Navigator sigue en trial gratuito para sourcing (activado desde fase 1, dura hasta ~28 de agosto).
+Se activa el envío de Waalaxy el día 8 (trial gratuito de 14 días, activado desde el día 7 — cubre exacto el blitz de 14 días); Sales Navigator Advanced sigue en trial gratuito para sourcing (activado desde fase 1, dura hasta ~26 de agosto).
 
 **Honestidad técnica que protege la operación:** LinkedIn limita ~150-200 invitaciones POR SEMANA incluso a cuentas sanas. Meter los 800 solo por LinkedIn en 10 días = cuenta restringida y blitz muerto. Los 800 se reparten así:
 
@@ -124,19 +124,19 @@ Tres capas, en este orden de prioridad:
 
 Criterio general: comenta donde tu COMPRADOR lee, no donde tus colegas aplauden. Un comentario con insight en el post de un referente vale más que 20 "gran contenido 🔥".
 
-## Herramientas: Sales Navigator + Waalaxy + manual (plan de financiación en 3 pasos — tu punto 4)
+## Herramientas: Sales Navigator + Waalaxy + manual (confirmado día 7 — tus trials reales)
 
-**Costos reales (los tuyos, corrigen mi estimación anterior):** LinkedIn Sales Navigator ≈ $100 USD/mes (~400K COP); Waalaxy ≈ $15 USD/mes (~60K COP) — mucho más barato de lo que parecía, así que la operación es viable desde ya:
+**Costos y trials reales (confirmados en tu cuenta, día 7):** LinkedIn Sales Navigator Advanced — trial 30 días, $0 · Waalaxy Advanced — trial 14 días, $0, luego 58.478 COP/mes (~$15 USD, el estimado original era correcto). Se descartó el plan Business de Waalaxy (83.540 COP): su diferencial es cold email + multicanal, un canal que este sistema no usa — Advanced trae todo lo necesario (secuencias multi-paso en LinkedIn). El tope de 800 invitaciones/mes de Waalaxy nunca es el límite real: LinkedIn mismo restringe a ~150-200/semana antes de eso.
 
-1. **Sales Navigator en TRIAL (30 días, $0):** se usa solo para sourcing — sacar listas masivas con filtros de país/cargo. No se paga todavía.
-2. **Waalaxy PAGADO desde el día 8 (1 mes, ~$15 USD):** es la herramienta que envía — vale la pena pagarla de una porque es barata y es el motor real del blitz.
-3. **Si el blitz inicial no da buenos resultados:** en vez de rendirte, sacas MÁS listas con lo que quede del trial de Sales Navigator (o con búsqueda manual si ya venció) para mantener viva la suscripción de Waalaxy con material fresco — nunca pagas por una herramienta sin tener a quién contactarle.
-4. **Cuando haya flujo de caja (primer cliente cerrado):** ahí se paga Sales Navigator de forma continua — se vuelve el motor de sourcing permanente para ti y, más adelante, para la prospección de tus clientes (doc 02).
+1. **Sales Navigator Advanced en TRIAL (30 días desde día 7, $0):** se usa solo para sourcing — listas masivas con filtros de cargo/industria/tamaño de empresa/geografía. Dura 2 semanas más que Waalaxy: úsalo también para sourcing de la fase de cosecha (días 22-90).
+2. **Waalaxy Advanced en TRIAL (14 días desde el día que lo actives — actívalo día 7 para que el trial termine ~12 ago, día 21, justo cuando el blitz debe estar completo):** día de activación se usa solo para configurar (conectar cuenta, armar la secuencia de 3 pasos, importar el primer lote) — el envío real arranca el día 8, para no romper el corte calentamiento/blitz.
+3. **Si el blitz inicial no da buenos resultados:** en vez de rendirte, sacas MÁS listas con Sales Navigator (sigue en trial) para mantener viva la operación de Waalaxy con material fresco — nunca pagas por una herramienta sin tener a quién contactarle.
+4. **Antes de que termine el trial de Waalaxy (~12 ago):** decides con datos reales (respuestas, llamadas) si pagas los 58.478 COP/mes para seguir, o si ya tienes el primer cliente cerrado y lo pagas de su retainer, tal como decía el plan original. Sales Navigator, cuando venza su trial, se paga igual con flujo de caja real — se vuelve el motor de sourcing permanente para ti y luego para tus clientes (doc 02).
 
 | Herramienta | Uso | Regla de seguridad |
 |---|---|---|
-| **Sales Navigator** (trial → pagado tras el primer cliente) | Sourcing masivo con filtros por país/cargo + listas guardadas | Actívala en fase 1 para llenar la nevera antes del blitz |
-| **Waalaxy** (pagado desde día 8, ~$15/mes) | Secuencias de invitación + mensaje en LinkedIn | ⚠️ Tu cuenta tiene 25 conexiones — es NUEVA para LinkedIn. El calentamiento de fase 1 (manual) es lo que te permite activar Waalaxy con máx 20-25 invitaciones/día subiendo gradual a 40-50. Variables de personalización SIEMPRE. Automatizar la invitación está bien; **las CONVERSACIONES son 100% manuales, siempre** — ahí se cierra o se pierde |
+| **Sales Navigator Advanced** (trial 30 días → pagado tras el primer cliente) | Sourcing masivo con filtros por cargo/industria/tamaño de empresa/geografía + listas guardadas | Actívala en fase 1 para llenar la nevera antes del blitz |
+| **Waalaxy Advanced** (trial 14 días desde día 7 → 58.478 COP/mes si sigues) | Secuencias de invitación + mensaje en LinkedIn (3 pasos: invitación con nota → mensaje día 1 → seguimiento día 4 → seguimiento día 9) | ⚠️ Tu cuenta tiene 25 conexiones — es NUEVA para LinkedIn. El calentamiento de fase 1 (manual) es lo que te permite activar Waalaxy con máx 20-25 invitaciones/día subiendo gradual a 40-50. Variables de personalización SIEMPRE. Automatizar la invitación está bien; **las CONVERSACIONES son 100% manuales, siempre** — ahí se cierra o se pierde |
 | **Manual** | Instagram completo (no automatizar IG: baneo casi seguro) + todas las respuestas y llamadas | La personalización manual es tu ventaja sobre los que spamean |
 
 **Riesgo aceptado y mitigación:** LinkedIn restringe cuentas que automatizan agresivo. Con warm-up + límites conservadores + tasa de aceptación >25% (mensajes personalizados) el riesgo baja mucho. Si llega un aviso de restricción: Waalaxy OFF 2 semanas, se sigue manual. La operación nunca depende de una sola herramienta ni de una sola red.
