@@ -54,15 +54,19 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 
 **⚠️ Mecánica real del filtro (aprendizaje día 8):** el campo "Cargo actual" es de etiquetas, no de texto con OR/NOT pegado — si pegas el string booleano completo lo busca como frase literal y casi no devuelve nada. Escribe UN término, Enter, y repite — Sales Navigator une las etiquetas con OR automáticamente. Para excluir, usa el toggle/sección "Excluir" del mismo filtro y agrega los términos ahí por separado. El boolean con paréntesis/OR/NOT como texto solo funciona en la barra de palabras clave general (arriba), con sintaxis tipo `title:(consultor OR coach)`.
 
-- **Cargo actual (agrega cada uno como etiqueta separada):** `consultor` · `coach` · `mentor` · `asesor empresarial` · `formador` · `estratega de negocios`
-- **Excluir (sección aparte del mismo filtro):** `estudiante` · `en búsqueda de empleo` · `desempleado` · `practicante`
-- **Ubicación:** México, España, Colombia
-- **Nivel de antigüedad:** Propietario, Socio, CXO
-- **Tamaño de empresa:** 1-10 empleados — si tu plan lo ofrece, marca también Tipo de empresa = "Trabajador autónomo" para capturar solopreneurs directo
-- **Industria:** Consultoría de gestión, Formación profesional y coaching
-- **Función (opcional, sube precisión):** Consultoría, Formación
-- **Actividad reciente:** "Ha publicado en LinkedIn en los últimos 30 días" — pre-filtra el requisito de "activo" del checklist
-- **Calidad de ticket:** dentro del volumen de "coach", prioriza a mano los que digan "ejecutivo", "negocios", "liderazgo", "empresarial" — son mejor ajuste que coach de vida/bienestar (ticket más bajo)
+**✅ Receta validada en cuenta real (día 8) — embudo confirmado, de 96.000 a 147:**
+
+| Paso | Filtro agregado | Resultado acumulado |
+|---|---|---|
+| 1 | Cargo: `consultor` · `asesor` · `mentor` (etiquetas) + excluir `desempleado` · `pasante` · `becario` + Tamaño empresa 1-10 + país MX/ES | 22.000 |
+| 2 | Excluir nivel de responsabilidad "sin experiencia" | 3.500 |
+| 3 | Nivel de responsabilidad incluido: `Propietario/Socio` · `Vicepresidente` · `Director` · `Director Ejecutivo` | 1.500 |
+| 4 | Industria: `Consultoría y servicios a empresas` + `Formación profesional y coaching` | 433 |
+| 5 | Actividad reciente: publicó en los últimos 90 días (el plan no ofrece 30 días exactos — es el más cercano; verifica a mano la fecha real al validar cada perfil) | **147 final** |
+
+Guarda esta búsqueda para seguir recibiendo matches nuevos durante el trial. Si algún día necesitas más volumen, quita el paso 5 (actividad) primero — es el filtro más laxo de soltar sin perder calidad real.
+
+**Nota de mecánica (compuestos frágiles):** términos de 2+ palabras como "coach ejecutivo" casi no dan resultados en el campo de cargo — la gente escribe su título de mil formas distintas. Usa siempre palabras sueltas (`coach`, `consultor`, `mentor`, `asesor`, `formador`) y deja que Tamaño de empresa + Nivel de responsabilidad + Industria + Actividad hagan el trabajo de precisión.
 
 | Criterio | Definición |
 |---|---|
