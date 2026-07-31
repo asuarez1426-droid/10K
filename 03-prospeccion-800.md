@@ -107,7 +107,7 @@ Guarda esta búsqueda para seguir recibiendo matches nuevos durante el trial. Si
 - **Sede de la empresa (Account → Headquarters):** México, España — filtra también la ubicación de la EMPRESA, no solo de la persona; a veces vive en un lugar y la empresa está registrada en otro
 - **Tipo de empresa:** Privada (Privately Held) — descarta corporativos públicos
 - **Nivel de antigüedad:** Propietario, Socio, CXO
-- **Tamaño de empresa:** 2-20 empleados (2-50 para legal/contable, suelen ser algo más grandes)
+- **Tamaño de empresa:** el plan solo ofrece brackets de 1-10 y 11-50 (no hay 2-20 exacto) — selecciona ambos para cubrir el rango completo; el 1-10 puede incluir freelancers registrados como "empresa", eso se filtra en el checklist manual, no aquí
 - **Industria (de la empresa):** TI y consultoría de software · Contabilidad · Servicios jurídicos · Selección de personal y RR. HH. · Arquitectura e ingeniería · Bienes raíces comercial · Transporte/logística
 - **Señal de oro (Spotlight, si tu plan la muestra):** "Crecimiento de la plantilla en los últimos 12 meses" — una empresa contratando tiene caja real, responde solo al criterio #3 del checklist ("puede pagar")
 - **Orden de resultados:** por Grado de conexión, 2º grado primero — te da un contacto en común gratis para tu observación personal y sube aceptación
