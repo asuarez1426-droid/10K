@@ -50,7 +50,16 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 
 ### ICP-A · LinkedIn (sourcing) + tu Instagram (vitrina de resultados) — Consultor/coach hispano ⭐
 
-**Búsqueda en Sales Navigator (día 7):** título con OR — "consultor" OR "coach ejecutivo" OR "mentor" — + filtro de industria "Consultoría de gestión" / "Coaching profesional y personal". Es de los ICPs más fáciles de encontrar en LinkedIn (se autotitulan así) — el reto es filtrar volumen con el checklist de validación, no encontrarlos.
+**Búsqueda en Sales Navigator (día 8, profundizada):** es de los ICPs más fáciles de encontrar en LinkedIn (se autotitulan así) — el reto es filtrar volumen con el checklist de validación, no encontrarlos.
+
+- **Cargo actual (boolean):** `("consultor" OR "consultora" OR "coach" OR "coach ejecutivo" OR "coach de negocios" OR "business coach" OR "mentor") NOT ("estudiante" OR "en búsqueda de empleo" OR "desempleado" OR "practicante")`
+- **Ubicación:** México, España, Colombia
+- **Nivel de antigüedad:** Propietario, Socio, CXO
+- **Tamaño de empresa:** 1-10 empleados — si tu plan lo ofrece, marca también Tipo de empresa = "Trabajador autónomo" para capturar solopreneurs directo
+- **Industria:** Consultoría de gestión, Formación profesional y coaching
+- **Función (opcional, sube precisión):** Consultoría, Formación
+- **Actividad reciente:** "Ha publicado en LinkedIn en los últimos 30 días" — pre-filtra el requisito de "activo" del checklist
+- **Calidad de ticket:** dentro del volumen de "coach", prioriza a mano los que digan "ejecutivo", "negocios", "liderazgo", "empresarial" — son mejor ajuste que coach de vida/bienestar (ticket más bajo)
 
 | Criterio | Definición |
 |---|---|
@@ -81,6 +90,21 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 **El patrón común (por qué buscarlos):** (1) venden tickets de 5-50M+ COP donde UN cliente extra paga tu retainer por meses → tu servicio se justifica solo; (2) dependen 100% de referidos y les aterra esa fragilidad; (3) el dueño SABE que debería ser visible y no tiene ni tiempo ni sistema; (4) casi nadie en español les ofrece marca personal — les llegan agencias de pauta y SEO, no esto; (5) tienen caja real (no son emprendedores de humo).
 
 **Señales de validación:** empresa verificable (web, LinkedIn de empresa, 2-20 empleados) · fundador identificable y activo aunque sea poco · sector de ticket alto de la tabla · país MX/ES/CO. **Su dolor en una frase:** "todos mis clientes llegan por referidos; si las referencias paran un trimestre, la empresa sufre — y yo debería ser la cara de esto pero no sé por dónde empezar."
+
+**Búsqueda en Sales Navigator (día 8, profundizada):**
+
+- **Cargo actual (boolean):** `("fundador" OR "fundadora" OR "socio fundador" OR "socia fundadora" OR "socio director" OR "presidente" OR "CEO") NOT ("recursos humanos" OR "practicante" OR "estudiante" OR "asistente")`
+- **Exclusión de competencia — palabras clave de la empresa:** `NOT ("marketing" OR "agencia de marketing" OR "marketing digital" OR "publicidad" OR "agencia digital")` — saca agencias (tu competencia) del pool sin descartarlas una por una
+- **Ubicación de la persona:** México, España
+- **Sede de la empresa (Account → Headquarters):** México, España — filtra también la ubicación de la EMPRESA, no solo de la persona; a veces vive en un lugar y la empresa está registrada en otro
+- **Tipo de empresa:** Privada (Privately Held) — descarta corporativos públicos
+- **Nivel de antigüedad:** Propietario, Socio, CXO
+- **Tamaño de empresa:** 2-20 empleados (2-50 para legal/contable, suelen ser algo más grandes)
+- **Industria (de la empresa):** TI y consultoría de software · Contabilidad · Servicios jurídicos · Selección de personal y RR. HH. · Arquitectura e ingeniería · Bienes raíces comercial · Transporte/logística
+- **Señal de oro (Spotlight, si tu plan la muestra):** "Crecimiento de la plantilla en los últimos 12 meses" — una empresa contratando tiene caja real, responde solo al criterio #3 del checklist ("puede pagar")
+- **Orden de resultados:** por Grado de conexión, 2º grado primero — te da un contacto en común gratis para tu observación personal y sube aceptación
+- **Actividad reciente:** opcional aquí, NO obligatorio — muchos fundadores B2B publican poco y aun así son prospectos válidos
+- **Para más adelante:** cuando quieras saber qué vertical convierte mejor, separa esta búsqueda combinada en una búsqueda guardada por vertical (TI / contable / legal / inmobiliario / logística) para el análisis semanal
 
 **⚠️ Verificación clave antes de contactar: ¿es dueño o solo gerente contratado?** "Director General" y **"CEO" (agregado día 7 — en consultoras/firmas chicas el fundador suele usar este título)** son ambiguos por sí solos — en unas empresas es el fundador, en otras es un empleado sin participación (sin presupuesto propio y sin el mismo incentivo de construir marca personal). Verifica en 30 segundos, **para CUALQUIER título, incluido CEO:** (1) compara la fecha de fundación de la empresa (en "Acerca de" de LinkedIn) con la antigüedad de esa persona ahí — si coincide, probablemente es fundador; (2) prioriza títulos que sí confirman propiedad sin verificación extra: **Fundador, Socio Fundador, Socio Director, Presidente**; (3) revisa si en la misma empresa aparece alguien más con "Fundador" o "Socio" — ese es mejor prospecto; (4) la web de la empresa ("Quiénes somos") casi siempre dice "fundada por...". **Si de verdad solo encuentras al gerente contratado:** sigue siendo un prospecto válido pero de segunda prioridad — cambia el ángulo del mensaje de "esto es tu activo personal" a "esto te ayuda a cumplir tus metas de crecimiento y te posiciona como referente del sector", y ten en cuenta que el ciclo de venta se alarga porque necesita aprobación del dueño para el presupuesto.
 
