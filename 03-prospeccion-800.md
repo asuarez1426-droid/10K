@@ -66,6 +66,8 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 
 Guarda esta búsqueda para seguir recibiendo matches nuevos durante el trial. Si algún día necesitas más volumen, quita el paso 5 (actividad) primero — es el filtro más laxo de soltar sin perder calidad real.
 
+**⚠️ NO le agregues el filtro de tamaño de empresa 11-50 que usamos en ICP-B (día 8, confusión real).** El tamaño de plantilla significa cosas distintas en cada ICP: en ICP-B, tener equipo es señal de legitimidad (empresa de servicios real). En ICP-A, ser una sola persona ES el perfil correcto — un consultor/coach ejecutivo exitoso casi siempre opera solo. Filtrar por 11-50 aquí saca del pool a tu comprador real y deja firmas de consultoría con equipo (perfil distinto, le venderías a una agencia, no a una marca personal). El bracket 1-10 se queda como está.
+
 **Nota de mecánica (compuestos frágiles):** términos de 2+ palabras como "coach ejecutivo" casi no dan resultados en el campo de cargo — la gente escribe su título de mil formas distintas. Usa siempre palabras sueltas (`coach`, `consultor`, `mentor`, `asesor`, `formador`) y deja que Tamaño de empresa + Nivel de responsabilidad + Industria + Actividad hagan el trabajo de precisión.
 
 | Criterio | Definición |
@@ -130,6 +132,10 @@ Guarda esta búsqueda para seguir recibiendo matches nuevos durante el trial. Si
 Médicos estéticos, odontólogos, abogados, financieros, inmobiliarios premium (MX/ES/CO) con negocio próspero offline y cuenta muerta o institucional. Ticket de sus servicios altísimo → el retainer les es barato. El contacto puede ser por LinkedIn o por DM de IG según cuál tengan más activo; tu Instagram sigue siendo la vitrina que los convence. Ciclo de venta más largo: segunda ola, tras validar A/C.
 
 **Definición operativa de "prospecto validado" (checklist antes de entrar al CRM):** cumple el perfil de su ICP + activo últimos 30 días + puede pagar (negocio real a la vista) + tiene algo que ganar visible con marca personal + tienes UNA observación personal escrita. Sin las 5, no entra.
+
+**Validación rápida (día 8 — no es investigación profunda, ~20-30 seg/perfil):** ni la nevera de ICP-A ni la de ICP-B se validan de una sentada — es reserva de varios días, extraes lo que necesitas por sesión.
+- **ICP-A:** título + "Acerca de" (5 seg) → ¿1-2 publicaciones reales, no spam? (5 seg) → ¿menciona oferta/testimonio? (5 seg) → 1 línea de observación personal (10 seg).
+- **ICP-B:** ¿página de empresa se ve real? (5 seg) → título confirma dueño o aplica el chequeo de 30 seg (fecha de fundación vs. antigüedad) → 1 línea de observación (10 seg).
 
 ## Solución al problema real: "hay días que solo encuentro 5"
 
