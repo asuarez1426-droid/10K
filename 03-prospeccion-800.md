@@ -52,7 +52,10 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 
 **Búsqueda en Sales Navigator (día 8, profundizada):** es de los ICPs más fáciles de encontrar en LinkedIn (se autotitulan así) — el reto es filtrar volumen con el checklist de validación, no encontrarlos.
 
-- **Cargo actual (boolean):** `("consultor" OR "consultora" OR "coach" OR "coach ejecutivo" OR "coach de negocios" OR "business coach" OR "mentor") NOT ("estudiante" OR "en búsqueda de empleo" OR "desempleado" OR "practicante")`
+**⚠️ Mecánica real del filtro (aprendizaje día 8):** el campo "Cargo actual" es de etiquetas, no de texto con OR/NOT pegado — si pegas el string booleano completo lo busca como frase literal y casi no devuelve nada. Escribe UN término, Enter, y repite — Sales Navigator une las etiquetas con OR automáticamente. Para excluir, usa el toggle/sección "Excluir" del mismo filtro y agrega los términos ahí por separado. El boolean con paréntesis/OR/NOT como texto solo funciona en la barra de palabras clave general (arriba), con sintaxis tipo `title:(consultor OR coach)`.
+
+- **Cargo actual (agrega cada uno como etiqueta separada):** `consultor` · `coach` · `mentor` · `asesor empresarial` · `formador` · `estratega de negocios`
+- **Excluir (sección aparte del mismo filtro):** `estudiante` · `en búsqueda de empleo` · `desempleado` · `practicante`
 - **Ubicación:** México, España, Colombia
 - **Nivel de antigüedad:** Propietario, Socio, CXO
 - **Tamaño de empresa:** 1-10 empleados — si tu plan lo ofrece, marca también Tipo de empresa = "Trabajador autónomo" para capturar solopreneurs directo
@@ -91,10 +94,11 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 
 **Señales de validación:** empresa verificable (web, LinkedIn de empresa, 2-20 empleados) · fundador identificable y activo aunque sea poco · sector de ticket alto de la tabla · país MX/ES/CO. **Su dolor en una frase:** "todos mis clientes llegan por referidos; si las referencias paran un trimestre, la empresa sufre — y yo debería ser la cara de esto pero no sé por dónde empezar."
 
-**Búsqueda en Sales Navigator (día 8, profundizada):**
+**Búsqueda en Sales Navigator (día 8, profundizada — misma mecánica de etiquetas que ICP-A, ver nota arriba):**
 
-- **Cargo actual (boolean):** `("fundador" OR "fundadora" OR "socio fundador" OR "socia fundadora" OR "socio director" OR "presidente" OR "CEO") NOT ("recursos humanos" OR "practicante" OR "estudiante" OR "asistente")`
-- **Exclusión de competencia — palabras clave de la empresa:** `NOT ("marketing" OR "agencia de marketing" OR "marketing digital" OR "publicidad" OR "agencia digital")` — saca agencias (tu competencia) del pool sin descartarlas una por una
+- **Cargo actual (agrega cada uno como etiqueta separada):** `fundador` · `fundadora` · `socio fundador` · `socia fundadora` · `socio director` · `presidente` · `CEO`
+- **Excluir (sección aparte del mismo filtro):** `recursos humanos` · `practicante` · `estudiante` · `asistente`
+- **Exclusión de competencia — palabras clave de la empresa (también por etiqueta, no boolean pegado):** excluye `marketing` · `agencia de marketing` · `marketing digital` · `publicidad` · `agencia digital` — saca agencias (tu competencia) del pool sin descartarlas una por una
 - **Ubicación de la persona:** México, España
 - **Sede de la empresa (Account → Headquarters):** México, España — filtra también la ubicación de la EMPRESA, no solo de la persona; a veces vive en un lugar y la empresa está registrada en otro
 - **Tipo de empresa:** Privada (Privately Held) — descarta corporativos públicos
