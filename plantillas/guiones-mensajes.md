@@ -4,6 +4,8 @@
 
 **Regla añadida (corrección tuya — el mensaje 1 NUNCA habla de dinero/clientes/ventas):** a nadie le gusta que le hablen de negocio en el primer contacto, se siente una venta disfrazada de cumplido. El primer mensaje es 100% humano: una observación genuina + curiosidad real por ELLOS (su trabajo, su trayectoria), nunca por su facturación o si consiguen clientes. La pregunta de diagnóstico de negocio se gana DESPUÉS de que ya respondieron algo, no se asume desde el mensaje 1.
 
+**⚠️ Distinción clave (día 8): los guiones 0-10 de abajo son para OUTREACH MANUAL** (tus 10-25/día a mano en IG y LinkedIn calentamiento), donde SÍ investigas a cada persona y escribes una observación real. **Para la campaña masiva de Waalaxy (cientos de personas, sin poder investigar una por una), usa la sección "11. Campaña masiva Waalaxy" más abajo** — mismo espíritu (valor antes que venta), pero con variables automáticas en vez de investigación manual.
+
 ---
 
 ## 0. Mensaje del sprint de validación (semana 1 — no vende nada)
@@ -31,6 +33,12 @@
 > Hola [nombre] 👋 Llegué a tu perfil por [cómo: X hashtag / la cuenta de Y] y me quedé viendo [observación: tu contenido sobre X / tu trabajo en Y]. Se nota que sabes de lo tuyo — ¿hace cuánto estás en esto?
 
 *Misma lógica: cumplido + curiosidad genuina por su historia, cero pregunta de negocio en el mensaje 1.*
+
+### 3b. Instagram — Variante validada: auditoría gratis (día 8, YA funcionó — agendó reunión)
+
+> Hola [nombre], ¿cómo estás? Mira que he estado viendo tu perfil y me asombra, se nota de sobra que tienes demasiada experiencia y eres una verdadera profesional. Pero vi algo que podría ayudarte en tus redes sociales para llegar a más personas y he decidido hacerte un PDF con una auditoría completamente gratis. Si te interesa me comentas.
+
+*Esta variante SÍ menciona algo de negocio en el mensaje 1 (rompe la regla general de arriba) pero funciona porque es valor entregado gratis, no una venta — es la misma lógica de "te hice tu web gratis, quédatela si te gusta". Requiere haber revisado de verdad la cuenta de la persona antes de escribir — solo funciona en outreach manual (IG), no la copies tal cual en LinkedIn/Waalaxy sin haber visto la cuenta real de esa persona (ver sección 11).*
 
 ## 4. Puente a la llamada (cuando responden con interés o describen un dolor)
 
@@ -71,6 +79,24 @@
 > [Nombre], gracias por la llamada de hoy. Como te dije, te resumo lo que haríamos: [3 bullets de entregables ligados a los dolores QUE ÉL DIJO]. Inversión: [precio] mensual, mínimo 3 meses, con la garantía que te comenté. Arrancamos la semana del [fecha] si me confirmas antes del [fecha límite real, 3-4 días]. ¿Dudas que te queden?
 
 ---
+
+## 11. Campaña masiva Waalaxy (LinkedIn, día 8 — sin investigación por persona)
+
+**Por qué es distinta:** Waalaxy manda a cientos de personas — no puedes escribir una observación investigada por cada una, ni puedes revisar su Instagram/TikTok real antes de escribirle (a diferencia del guion 3b, que sí asume que viste la cuenta). La personalización aquí viene de variables automáticas (nombre, cargo), no de investigación manual. La nota de conexión personalizada NO se usa en esta campaña — es un recurso limitado (50 notas) que se reserva para outreach manual de alta prioridad, no para volumen.
+
+**Secuencia (sin nota de conexión — conexión directa, luego 3 mensajes):**
+
+| Mensaje | Cuándo | Texto |
+|---|---|---|
+| **1** | Día 1 (tras conectar) | Hola {nombre}, gracias por conectar. Se nota que tienes bastante experiencia como {cargo} 👌 Una pregunta rápida: ¿le estás sacando provecho a Instagram/TikTok para que más gente te encuentre, o ahora mismo es más un tema pendiente? |
+| **2** | Día 4 | Te cuento por qué pregunto: hago auditorías de contenido completamente gratis — reviso tu Instagram/TikTok y te armo un PDF corto con qué está funcionando, qué te está costando alcance, y qué ajustar. Sin costo, sin compromiso. ¿Te gustaría que te haga la tuya? |
+| **3** | Día 9 | Última vez que te escribo por esto, {nombre} — si te interesa la auditoría gratis, agenda aquí un espacio corto conmigo: [link de agenda] y te la entrego ahí mismo. ¡Éxitos con lo que estás construyendo! |
+
+**Reglas:**
+- El mensaje 2 NO afirma haber revisado ya la cuenta de esa persona (a diferencia del 3b de Instagram) — es una oferta abierta, honesta con lo que de verdad sabes en LinkedIn.
+- Si alguien responde en cualquier punto, la automatización se detiene ahí — sigues tú 100% manual (regla de siempre, doc 03).
+- **Requisito antes de lanzar:** necesitas un link de agenda (Calendly o similar) para que el mensaje 3 funcione a escala — sin eso no puedes coordinar hora por mensaje con cientos de personas.
+- La auditoría real (el PDF que entregas cuando alguien dice que sí) se hace con Claude Cowork, solo para quienes responden — el esfuerzo se gasta en quien ya mostró interés, no en los cientos que no contestan.
 
 ## Uso de Gemini Pro con estos guiones
 

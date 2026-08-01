@@ -25,7 +25,7 @@ Se activa el envío de Waalaxy el día 8 (trial gratuito de 14 días, activado d
 
 | Canal | Volumen en el blitz | Cómo |
 |---|---|---|
-| LinkedIn invitaciones (Waalaxy) | ~300 (150/semana, techo seguro) | Secuencia: invitación con nota → mensaje día 1 → seguimiento día 4 → seguimiento día 9. Variables de personalización SIEMPRE |
+| LinkedIn invitaciones (Waalaxy) | ~300 (150/semana, techo seguro) | Secuencia (día 8, sin nota de conexión — ver plantillas/guiones-mensajes.md sección 11): conexión directa → mensaje día 1 (pregunta suave) → mensaje día 4 (oferta de auditoría gratis) → mensaje día 9 (link de agenda). Variables automáticas (nombre/cargo), no investigación manual |
 | LinkedIn perfiles abiertos (Sales Nav) | ~80-100 | Mensaje directo sin gastar invitación (filtro "Open profile") |
 | Instagram manual | ~350-420 (25-30/día, tus manos) | Tu fortaleza. DMs personalizados + respuesta a stories de prospectos |
 | **TOTAL** | **~750-820** | ✅ Los 800 en 14 días sin quemar ninguna cuenta |
@@ -183,7 +183,7 @@ Criterio general: comenta donde tu COMPRADOR lee, no donde tus colegas aplauden.
 | Herramienta | Uso | Regla de seguridad |
 |---|---|---|
 | **Sales Navigator Advanced** (trial 30 días → pagado tras el primer cliente) | Sourcing masivo con filtros por cargo/industria/tamaño de empresa/geografía + listas guardadas | Actívala en fase 1 para llenar la nevera antes del blitz |
-| **Waalaxy Advanced** (trial 14 días desde día 7 → 58.478 COP/mes si sigues) | Secuencias de invitación + mensaje en LinkedIn (3 pasos: invitación con nota → mensaje día 1 → seguimiento día 4 → seguimiento día 9) | ⚠️ Tu cuenta tiene 25 conexiones — es NUEVA para LinkedIn. El calentamiento de fase 1 (manual) es lo que te permite activar Waalaxy con máx 20-25 invitaciones/día subiendo gradual a 40-50. Variables de personalización SIEMPRE. Automatizar la invitación está bien; **las CONVERSACIONES son 100% manuales, siempre** — ahí se cierra o se pierde |
+| **Waalaxy Advanced** (trial 14 días desde día 7 → 58.478 COP/mes si sigues) | Secuencias de invitación + mensaje en LinkedIn (día 8 — SIN nota de conexión, 3 mensajes con variables automáticas: día 1 pregunta suave → día 4 oferta de auditoría gratis → día 9 link de agenda. Detalle completo en plantillas/guiones-mensajes.md sección 11) | ⚠️ Tu cuenta tiene 25 conexiones — es NUEVA para LinkedIn. El calentamiento de fase 1 (manual) es lo que te permite activar Waalaxy con máx 20-25 invitaciones/día subiendo gradual a 40-50. La nota de conexión personalizada (limitada a 50) se reserva para outreach manual de alta prioridad, no para esta campaña masiva. Automatizar la invitación está bien; **las CONVERSACIONES son 100% manuales, siempre** — ahí se cierra o se pierde |
 | **Manual** | Instagram completo (no automatizar IG: baneo casi seguro) + todas las respuestas y llamadas | La personalización manual es tu ventaja sobre los que spamean |
 
 **Riesgo aceptado y mitigación:** LinkedIn restringe cuentas que automatizan agresivo. Con warm-up + límites conservadores + tasa de aceptación >25% (mensajes personalizados) el riesgo baja mucho. Si llega un aviso de restricción: Waalaxy OFF 2 semanas, se sigue manual. La operación nunca depende de una sola herramienta ni de una sola red.
