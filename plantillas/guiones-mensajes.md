@@ -86,11 +86,13 @@
 
 **Secuencia (sin nota de conexión — conexión directa, luego 3 mensajes):**
 
+**⏱️ Plazo comprimido (día 8 — para maximizar cuántos completan el ciclo dentro de los 14 días del trial):** Día 1 → Día 3 → Día 6 (antes era Día 1 → Día 4 → Día 9). Con el plazo original, solo quien conectaba en los primeros 5 días del trial alcanzaba a ver el mensaje 3. Con el plazo comprimido, cualquiera conectado hasta el día 8 del trial completa el ciclo antes del día 14. El texto no cambia, solo el timing.
+
 | Mensaje | Cuándo | Texto |
 |---|---|---|
 | **1** | Día 1 (tras conectar) | Hola {nombre}, gracias por conectar. Se nota que tienes bastante experiencia como {cargo} 👌 Una pregunta rápida: ¿le estás sacando provecho a Instagram/TikTok para que más gente te encuentre, o ahora mismo es más un tema pendiente? |
-| **2** | Día 4 | Te cuento por qué pregunto: hago auditorías de contenido completamente gratis — reviso tu Instagram/TikTok y te armo un PDF corto con qué está funcionando, qué te está costando alcance, y qué ajustar. Sin costo, sin compromiso. ¿Te gustaría que te haga la tuya? |
-| **3** | Día 9 | Última vez que te escribo por esto, {nombre} — si te interesa la auditoría gratis, agenda aquí un espacio corto conmigo: [link de agenda] y te la entrego ahí mismo. ¡Éxitos con lo que estás construyendo! |
+| **2** | Día 3 | Te cuento por qué pregunto: hago auditorías de contenido completamente gratis — reviso tu Instagram/TikTok y te armo un PDF corto con qué está funcionando, qué te está costando alcance, y qué ajustar. Sin costo, sin compromiso. ¿Te gustaría que te haga la tuya? |
+| **3** | Día 6 | Última vez que te escribo por esto, {nombre} — si te interesa la auditoría gratis, agenda aquí un espacio corto conmigo: [link de agenda] y te la entrego ahí mismo. ¡Éxitos con lo que estás construyendo! |
 
 **Reglas:**
 - El mensaje 2 NO afirma haber revisado ya la cuenta de esa persona (a diferencia del 3b de Instagram) — es una oferta abierta, honesta con lo que de verdad sabes en LinkedIn.

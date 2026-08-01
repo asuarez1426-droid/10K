@@ -25,7 +25,7 @@ Se activa el envío de Waalaxy el día 8 (trial gratuito de 14 días, activado d
 
 | Canal | Volumen en el blitz | Cómo |
 |---|---|---|
-| LinkedIn invitaciones (Waalaxy) | ~300 (150/semana, techo seguro) | Secuencia (día 8, sin nota de conexión — ver plantillas/guiones-mensajes.md sección 11): conexión directa → mensaje día 1 (pregunta suave) → mensaje día 4 (oferta de auditoría gratis) → mensaje día 9 (link de agenda). Variables automáticas (nombre/cargo), no investigación manual |
+| LinkedIn invitaciones (Waalaxy) | ~300 (150/semana, techo seguro) | Secuencia (día 8, sin nota de conexión, plazo comprimido — ver plantillas/guiones-mensajes.md sección 11): conexión directa → mensaje día 1 (pregunta suave) → mensaje día 3 (oferta de auditoría gratis) → mensaje día 6 (link de agenda). Comprimido de 9 a 6 días para que quien conecte hasta el día 8 del trial de 14 alcance a completar el ciclo. Variables automáticas (nombre/cargo), no investigación manual |
 | LinkedIn perfiles abiertos (Sales Nav) | ~80-100 | Mensaje directo sin gastar invitación (filtro "Open profile") |
 | Instagram manual | ~350-420 (25-30/día, tus manos) | Tu fortaleza. DMs personalizados + respuesta a stories de prospectos |
 | **TOTAL** | **~750-820** | ✅ Los 800 en 14 días sin quemar ninguna cuenta |
