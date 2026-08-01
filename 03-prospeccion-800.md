@@ -66,6 +66,8 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 
 Guarda esta búsqueda para seguir recibiendo matches nuevos durante el trial. Si algún día necesitas más volumen, quita el paso 5 (actividad) primero — es el filtro más laxo de soltar sin perder calidad real.
 
+**⚠️ Paso 6 — agrégalo antes de validar (día 8, contaminación real detectada):** dentro de los 147 aparecen consultores de MARKETING — no es tu comprador, ya hace lo que vendes o es tu competencia directa (misma lógica que la exclusión de agencias en ICP-B). Agrega al "Excluir" del campo Cargo: `marketing` · `publicidad` · `SEO` · `redes sociales` · `community manager` · `agencia`. Revisa cuánto baja el número tras esto.
+
 **⚠️ NO le agregues el filtro de tamaño de empresa 11-50 que usamos en ICP-B (día 8, confusión real).** El tamaño de plantilla significa cosas distintas en cada ICP: en ICP-B, tener equipo es señal de legitimidad (empresa de servicios real). En ICP-A, ser una sola persona ES el perfil correcto — un consultor/coach ejecutivo exitoso casi siempre opera solo. Filtrar por 11-50 aquí saca del pool a tu comprador real y deja firmas de consultoría con equipo (perfil distinto, le venderías a una agencia, no a una marca personal). El bracket 1-10 se queda como está.
 
 **Nota de mecánica (compuestos frágiles):** términos de 2+ palabras como "coach ejecutivo" casi no dan resultados en el campo de cargo — la gente escribe su título de mil formas distintas. Usa siempre palabras sueltas (`coach`, `consultor`, `mentor`, `asesor`, `formador`) y deja que Tamaño de empresa + Nivel de responsabilidad + Industria + Actividad hagan el trabajo de precisión.
