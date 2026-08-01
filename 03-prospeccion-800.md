@@ -137,6 +137,13 @@ Médicos estéticos, odontólogos, abogados, financieros, inmobiliarios premium 
 - **ICP-A:** título + "Acerca de" (5 seg) → ¿1-2 publicaciones reales, no spam? (5 seg) → ¿menciona oferta/testimonio? (5 seg) → 1 línea de observación personal (10 seg).
 - **ICP-B:** ¿página de empresa se ve real? (5 seg) → título confirma dueño o aplica el chequeo de 30 seg (fecha de fundación vs. antigüedad) → 1 línea de observación (10 seg).
 
+**Validación específica de fit con TU servicio (contenido orgánico IG/TikTok) — día 8:** el checklist genérico de arriba no dice si esa persona necesita tu servicio puntual. Como sourceas en LinkedIn pero vendes para IG/TikTok, hay un paso extra obligatorio: entra al link de Instagram/TikTok en la sección "Featured"/contacto de su LinkedIn (o búscalo por nombre) y evalúa ESA cuenta con esto:
+
+- ✅ **Verdes (lo que buscas):** publica irregular (huecos de 2+ semanas) · views bajas vs. sus seguidores (ratio <5-10%) · edición amateur pese a negocio serio · tiene casos/testimonios reales que NO aparecen en su contenido · ya lo intentó antes y no lo sostuvo (ráfaga de contenido seguida de silencio — es tu mejor prospecto, ya sabe que lo necesita) · link en bio ya apunta a un embudo real (agenda/programa), solo le falta tráfico.
+- ❌ **Rojas (descarta):** contenido ya pulido y consistente (probablemente ya tiene editor/CM) · cuenta muerta 6+ meses sin negocio real detrás · solo repostea, sin voz propia.
+- **Atajo de 10 seg:** fecha del último post + ratio views/seguidores. Si ambos están mal, ya tienes tu ángulo de apertura antes de escribir el mensaje.
+- Si no tiene ningún link a redes ni las menciona: no descartar de una, solo baja prioridad — no sabes si le importan las redes.
+
 ## Solución al problema real: "hay días que solo encuentro 5"
 
 **El error es buscar prospectos uno a uno todos los días.** El sourcing (encontrar) y el outreach (contactar) son procesos separados: **encuentras en batch, contactas a diario.**
