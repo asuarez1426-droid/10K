@@ -41,6 +41,8 @@ Es el mismo método que usan los documentalistas y vloggers reales: vivir con la
 
 **Traducción operativa:** los clips reales de la semana producen las tres capas — el capítulo (IG/YT), su versión ejecutiva en texto (LinkedIn) y el material de historias.
 
+**¿A qué servicio apunta el contenido de Instagram? (día 10 — duda resuelta):** al ticket alto (agencia — contenido viral con propósito + embudo de historias, doc 02), no al programa de 9 semanas ni a Skool (todavía no activos). Tu cuenta ES el caso de estudio de tu propio servicio: haces en público, con números reales, exactamente lo que venderías a un cliente — esa coherencia es lo que convence a un ICP-C (doc 03). Una sola narrativa, no tres ofertas mezcladas — con audiencia de partida casi cero, diluir el mensaje sale más caro que enfocarlo.
+
 ## Carruseles automatizados con Claude Cowork (día 6 en adelante)
 
 Cowork genera un carrusel diario, inspirado en la estructura de un creador de referencia experto en carruseles virales. Antes de subir cada uno, filtro de 15 segundos:
