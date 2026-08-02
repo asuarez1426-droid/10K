@@ -38,16 +38,18 @@ Si cumpliste el DMV, el día NO fue un fracaso — fue un día mínimo. La racha
 
 ## Sábado — rediseñado desde casa (cambio del día 7: ya no llevas a tu novia a prácticas)
 
+**Despertar 6:00 AM (cambio del día 11 — el viernes suelen trasnochar con tu novia, 1h más de sueño). Todo el bloque corre 1h más tarde que antes, mismo orden y duración:**
+
 | Hora | Bloque |
 |---|---|
-| 5:00-5:15 | Despertar + mente AM |
-| 5:15-6:10 | 🔒 **Prospección (55 min):** 10 nuevos + seguimientos del CRM |
-| 6:10-6:40 | 📚 Mentoría pregrabada de Víctor Hera (30 min) |
-| 6:45-10:45 | 🎓 **TESIS — bloque grande (4h)**, aquí porque tu energía está fresca y ya no hay commute que lo interrumpa |
-| 10:45-11:15 | Desayuno / descanso |
-| 11:15-13:45 | 🔍 **Sourcing pesado** (2-3h en semanas de calentamiento/blitz, doc 03) — LinkedIn Sales Navigator + pozos de comentaristas |
-| 13:45-14:30 | Almuerzo |
-| 14:30-16:30 | 📦 **Bloque de narración/edición de la serie** (ver doc 04: revisas los clips reales de la semana, grabas la narración, y las piezas de autoridad que sí van guionadas) |
+| 6:00-6:15 | Despertar + mente AM |
+| 6:15-7:10 | 🔒 **Prospección (55 min):** 10 nuevos + seguimientos del CRM |
+| 7:10-7:40 | 📚 Mentoría pregrabada de Víctor Hera (30 min) |
+| 7:45-11:45 | 🎓 **TESIS — bloque grande (4h)**, aquí porque tu energía está fresca y ya no hay commute que lo interrumpa |
+| 11:45-12:15 | Desayuno / descanso |
+| 12:15-14:45 | 🔍 **Sourcing pesado** (2-3h en semanas de calentamiento/blitz, doc 03) — LinkedIn Sales Navigator + pozos de comentaristas |
+| 14:45-15:30 | Almuerzo |
+| 15:30-17:30 | 📦 **Bloque de narración/edición de la serie** (ver doc 04: revisas los clips reales de la semana, grabas la narración, y las piezas de autoridad que sí van guionadas) |
 | Resto de la tarde | **LIBRE** — gym si no cayó entre semana, novia, vida |
 
 DMV del sábado: prospección + tesis. Sourcing y narración pueden correrse al domingo si el sábado se complica (tu dato: los fines de semana son tu riesgo — por eso hay margen); doc 03 ya contempla 2-4 sesiones de sourcing repartidas en la semana, no depende solo del sábado.
