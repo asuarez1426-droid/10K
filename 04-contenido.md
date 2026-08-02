@@ -52,6 +52,8 @@ Cowork genera un carrusel diario, inspirado en la estructura de un creador de re
 
 Prueba esta cadencia diaria 1 semana; si empieza a quitarle tiempo al bloque de contacto (lo que de verdad mueve el negocio), se ajusta a 3-4/semana sin culpa.
 
+**⚠️ Automatizar LinkedIn (posts de texto) requiere más cuidado que los carruseles (día 10).** Tu diferenciador ahí es específicamente "números reales, no humo de gurú" — automatizar la GENERACIÓN completa desde cero (sin partir de un momento real tuyo) arriesga producir contenido genérico y perder justo eso. Lo que sí se automatiza/acelera es la escritura y estructura (Estudio Creativo + la fórmula fija de arriba, partiendo siempre de un momento real de tu semana), no la sustancia. Si Cowork también ayuda aquí, misma regla que los carruseles: estructura sí, contenido genérico no, y pasa por el mismo filtro de 15 segundos antes de publicar.
+
 ## Fórmula fija para posts de autoridad en LinkedIn (día 7 — para dejar de partir de cero cada vez)
 
 No se inventa el post: se traduce de algo que ya viviste esa semana (una llamada, un "no", un ajuste, un número real) — es la misma materia prima de la Serie, en versión texto para la audiencia que ya entiende el problema (conciencia 3-4).
