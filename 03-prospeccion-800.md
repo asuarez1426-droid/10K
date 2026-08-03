@@ -32,7 +32,9 @@ Se activa el envío de Waalaxy el día 8 (trial gratuito de 14 días, activado d
 
 **Alarmas de seguridad (las vigilo en el scorecard):** % aceptación LI <20% → bajar ritmo y mejorar nota · aviso de restricción de LinkedIn → Waalaxy OFF inmediato, se sigue manual e IG · IG: máx 30 DMs/día, cero automatización, si te limitan acciones → 48h de solo contenido.
 
-**🚨 Alarma activada (día 12, confirmado):** 18 invitaciones enviadas, 2 aceptadas = ~11% — por debajo del 20% de seguridad. Muestra pequeña (n=18, y algunas invitaciones aún pueden estar pendientes de respuesta, no necesariamente rechazadas), así que no es diagnóstico definitivo todavía, pero coincide con el hallazgo del contacto mal calificado (paso 7 arriba) — hay señal real de contaminación en el pool. **Decisión: NO actives la siguiente tanda de Waalaxy todavía.** Primero aplica las exclusiones de gobierno/marketing a las búsquedas guardadas (confirma que ya están aplicadas a la búsqueda GUARDADA, no solo a la sesión que corriste una vez), deja correr 2-3 días más con el volumen actual para tener una muestra más confiable, y revisa el % de nuevo antes de escalar.
+**✅ Alarma CORREGIDA (día 12):** el "10%" reportado antes era un dato mal registrado. Número real: 18 invitaciones enviadas, **8-10 aceptadas = 44%-56%** — sano, bien por encima del 20% de seguridad. La cuenta está bien; retoma el ramp normal de volumen (20-25→40-50/día). Mantén de todas formas las exclusiones de gobierno/marketing en la búsqueda guardada — no por seguridad de cuenta, sino por calidad del pool.
+
+**La pregunta real (día 12) no es aceptación, es interés de compra:** que acepten conectar no dice si quieren marca personal. La métrica que sí lo dice es **% respuesta al mensaje 1** de los que aceptaron — esa es la que hay que vigilar para saber si ICP-A/B tienen fit real en LinkedIn, no la de aceptación.
 
 ### FASE 3 — Cosecha (días 22-90)
 
