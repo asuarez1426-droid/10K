@@ -54,6 +54,8 @@ Cuando de verdad le escribes, agregas **2 más**: `Estado` (→ Contactado) y `P
 
 % aceptación de invitaciones (salud de la cuenta LinkedIn: <20% = frenar Waalaxy) · % respuesta (respuestas/contactados) · % agendamiento (llamadas/respuestas) · % show-up · % cierre (clientes/llamadas hechas) · costo por cliente en tiempo · tendencia de audiencia por plataforma · cumplimiento de anclas (prospección/entreno/registro) — **la métrica madre: días de anclas cumplidas / días de la semana.**
 
+**⚠️ Trampa de razonamiento a vigilar (día 12, caso real):** un perfil mal calificado que se coló por un bug de filtro (ej. el contacto de gobierno/comercio que no podía usar redes) NO es evidencia de que todo un público sea mal fit — es evidencia de un error de targeting, ya corregible. Y "visto sin responder" en 1-2 días con muestra de <10 NO es señal de rechazo del mercado — es ruido normal. No mezcles estas dos cosas con las reglas de pivote de abajo; ambas necesitan volumen y tiempo reales antes de leerse como tendencia.
+
 ## Reglas de pivote (las aplico yo — decisiones pre-tomadas)
 
 | Checkpoint | Condición | Mi decisión automática |
