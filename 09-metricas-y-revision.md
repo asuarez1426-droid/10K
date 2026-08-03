@@ -1,13 +1,15 @@
 # 09 — Métricas y control (v2): yo llevo el tablero
 
-**Cambio de gobernanza (tu regla #23): yo (Claude) soy el director de operaciones de esta misión.** Yo mido, yo diagnostico, yo decido los ajustes — de prospección, contenido (IG/LinkedIn/YouTube), procesos en Notion/Trello, delegaciones y compras. Tú ejecutas el mundo físico: grabar, enviar, llamar, entrenar. La división es clara: **tú eres las manos y la cara; yo soy el tablero y las decisiones.**
+**Cambio de gobernanza (tu regla #23): yo (Claude) soy el director de operaciones de esta misión.** Yo mido, yo diagnostico, yo decido los ajustes — de prospección, contenido (IG/LinkedIn/YouTube), procesos en Notion, delegaciones y compras. Tú ejecutas el mundo físico: grabar, enviar, llamar, entrenar. La división es clara: **tú eres las manos y la cara; yo soy el tablero y las decisiones.**
+
+**⚠️ Simplificación día 11 — Trello queda PAUSADO, no es parte de tu trabajo diario/semanal.** En la primera revisión dominical real (día 11) confirmé que el tablero llevaba 12 días sin tocarse desde su creación, y me dijiste directamente que no entendías cómo usarlo ni qué se esperaba de ti ahí — señal clara de que sumaba complejidad sin devolver valor. Notion (CRM + Scorecard + Registro de Contenido) ya cubre todo lo que Trello intentaba duplicar. De aquí en adelante NO se espera que abras ni actualices Trello, y mi revisión dominical ya no lo lee — solo Notion. La plantilla sigue en `plantillas/trello-tablero-diario.md` por si algún día (con equipo, doc 10) vuelve a tener sentido.
 
 ## Cómo opera el control
 
 | Ritmo | Qué pasa |
 |---|---|
 | **Diario (tú, 3 min)** | Llenas el scorecard diario en Notion al cerrar el día (base de datos ya creada — solo números) |
-| **Dominical (yo, automático)** | Tengo una revisión programada cada domingo: leo tu Notion (CRM + scorecards + 📈 Registro de Contenido) y tu Trello, calculo las tasas, aplico las reglas de pivote y te entrego: diagnóstico + decisiones de la semana + el ajuste único + **el análisis de contenido por red social** (qué reels escalaron y por qué, qué ganchos convierten en LinkedIn, tendencia de la serie en YouTube, y qué formato doblar la próxima semana). Sin que tengas que pedirlo |
+| **Dominical (yo, automático)** | Tengo una revisión programada cada domingo: leo tu Notion (CRM + scorecards + 📈 Registro de Contenido), calculo las tasas, aplico las reglas de pivote y te entrego: diagnóstico + decisiones de la semana + el ajuste único + **el análisis de contenido por red social** (qué reels escalaron y por qué, qué ganchos convierten en LinkedIn, tendencia de la serie en YouTube, y qué formato doblar la próxima semana). Sin que tengas que pedirlo |
 | **Cuando quieras (tú)** | Me escribes en el chat con cualquier dato/duda/borrador y decido en el momento: ángulos de contenido, respuestas a objeciones, prioridades del día |
 | **Mensual (yo)** | Revisión profunda: ruta realista vs. estirada, desbloqueos del doc 08, dirección de contenido por plataforma, delegaciones (¿toca contratar ya?, doc 10) |
 
@@ -70,7 +72,7 @@ Cuando de verdad le escribes, agregas **2 más**: `Estado` (→ Contactado) y `P
 
 ## Revisión dominical — tu parte (10 min)
 
-Antes de mi revisión automática del domingo: (1) scorecards del la semana completos, (2) CRM al día (estados reales), (3) en Trello, la semana cerrada. Después de mi informe: lees, respondes dudas u objeciones a mis decisiones, y planeamos — el lunes arranca con órdenes claras, no con dudas.
+Antes de mi revisión automática del domingo: (1) scorecards de la semana completos, (2) CRM al día (estados reales). Después de mi informe: lees, respondes dudas u objeciones a mis decisiones, y planeamos — el lunes arranca con órdenes claras, no con dudas.
 
 ## Revisión mensual (yo la preparo, ~último domingo)
 

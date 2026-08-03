@@ -56,7 +56,7 @@ DMV del sábado: prospección + tesis. Sourcing y narración pueden correrse al 
 
 ## Domingo
 
-Mañana libre/descanso · mentoría pregrabada 30 min en algún punto del día (la tesis ya no vive aquí — solo sábado, cambio del día 11) · ⚽ fútbol en la tarde · 7:00 PM llega mi revisión dominical automática → la lees y respondes (15 min) → semana planeada en Trello · scorecard · autohipnosis · a dormir. Si el bloque de narración de la serie no se hizo el sábado, se hace aquí. DMV del domingo: leer mi revisión y responder (15 min).
+Mañana libre/descanso · mentoría pregrabada 30 min en algún punto del día (la tesis ya no vive aquí — solo sábado, cambio del día 11) · ⚽ fútbol en la tarde · 7:00 PM llega mi revisión dominical automática → la lees y respondes (15 min) · scorecard · autohipnosis · a dormir. (Trello pausado desde el día 11 — ya no hace falta planear la semana ahí, ver doc 09.) Si el bloque de narración de la serie no se hizo el sábado, se hace aquí. DMV del domingo: leer mi revisión y responder (15 min).
 
 ## Reglas vivas
 

@@ -32,6 +32,8 @@ Se activa el envío de Waalaxy el día 8 (trial gratuito de 14 días, activado d
 
 **Alarmas de seguridad (las vigilo en el scorecard):** % aceptación LI <20% → bajar ritmo y mejorar nota · aviso de restricción de LinkedIn → Waalaxy OFF inmediato, se sigue manual e IG · IG: máx 30 DMs/día, cero automatización, si te limitan acciones → 48h de solo contenido.
 
+**🚨 Alarma activada (día 11, primera revisión dominical):** 20 invitaciones enviadas, 2 aceptadas = 10% — por debajo del 20% de seguridad. Muestra pequeña (n=20, y algunas invitaciones aún pueden estar pendientes de respuesta, no necesariamente rechazadas), así que no es diagnóstico definitivo todavía, pero coincide con el hallazgo del contacto mal calificado (paso 7 arriba) — hay señal real de contaminación en el pool. **Decisión: NO actives la siguiente tanda de Waalaxy todavía.** Primero aplica las exclusiones de gobierno/marketing a las búsquedas guardadas, deja correr 2-3 días más con el volumen actual para tener una muestra más confiable, y revisa el % de nuevo antes de escalar.
+
 ### FASE 3 — Cosecha (días 22-90)
 
 Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimientos días 3/7/14/30, llamadas, cierres. Ritmo de mantenimiento: 10-15 nuevos/día manuales (IG + LI) para que el pipeline nunca se seque + reactivación de los no-respondidos al día 30. Si el funnel se queda corto de volumen en septiembre: segundo blitz, financiado por entonces con ingresos reales.
@@ -67,6 +69,8 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 Guarda esta búsqueda para seguir recibiendo matches nuevos durante el trial. Si algún día necesitas más volumen, quita el paso 5 (actividad) primero — es el filtro más laxo de soltar sin perder calidad real.
 
 **⚠️ Paso 6 — agrégalo antes de validar (día 8, contaminación real detectada):** dentro de los 147 aparecen consultores de MARKETING — no es tu comprador, ya hace lo que vendes o es tu competencia directa (misma lógica que la exclusión de agencias en ICP-B). Agrega al "Excluir" del campo Cargo: `marketing` · `publicidad` · `SEO` · `redes sociales` · `community manager` · `agencia`. Revisa cuánto baja el número tras esto.
+
+**⚠️ Paso 7 — agrega esto también (día 11, contaminación real detectada en el blitz):** un contacto de Waalaxy respondió que no podía usar redes sociales porque trabaja en el Departamento de Comercio de Miami — empleados públicos/diplomáticos no son tu comprador y muchos tienen restricción interna de usar redes para esto. Agrega al "Excluir" del campo Cargo: `gobierno` · `consulado` · `embajada` · `ministerio` · `secretaría` · `cámara de comercio`. Si tu plan de Sales Navigator tiene filtro de "Tipo de empresa", excluye también "Agencia gubernamental" (es distinto de excluir "Pública/Public Company" — verifica que ambos queden fuera).
 
 **⚠️ NO le agregues el filtro de tamaño de empresa 11-50 que usamos en ICP-B (día 8, confusión real).** El tamaño de plantilla significa cosas distintas en cada ICP: en ICP-B, tener equipo es señal de legitimidad (empresa de servicios real). En ICP-A, ser una sola persona ES el perfil correcto — un consultor/coach ejecutivo exitoso casi siempre opera solo. Filtrar por 11-50 aquí saca del pool a tu comprador real y deja firmas de consultoría con equipo (perfil distinto, le venderías a una agencia, no a una marca personal). El bracket 1-10 se queda como está.
 
@@ -105,7 +109,7 @@ Guarda esta búsqueda para seguir recibiendo matches nuevos durante el trial. Si
 **Búsqueda en Sales Navigator (día 8, profundizada — misma mecánica de etiquetas que ICP-A, ver nota arriba):**
 
 - **Cargo actual (agrega cada uno como etiqueta separada):** `fundador` · `fundadora` · `socio fundador` · `socia fundadora` · `socio director` · `presidente` · `CEO`
-- **Excluir (sección aparte del mismo filtro):** `recursos humanos` · `practicante` · `estudiante` · `asistente`
+- **Excluir (sección aparte del mismo filtro):** `recursos humanos` · `practicante` · `estudiante` · `asistente` · `gobierno` · `consulado` · `embajada` · `ministerio` · `secretaría` · `cámara de comercio` (día 11 — mismo hallazgo que en ICP-A: empleados públicos/diplomáticos no son tu comprador)
 - **Exclusión de competencia — palabras clave de la empresa (también por etiqueta, no boolean pegado):** excluye `marketing` · `agencia de marketing` · `marketing digital` · `publicidad` · `agencia digital` — saca agencias (tu competencia) del pool sin descartarlas una por una
 - **Ubicación de la persona:** México, España
 - **Sede de la empresa (Account → Headquarters):** México, España — filtra también la ubicación de la EMPRESA, no solo de la persona; a veces vive en un lugar y la empresa está registrada en otro

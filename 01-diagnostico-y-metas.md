@@ -16,7 +16,7 @@
 
 - 4–8 horas diarias disponibles — tu ventaja más grande.
 - 1 cliente freelance real → convertible en caso de estudio (pídele resultados medibles y testimonio en la semana 1).
-- Herramientas: Gemini Pro, Notion, Trello, CapCut, LinkedIn, celular para grabar.
+- Herramientas: Gemini Pro, Notion, CapCut, LinkedIn, celular para grabar.
 - Cero deudas de atención: audiencia pequeña significa que puedes pivotar de nicho sin costo.
 
 ### Pasivos / brechas

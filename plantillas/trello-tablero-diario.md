@@ -1,5 +1,9 @@
 # Plantilla — Tablero Trello de ejecución diaria
 
+**⏸️ PAUSADO desde el día 11 — no es parte de tu trabajo diario/semanal (ver doc 09).** El tablero se creó pero nunca se usó en 12 días, y generaba confusión sobre qué hacer ahí encima de todo lo demás. Notion (CRM + Scorecard + Registro de Contenido) ya cubre todo lo que esta plantilla intentaba resolver. Se queda documentada aquí por si algún día, con equipo (doc 10), vuelve a tener sentido — no la abras mientras tanto.
+
+---
+
 Crea un tablero llamado **`⚡ Operación 10K — Ejecución`**. (Si me confirmas en el chat, lo creo yo directamente en tu Trello.)
 
 Trello es tu tablero de EJECUCIÓN (qué hago hoy); Notion es tu sistema de DATOS (CRM y métricas). No los mezcles: los prospectos viven en Notion, las tareas en Trello.

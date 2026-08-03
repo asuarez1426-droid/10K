@@ -35,7 +35,7 @@ Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos
 | Quién | Rol |
 |---|---|
 | **Tú** | Las manos y la cara: grabas, envías, llamas, entrenas, registras (3 min/día) |
-| **Claude (yo)** | **Director de operaciones:** mido los scorecards, tomo las decisiones (prospección, procesos, delegaciones), dirijo Notion y Trello, hago la revisión dominical automática, y el análisis semanal de qué está funcionando por red |
+| **Claude (yo)** | **Director de operaciones:** mido los scorecards, tomo las decisiones (prospección, procesos, delegaciones), dirijo Notion, hago la revisión dominical automática, y el análisis semanal de qué está funcionando por red |
 | **Estudio Creativo** (Proyecto de Claude aparte) | Tu director creativo día a día: ideación, guiones, ganchos — sobre tu Playbook de Contenido (doc 04) |
 | **2 chats de Gemini** | Coach de Nutrición y Coach de Entrenamiento por separado (multimodal, con tus fotos) — doc 06 |
 | **Editor freelance** | Se activa el día que firmes tu primer cliente de agencia; se paga de su retainer y edita solo contenido de clientes (doc 02) |
@@ -59,13 +59,13 @@ $10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (p
 | [08 — Finanzas](08-finanzas.md) | Estudio ya completo ($0 en equipos) · **apartamento primero** · FX6 cancelada · desbloqueos |
 | [09 — Métricas y control](09-metricas-y-revision.md) | **Yo llevo el tablero:** scorecard diario ampliado, revisión dominical automática, reglas de pivote |
 | [10 — Fase 2: equipo y $30K](10-fase-2-equipo-30k.md) | Editor · setter · closer · ayudante personal · las 3 palancas |
-| [Plantillas](plantillas/) | CRM Notion · tablero Trello · guiones de mensajes |
+| [Plantillas](plantillas/) | CRM Notion · guiones de mensajes · tablero Trello (opcional, ver nota abajo) |
 
 ## Sistemas vivos (los administro yo) — YA CREADOS ✅
 
-- **Notion HQ:** [⚡ Operación 10K — HQ](https://app.notion.com/p/3a49c8785d7f811fbc5dd5fabcb8cc08) — contiene el 🎯 CRM Prospectos, el 📊 Scorecard Diario y el 📈 Registro de Contenido.
-- **Trello:** [⚡ Operación 10K — Ejecución](https://trello.com/b/szSAFvRf) — 6 listas con las tarjetas fijas de anclas y el checklist diario de prospección.
-- **Revisión dominical automática:** programada cada domingo 7pm (Colombia) — leo tus datos y entrego diagnóstico + decisiones sin que lo pidas.
+- **Notion HQ:** [⚡ Operación 10K — HQ](https://app.notion.com/p/3a49c8785d7f811fbc5dd5fabcb8cc08) — contiene el 🎯 CRM Prospectos, el 📊 Scorecard Diario y el 📈 Registro de Contenido. **Este es el único sistema que necesitas tocar día a día.**
+- **Trello:** [⚡ Operación 10K — Ejecución](https://trello.com/b/szSAFvRf) — **pausado desde el día 11 (decisión de simplificación, ver doc 09).** No hace falta que lo abras ni lo actualices; queda como referencia si algún día lo quieres retomar.
+- **Revisión dominical automática:** programada cada domingo 7pm (Colombia) — leo tus datos (solo Notion) y entrego diagnóstico + decisiones sin que lo pidas.
 
 ## 🤖 Los 5 chats de IA que debes crear (checklist)
 
@@ -78,7 +78,7 @@ $10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (p
 | 5 | Estudio Creativo — Operación 10K | Proyecto de Claude | Ideación de capítulos, guiones y ganchos sobre tu estructura | doc 04 |
 | 6 | 🧭 Copiloto — Operación 10K | Proyecto de Claude | **Tu director de operaciones portátil en Claude chat** — decisiones y dudas del día a día sin abrir Claude Code (con el repo completo como Project Knowledge) | doc 09 |
 
-Yo (esta sesión) sigo siendo el director de operaciones — mido, decido y hago la revisión dominical con lo que registres en Notion/Trello.
+Yo (esta sesión) sigo siendo el director de operaciones — mido, decido y hago la revisión dominical con lo que registres en Notion.
 
 ## ⚠️ Lo que falta de ti (responde en el chat cuando puedas)
 
