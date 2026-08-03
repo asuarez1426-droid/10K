@@ -32,7 +32,7 @@ Se activa el envío de Waalaxy el día 8 (trial gratuito de 14 días, activado d
 
 **Alarmas de seguridad (las vigilo en el scorecard):** % aceptación LI <20% → bajar ritmo y mejorar nota · aviso de restricción de LinkedIn → Waalaxy OFF inmediato, se sigue manual e IG · IG: máx 30 DMs/día, cero automatización, si te limitan acciones → 48h de solo contenido.
 
-**🚨 Alarma activada (día 11, primera revisión dominical):** 20 invitaciones enviadas, 2 aceptadas = 10% — por debajo del 20% de seguridad. Muestra pequeña (n=20, y algunas invitaciones aún pueden estar pendientes de respuesta, no necesariamente rechazadas), así que no es diagnóstico definitivo todavía, pero coincide con el hallazgo del contacto mal calificado (paso 7 arriba) — hay señal real de contaminación en el pool. **Decisión: NO actives la siguiente tanda de Waalaxy todavía.** Primero aplica las exclusiones de gobierno/marketing a las búsquedas guardadas, deja correr 2-3 días más con el volumen actual para tener una muestra más confiable, y revisa el % de nuevo antes de escalar.
+**🚨 Alarma activada (día 12, confirmado):** 18 invitaciones enviadas, 2 aceptadas = ~11% — por debajo del 20% de seguridad. Muestra pequeña (n=18, y algunas invitaciones aún pueden estar pendientes de respuesta, no necesariamente rechazadas), así que no es diagnóstico definitivo todavía, pero coincide con el hallazgo del contacto mal calificado (paso 7 arriba) — hay señal real de contaminación en el pool. **Decisión: NO actives la siguiente tanda de Waalaxy todavía.** Primero aplica las exclusiones de gobierno/marketing a las búsquedas guardadas (confirma que ya están aplicadas a la búsqueda GUARDADA, no solo a la sesión que corriste una vez), deja correr 2-3 días más con el volumen actual para tener una muestra más confiable, y revisa el % de nuevo antes de escalar.
 
 ### FASE 3 — Cosecha (días 22-90)
 
@@ -47,6 +47,8 @@ Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimient
 | Tu regla 27 | Con el blitz, la aceleración ES el plan base. Si hay cliente cerrado ≤ día 14 (5 de agosto) → el segundo blitz de septiembre se financia y programa de una vez |
 
 ## ICPs validados — atacamos los 4 EN PARALELO desde el día 1 (tu punto 22)
+
+**⚠️ Rebalanceo día 12 (no es cambio de nicho — sigue vigente la regla de doc 09 de no tocar nicho antes del día 45):** tu lectura de que muchos consultores/coaches ejecutivos de ICP-A no valoran construir marca personal es una hipótesis real que vale la pena vigilar, pero todavía es intuición con poca data dura detrás (18 invitaciones, casi sin conversaciones). En vez de abandonar ICP-A, **inclina más peso hacia ICP-C (coach/infoproductor en IG, abajo)** — ya es un ICP validado en el sistema, no es una idea nueva, y coincide con lo que mencionas de "infoproductores". Es ajustar la mezcla dentro de los 4 ICPs ya definidos, no un pivote de nicho.
 
 **Aclaración de canal (tu punto 5 — corrige mi lectura anterior):** cuando estos ICPs mencionan Instagram, NO significa "búscalos ahí" — significa **"muéstrales tus resultados ahí."** Instagram en este sistema es tu vitrina de prueba (la Serie, los casos, los resultados) que construye confianza y genera inbound; el sourcing activo (encontrar y contactar en frío) vive sobre todo en LinkedIn, donde existen los datos profesionales y los filtros. La excepción es ICP-C: ahí el contacto directo por IG sí aplica porque es literalmente donde esas personas viven y conversan.
 
