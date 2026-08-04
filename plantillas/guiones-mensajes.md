@@ -91,7 +91,7 @@
 | Mensaje | Cuándo | Texto |
 |---|---|---|
 | **1** | Día 1 (tras conectar) | Hola {nombre}, gracias por conectar. Se nota que tienes bastante experiencia como {cargo} 👌 Una pregunta rápida: ¿le estás sacando provecho a Instagram/TikTok para que más gente te encuentre, o ahora mismo es más un tema pendiente? |
-| **2** | Día 3 | Te cuento por qué pregunto: hago auditorías de contenido completamente gratis — reviso tu Instagram/TikTok y te armo un PDF corto con qué está funcionando, qué te está costando alcance, y qué ajustar. Sin costo, sin compromiso. ¿Te gustaría que te haga la tuya? |
+| **2** | Día 3 | **v2 (día 13, reposicionamiento "marca ganadora" — usar desde campaña 3, no editar la 2 en vuelo):** Te cuento por qué pregunto: ayudo a profesionales como tú a construir una marca con una oferta que realmente convierte — no solo contenido, sino algo bien armado detrás para vender. Hago auditorías gratis donde reviso tu perfil y te muestro qué le falta a tu marca para convertir mejor. Sin costo, sin compromiso. ¿Te gustaría que te haga la tuya? *(v1, aún corriendo en campaña 2: "hago auditorías de contenido completamente gratis — reviso tu Instagram/TikTok y te armo un PDF corto con qué está funcionando, qué te está costando alcance, y qué ajustar. Sin costo, sin compromiso. ¿Te gustaría que te haga la tuya?")* |
 | **3** | Día 6 | Última vez que te escribo por esto, {nombre} — si te interesa la auditoría gratis, agenda aquí un espacio corto conmigo: [link de agenda] y te la entrego ahí mismo. ¡Éxitos con lo que estás construyendo! |
 
 **Reglas:**
