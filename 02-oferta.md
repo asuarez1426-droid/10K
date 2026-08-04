@@ -1,6 +1,21 @@
-# 02 — Oferta: tu escalera de valor (v4 — corregida a TU experticia real)
+# 02 — Oferta: tu escalera de valor (v5 — reposicionada: vendes la MARCA GANADORA, no el contenido)
 
 **Corrección importante:** la versión anterior te convertía en un servicio de prospección/community management — eso no es lo que sabes hacer ni lo que quieres vender. **Lo que tú sabes hacer:** crear contenido viral CON PROPÓSITO para una marca (o enseñarle a hacerlo), y construir comunidad + leads orgánicos a través de un embudo de historias dentro del propio perfil de la marca. Esta versión reconstruye la oferta alrededor de eso.
+
+## 🎯 Reposicionamiento (día 13, trabajado con el Consultor de Oferta — nació de la llamada con Yormary)
+
+**El descubrimiento:** en tu primera llamada de venta, la prospecto preguntó "¿qué te hace diferente?" y no había respuesta. La causa no era falta de diferencia — era que el titular vendía el MECANISMO (creación de contenido, lo mismo que dice toda agencia) con el resultado escondido en la letra pequeña. **El titular nuevo vende el RESULTADO: construyo marcas ganadoras — una marca con una oferta que convierte. El contenido es el vehículo, no el producto.**
+
+**La respuesta a "¿qué te hace diferente?" (memorízala, es tu pitch):**
+> "Las agencias te venden contenido y views. Yo te construyo una marca con una oferta que convierte — el contenido es solo cómo llegamos ahí. De nada te sirven 100.000 views si no hay nada bien armado que comprar."
+
+**Cómo se compra (el cliente elige por plan de pago, la escalera de abajo no cambia):**
+- Paga más → **Done-For-You**: yo construyo y opero su marca ganadora completa (el high ticket de abajo).
+- Paga menos → **Done-With-You**: le enseño a construirla mientras lo acompaño semana a semana (el programa de 9 semanas de abajo).
+
+**La promesa se adapta por ICP, el paraguas es el mismo:** a un coach/infoproductor (ICP-C), "marca con oferta ganadora" ataca directo su dolor de "audiencia que no convierte". A un fundador B2B (ICP-B), su oferta ya existe (su servicio) — la marca ganadora es la que le trae clientes sin depender de referidos. Mismo posicionamiento, énfasis distinto en el mensaje.
+
+**Nota de estructura:** esto NO fue una oferta nueva — el entregable #3 del high ticket (diseño de su producto high ticket propio) y el nombre "Marca Ganadora" del programa de 9 semanas ya existían abajo. Lo que cambió es el orden: el resultado pasó del entregable #3 al titular. Nada de la escalera se reconstruye.
 
 **Mercado desde el día 1: todo el mundo hispanohablante**, con prioridad de prospección en **México y España** (mejor capacidad adquisitiva y tickets 2-3× Colombia), sin descartar Colombia/LATAM.
 
