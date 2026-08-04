@@ -164,7 +164,7 @@ ESTILO: español natural, cero clichés de "gurú de LinkedIn", directo, con la 
 alguien que ejecuta y no solo habla.
 ```
 
-**Reparto creativo entre IAs:** el Estudio Creativo (arriba) = director creativo día a día, para tu marca y luego tus clientes. Yo (esta sesión, Claude Code) = análisis semanal de qué está funcionando por red y decisiones de dirección de contenido, como parte de mi rol de control (doc 09). Gemini = investigación de tendencias/audios por mercado (MX/ES), análisis de competidores, y todo el seguimiento físico/nutrición (doc 06).
+**Reparto creativo entre IAs:** el Estudio Creativo (arriba) = director creativo día a día, para tu marca y luego tus clientes. Yo (esta sesión, Claude Code) = análisis semanal de qué está funcionando por red y decisiones de dirección de contenido, como parte de mi rol de control (doc 09). Gemini = investigación de tendencias/audios por mercado (MX/ES), y todo el seguimiento físico/nutrición (doc 06). **Análisis de competidores en reels (actualizado día 13):** lo mueve Claude Cowork, no Gemini — el usuario armó un flujo donde Cowork estudia referentes (cuentas de referencia), sus mejores reels, outliers y patrones, comparados contra la cuenta propia. Las conclusiones de ese análisis se llevan al Estudio Creativo para sumarlas al Playbook de Contenido permanente.
 
 ## Tu estudio de grabación (ya está completo — no se compra nada)
 
