@@ -43,24 +43,25 @@ Es el mismo método que usan los documentalistas y vloggers reales: vivir con la
 
 **¿A qué servicio apunta el contenido de Instagram? (día 10 — duda resuelta):** al ticket alto (agencia — contenido viral con propósito + embudo de historias, doc 02), no al programa de 9 semanas ni a Skool (todavía no activos). Tu cuenta ES el caso de estudio de tu propio servicio: haces en público, con números reales, exactamente lo que venderías a un cliente — esa coherencia es lo que convence a un ICP-C (doc 03). Una sola narrativa, no tres ofertas mezcladas — con audiencia de partida casi cero, diluir el mensaje sale más caro que enfocarlo.
 
-## Contenido de LinkedIn: brief antes de desarrollar (día 14)
+## ⚠️ Carruseles de Cowork DESCONTINUADOS (día 14)
 
-Waalaxy trae atención/conexiones nuevas a la cuenta — el contenido orgánico es lo que nutre y monetiza esa atención (se refuerzan, no compiten con la prospección fría). Proceso en 2 pasos con el Estudio Creativo: (1) brief en texto plano de lo que se va a decir, sin diseño todavía; (2) solo tras aprobar el brief, se desarrolla en formato final (estructura de referente + fórmula de 4 pasos). Evita piezas que se desarrollan de una y salen genéricas por saltarse la planeación del mensaje.
+El pipeline anterior ("Cowork genera un carrusel diario inspirado en un referente") se retira — calidad visual insuficiente ("estética de 2019"). Reemplazado por completo por el pipeline de abajo (Estudio Creativo + Google Flow/Nano Banana Pro).
 
-## Flujo diario unificado IG + LinkedIn (día 14 — un solo input, dos redes)
+## Pipeline de contenido con imágenes: Estudio Creativo + Google Flow/Nano Banana Pro (día 14 — LinkedIn e Instagram)
 
-No hace falta ideación separada por red: **el mismo momento real que capturas para la Serie alimenta el carrusel de IG (vía Cowork) Y el post de LinkedIn (vía Estudio Creativo)**, cada uno estructurado con la técnica de referente ya construida (analizar patrón de un creador de referencia → plantilla reutilizable → rellenar con tu historia real, nunca su contenido literal). Antes de publicar cualquiera de los dos: reposicionamiento actual ("marca ganadora", no solo contenido) + tu filtro de 15 segundos.
+Waalaxy trae atención/conexiones nuevas a la cuenta — el contenido orgánico es lo que nutre y monetiza esa atención (se refuerzan, no compiten con la prospección fría). **Un solo momento real alimenta las dos redes**, cada una con su propio referente y su propia adaptación (LinkedIn = conciencia 3-4, autoridad pura; Instagram = conciencia 0-1, ganchos amplios) — mismo proceso de 2 pasos con el Estudio Creativo en ambas:
 
-## Carruseles automatizados con Claude Cowork (día 6 en adelante)
+1. **Brief:** antes de desarrollar cualquier pieza, el Estudio Creativo entrega un brief en texto plano de lo que se va a decir — canalizado sobre la estructura del referente de esa red, aplicado a tus temas reales. Sin diseño ni prompts de imagen todavía.
+2. **Desarrollo:** solo tras aprobar el brief, se desarrolla en dos partes — (a) el texto/copy final (estructura del referente + tu fórmula de 4 pasos: gancho-contexto-enseñanza-cierre) y (b) un prompt de generación de imagen por pieza/slide, listo para usar en **Google Flow con Nano Banana Pro**.
 
-Cowork genera un carrusel diario, inspirado en la estructura de un creador de referencia experto en carruseles virales. Antes de subir cada uno, filtro de 15 segundos:
+Antes de publicar cualquiera de las dos: reposicionamiento actual ("marca ganadora", el contenido es el vehículo, no el producto) + tu filtro de 15 segundos:
 
-1. **¿Suena a algo que yo diría?** Si es genérico o no tiene un punto real, se ajusta antes de publicar — tu diferenciador es "contenido con propósito", no viralidad vacía.
-2. **¿Es estructura o es copia?** Inspirarse en el ritmo/ganchos/formato del creador de referencia está bien. Reproducir sus ejemplos, historias o diseños específicos de cerca no — eso es plagio, no inspiración. Regla simple: **estructura sí, contenido literal no.**
+1. **¿Suena a algo que yo diría?** Si es genérico o no tiene un punto real, se ajusta antes de publicar.
+2. **¿Es estructura o es copia?** Inspirarse en el ritmo/ganchos/formato del referente está bien. Reproducir sus ejemplos, historias o diseños específicos de cerca no — eso es plagio. Regla simple: **estructura sí, contenido literal no.**
 
-Prueba esta cadencia diaria 1 semana; si empieza a quitarle tiempo al bloque de contacto (lo que de verdad mueve el negocio), se ajusta a 3-4/semana sin culpa.
+**⚠️ Por qué esto requiere más cuidado que un carrusel genérico:** tu diferenciador es "números reales, no humo de gurú". Generar contenido completo desde cero (sin partir de un momento real tuyo) arriesga producir algo genérico y perder justo eso — por eso el paso 1 (brief) existe, para que la sustancia se planee antes de que el formato/imagen se desarrolle.
 
-**⚠️ Automatizar LinkedIn (posts de texto) requiere más cuidado que los carruseles (día 10).** Tu diferenciador ahí es específicamente "números reales, no humo de gurú" — automatizar la GENERACIÓN completa desde cero (sin partir de un momento real tuyo) arriesga producir contenido genérico y perder justo eso. Lo que sí se automatiza/acelera es la escritura y estructura (Estudio Creativo + la fórmula fija de arriba, partiendo siempre de un momento real de tu semana), no la sustancia. Si Cowork también ayuda aquí, misma regla que los carruseles: estructura sí, contenido genérico no, y pasa por el mismo filtro de 15 segundos antes de publicar.
+Prueba esta cadencia 1 semana; si el paso de generar imágenes en Google Flow empieza a quitarle tiempo al bloque de contacto (lo que de verdad mueve el negocio), se ajusta sin culpa.
 
 ## Fórmula fija para posts de autoridad en LinkedIn (día 7 — para dejar de partir de cero cada vez)
 
