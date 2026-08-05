@@ -43,6 +43,10 @@ Es el mismo método que usan los documentalistas y vloggers reales: vivir con la
 
 **¿A qué servicio apunta el contenido de Instagram? (día 10 — duda resuelta):** al ticket alto (agencia — contenido viral con propósito + embudo de historias, doc 02), no al programa de 9 semanas ni a Skool (todavía no activos). Tu cuenta ES el caso de estudio de tu propio servicio: haces en público, con números reales, exactamente lo que venderías a un cliente — esa coherencia es lo que convence a un ICP-C (doc 03). Una sola narrativa, no tres ofertas mezcladas — con audiencia de partida casi cero, diluir el mensaje sale más caro que enfocarlo.
 
+## Flujo diario unificado IG + LinkedIn (día 14 — un solo input, dos redes)
+
+No hace falta ideación separada por red: **el mismo momento real que capturas para la Serie alimenta el carrusel de IG (vía Cowork) Y el post de LinkedIn (vía Estudio Creativo)**, cada uno estructurado con la técnica de referente ya construida (analizar patrón de un creador de referencia → plantilla reutilizable → rellenar con tu historia real, nunca su contenido literal). Antes de publicar cualquiera de los dos: reposicionamiento actual ("marca ganadora", no solo contenido) + tu filtro de 15 segundos.
+
 ## Carruseles automatizados con Claude Cowork (día 6 en adelante)
 
 Cowork genera un carrusel diario, inspirado en la estructura de un creador de referencia experto en carruseles virales. Antes de subir cada uno, filtro de 15 segundos:
