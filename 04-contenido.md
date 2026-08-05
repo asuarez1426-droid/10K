@@ -51,6 +51,7 @@ El pipeline anterior ("Cowork genera un carrusel diario inspirado en un referent
 
 Waalaxy trae atención/conexiones nuevas a la cuenta — el contenido orgánico es lo que nutre y monetiza esa atención (se refuerzan, no compiten con la prospección fría). **Un solo momento real alimenta las dos redes**, cada una con su propio referente y su propia adaptación (LinkedIn = conciencia 3-4, autoridad pura; Instagram = conciencia 0-1, ganchos amplios) — mismo proceso de 2 pasos con el Estudio Creativo en ambas:
 
+0. **Investigación del referente (Claude Cowork):** Cowork analiza el perfil del referente (mejores piezas, patrón estructural, estilo visual, outliers y por qué funcionan) y entrega un resumen estructurado — ese resumen alimenta el paso 1.
 1. **Brief:** antes de desarrollar cualquier pieza, el Estudio Creativo entrega un brief en texto plano de lo que se va a decir — canalizado sobre la estructura del referente de esa red, aplicado a tus temas reales. Sin diseño ni prompts de imagen todavía.
 2. **Desarrollo:** solo tras aprobar el brief, se desarrolla en dos partes — (a) el texto/copy final (estructura del referente + tu fórmula de 4 pasos: gancho-contexto-enseñanza-cierre) y (b) un prompt de generación de imagen por pieza/slide, listo para usar en **Google Flow con Nano Banana Pro**.
 
