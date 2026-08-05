@@ -43,6 +43,10 @@ Es el mismo método que usan los documentalistas y vloggers reales: vivir con la
 
 **¿A qué servicio apunta el contenido de Instagram? (día 10 — duda resuelta):** al ticket alto (agencia — contenido viral con propósito + embudo de historias, doc 02), no al programa de 9 semanas ni a Skool (todavía no activos). Tu cuenta ES el caso de estudio de tu propio servicio: haces en público, con números reales, exactamente lo que venderías a un cliente — esa coherencia es lo que convence a un ICP-C (doc 03). Una sola narrativa, no tres ofertas mezcladas — con audiencia de partida casi cero, diluir el mensaje sale más caro que enfocarlo.
 
+## Contenido de LinkedIn: brief antes de desarrollar (día 14)
+
+Waalaxy trae atención/conexiones nuevas a la cuenta — el contenido orgánico es lo que nutre y monetiza esa atención (se refuerzan, no compiten con la prospección fría). Proceso en 2 pasos con el Estudio Creativo: (1) brief en texto plano de lo que se va a decir, sin diseño todavía; (2) solo tras aprobar el brief, se desarrolla en formato final (estructura de referente + fórmula de 4 pasos). Evita piezas que se desarrollan de una y salen genéricas por saltarse la planeación del mensaje.
+
 ## Flujo diario unificado IG + LinkedIn (día 14 — un solo input, dos redes)
 
 No hace falta ideación separada por red: **el mismo momento real que capturas para la Serie alimenta el carrusel de IG (vía Cowork) Y el post de LinkedIn (vía Estudio Creativo)**, cada uno estructurado con la técnica de referente ya construida (analizar patrón de un creador de referencia → plantilla reutilizable → rellenar con tu historia real, nunca su contenido literal). Antes de publicar cualquiera de los dos: reposicionamiento actual ("marca ganadora", no solo contenido) + tu filtro de 15 segundos.
