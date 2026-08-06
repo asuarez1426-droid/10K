@@ -53,6 +53,12 @@ Con esto se produce contenido al nivel que la operación necesita hasta bien pas
 | Nov | 18-28M / 70M | Book 6 Ultra si se sostuvo ≥16M. Lanzamiento Skool |
 | Dic | 25-40M / 120M | S26 + Watch Ultra si ≥20M. Swift entra a conteo |
 
+## ⚠️ Distinción: pauta de crecimiento propio vs. pauta de práctica (día 15)
+
+**Pauta para hacer crecer tu propia cuenta** sigue siendo "reinversión" (20% de facturación futura, nunca antes de facturar — sin excepciones).
+
+**Pauta de práctica, acotada y pequeña (ej. 120K COP), en una cuenta aparte, para aprender a manejarla ANTES de tocar el presupuesto real de un cliente existente** es una categoría distinta: reduce el riesgo de una relación de ingreso que ya tienes (mejor cometer errores de aprendizaje con tu propia plata pequeña que con la del cliente). Esto sí puede salir del disponible mensual, siempre que quede acotado a lo presupuestado — si en la práctica "hace falta un poco más para ver resultados", eso es la señal de parar y reevaluar, no de estirar el gasto.
+
 ## Reglas anti-sabotaje (sin cambios)
 
 1. Nada a crédito para la lista de metas — todo en efectivo del fondo.
