@@ -94,6 +94,10 @@ No vendes "contenido" genérico ni "prospección" — vendes **transformar la cu
 - **Cuándo:** cuando la serie de 90 días (doc 04) haya construido audiencia real (2.000+ seguidores comprometidos). Lanzarla antes = comunidad fantasma que te quema.
 - **Por qué es la palanca de diciembre:** 150 miembros × $45 = $6.750 USD/mes RECURRENTES sin techo de horas tuyas.
 
+## ⚠️ Excepción puntual con tu cliente actual de seguros (día 15) — no cambia lo que vendes
+
+Tu cliente actual (agencia de seguros) te pidió ayuda para reclutar vendedores usando LinkedIn/Waalaxy. **Esto NO es vender prospección como servicio** (regla que sigue intacta abajo) porque: (1) le ENSEÑAS a usar la herramienta con su propia cuenta, tú no la operas de forma continua; (2) es reclutamiento de vendedores para su equipo, no generación de leads de venta; (3) es puntual/acordado explícitamente, no un servicio nuevo que ahora ofreces. Si algún día esto se repite con otro cliente y deja de ser "enseñar una vez" para volverse "yo lo opero cada semana", ahí sí se convierte en el problema que esta regla existe para evitar — revisar con cuidado antes de aceptar.
+
 ## Sprint de validación de nicho — Semana 1 (sigue vigente)
 
 30 prospectos × 3-4 nichos candidatos, mensaje de validación, decisión el día 5-7. Con listas que incluyen México y España desde el primer mensaje. Los ICPs detallados por plataforma están en el doc 03. **Nota:** esto es TU proceso para conseguir clientes (prospección propia, doc 03) — no confundir con lo que le VENDES al cliente una vez firma (contenido + embudo, arriba). Son dos cosas distintas y así se quedan.
