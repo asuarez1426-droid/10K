@@ -80,6 +80,16 @@
 
 ---
 
+## 11b. Variante ICP-D (día 17) — profesionales sin conciencia del concepto "marca personal"
+
+Aprendizaje real (caso Israel, ICP-A): no le preguntes a alguien si quiere algo que no sabe que existe. Para conciencia 0 (no tienen el concepto en la cabeza — típico en ICP-D: médicos, optometristas, quiroprácticos, fisioterapeutas), nunca uses "marca personal" en el mensaje 1 — pregunta por algo que viven a diario, introduce el concepto después ya conectado a un resultado.
+
+| Mensaje | Cuándo | Texto |
+|---|---|---|
+| 1 | Día 1 | Hola {nombre}, gracias por conectar. Se nota tu trayectoria como {cargo} 👌 Una pregunta rápida: ¿la mayoría de tus pacientes llegan por recomendación, o también te encuentran buscando en internet o redes? |
+| 2 | Día 3 | Te cuento por qué pregunto: ayudo a profesionales de la salud a que más pacientes los encuentren y confíen en ellos ANTES de la primera cita — mostrando quién eres y cómo trabajas, no solo el nombre del consultorio. Hago auditorías gratis — reviso tu presencia actual y te muestro qué le falta. ¿Te gustaría que te haga la tuya? |
+| 3 | Día 6 | Última vez que te escribo por esto, {nombre} — si te interesa la auditoría gratis, agenda aquí un espacio corto: [link] y te la entrego ahí mismo. |
+
 ## 11. Campaña masiva Waalaxy (LinkedIn, día 8 — sin investigación por persona)
 
 **Por qué es distinta:** Waalaxy manda a cientos de personas — no puedes escribir una observación investigada por cada una, ni puedes revisar su Instagram/TikTok real antes de escribirle (a diferencia del guion 3b, que sí asume que viste la cuenta). La personalización aquí viene de variables automáticas (nombre, cargo), no de investigación manual. La nota de conexión personalizada NO se usa en esta campaña — es un recurso limitado (50 notas) que se reserva para outreach manual de alta prioridad, no para volumen.

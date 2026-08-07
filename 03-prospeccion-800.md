@@ -147,6 +147,17 @@ Guarda esta búsqueda para seguir recibiendo matches nuevos durante el trial. Si
 
 Médicos estéticos, odontólogos, abogados, financieros, inmobiliarios premium (MX/ES/CO) con negocio próspero offline y cuenta muerta o institucional. Ticket de sus servicios altísimo → el retainer les es barato. El contacto puede ser por LinkedIn o por DM de IG según cuál tengan más activo; tu Instagram sigue siendo la vitrina que los convence. Ciclo de venta más largo: segunda ola, tras validar A/C.
 
+**✅ ACTIVADO día 17** — el aprendizaje de ICP-A (Israel: no tiene el concepto de "marca personal" en la cabeza, preguntarle por eso es ilógico) llevó a activar esta segunda ola antes de lo previsto, con un subgrupo concreto: **dueños/socios/propietarios de servicios de bienestar y mantenimiento físico** — consultorios médicos, optometristas, quiroprácticos, fisioterapeutas, terapeutas ocupacionales, logopedas.
+
+**Búsqueda en Sales Navigator:**
+- **Cargo (etiquetas):** `propietario` · `dueño` · `director` — más el título profesional directo (`optometrista`, `quiropráctico`, `fisioterapeuta`, `terapeuta ocupacional`, `logopeda`) ya que en consultas pequeñas el profesional suele ser también el dueño
+- **Excluir:** `practicante` · `estudiante` · `residente` · gobierno/inglés/marketing/BNI (mismo set que A y B)
+- **Tamaño de empresa:** 1-10 (consulta pequeña/solo, misma lógica que ICP-A — NO uses 11-50 aquí tampoco)
+- **Verificación de operador real:** mismo chequeo que ICP-A/B — ¿es el dueño/practicante de su propia consulta, o empleado de un hospital/clínica grande sin autonomía sobre su marca? Prioriza el primero
+- **Industria:** busca con palabras parciales (`médic`, `salud`, `fisioterap`, `quiropráct`, `optometr`, `bienestar`) — la taxonomía exacta de LinkedIn no siempre coincide con el término natural (mismo aprendizaje del día 8)
+
+**Mensajes:** usa la variante ICP-D en `plantillas/guiones-mensajes.md` (sección 11b) — nunca menciona "marca personal" en el mensaje 1, pregunta por algo que viven a diario (cómo llegan sus pacientes).
+
 **Definición operativa de "prospecto validado" (checklist antes de entrar al CRM):** cumple el perfil de su ICP + activo últimos 30 días + puede pagar (negocio real a la vista) + tiene algo que ganar visible con marca personal + tienes UNA observación personal escrita. Sin las 5, no entra.
 
 **Validación rápida (día 8 — no es investigación profunda, ~20-30 seg/perfil):** ni la nevera de ICP-A ni la de ICP-B se validan de una sentada — es reserva de varios días, extraes lo que necesitas por sesión.
