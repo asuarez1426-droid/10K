@@ -53,7 +53,7 @@ Waalaxy trae atención/conexiones nuevas a la cuenta — el contenido orgánico 
 
 0. **Investigación del referente (Claude Cowork):** Cowork analiza el perfil del referente (mejores piezas, patrón estructural, estilo visual, outliers y por qué funcionan) y entrega un resumen estructurado — ese resumen alimenta el paso 1.
 1. **Brief:** antes de desarrollar cualquier pieza, el Estudio Creativo entrega un brief en texto plano de lo que se va a decir — canalizado sobre la estructura del referente de esa red, aplicado a tus temas reales. Sin diseño ni prompts de imagen todavía.
-2. **Desarrollo:** solo tras aprobar el brief, se desarrolla en dos partes — (a) el texto/copy final (estructura del referente + tu fórmula de 4 pasos: gancho-contexto-enseñanza-cierre) y (b) un prompt de generación de imagen por pieza/slide, listo para usar en **Google Flow con Nano Banana Pro**.
+2. **Desarrollo:** solo tras aprobar el brief, se desarrolla en dos partes — (a) el texto/copy final (estructura del referente + tu fórmula de 4 pasos: gancho-contexto-enseñanza-cierre) y (b) un prompt de generación de imagen por pieza/slide, listo para usar en **Google Flow con Nano Banana Pro**. **⚠️ Regla dura (día 16, fallo real): nunca pidas el prompt de imagen (b) sin haber aprobado primero el texto/historia completa (a) de todas las slides.** Sin esto, salen imágenes sueltas sin conexión narrativa entre sí — pasó una vez, no se repite.
 
 Antes de publicar cualquiera de las dos: reposicionamiento actual ("marca ganadora", el contenido es el vehículo, no el producto) + tu filtro de 15 segundos:
 

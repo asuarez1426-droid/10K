@@ -97,6 +97,7 @@
 **Reglas:**
 - El mensaje 2 NO afirma haber revisado ya la cuenta de esa persona (a diferencia del 3b de Instagram) — es una oferta abierta, honesta con lo que de verdad sabes en LinkedIn.
 - Si alguien responde en cualquier punto, la automatización se detiene ahí — sigues tú 100% manual (regla de siempre, doc 03).
+- **⚠️ Si después de responder una vez la persona se queda en silencio, Waalaxy NO vuelve a escribirle (la automatización ya se apagó para ella) — te toca a TI mandar el seguimiento manual (guiones #5/#6/#7 arriba, día 3/7/14).** Sin este paso, cualquier conversación que se enfríe queda muerta para siempre. Aprendizaje real (día 16): esto fue la causa más probable de que 2 conversaciones prometedoras (Israel, Amalia) se apagaran — no el mensaje, la falta de seguimiento después del silencio.
 - **Requisito antes de lanzar:** necesitas un link de agenda (Calendly o similar) para que el mensaje 3 funcione a escala — sin eso no puedes coordinar hora por mensaje con cientos de personas.
 - La auditoría real (el PDF que entregas cuando alguien dice que sí) se hace con Claude Cowork, solo para quienes responden — el esfuerzo se gasta en quien ya mostró interés, no en los cientos que no contestan.
 
