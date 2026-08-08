@@ -198,6 +198,8 @@ Tres capas, en este orden de prioridad:
 
 Criterio general: comenta donde tu COMPRADOR lee, no donde tus colegas aplauden. Un comentario con insight en el post de un referente vale más que 20 "gran contenido 🔥".
 
+**⚠️ Capa 0 — la que faltaba (día 18): responde con humanidad a quien te busca a TI.** Cada vez que alguien reaccione o comente algo tuyo de forma orgánica (sin que lo hayas buscado — ej. un 🎉 celebrando que te volviste fundador), respóndele con calidez real, como a un amigo, sin pitch ni CTA. No es prospección, es la parte humana que evita que te vuelvas "otro más que solo vende" (el mismo problema que describía el post de LinkedIn sobre mensajes de IA genéricos). Cabe dentro del mismo bloque de 20 min de interacción diaria — no es un sistema nuevo, es una regla dentro del que ya tienes.
+
 ## Herramientas: Sales Navigator + Waalaxy + manual (confirmado día 7 — tus trials reales)
 
 **Costos y trials reales (confirmados en tu cuenta, día 7):** LinkedIn Sales Navigator Advanced — trial 30 días, $0 · Waalaxy Advanced — trial 14 días, $0, luego 58.478 COP/mes (~$15 USD, el estimado original era correcto). Se descartó el plan Business de Waalaxy (83.540 COP): su diferencial es cold email + multicanal, un canal que este sistema no usa — Advanced trae todo lo necesario (secuencias multi-paso en LinkedIn). El tope de 800 invitaciones/mes de Waalaxy nunca es el límite real: LinkedIn mismo restringe a ~150-200/semana antes de eso.
