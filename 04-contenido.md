@@ -47,6 +47,10 @@ Es el mismo método que usan los documentalistas y vloggers reales: vivir con la
 
 El pipeline anterior ("Cowork genera un carrusel diario inspirado en un referente") se retira — calidad visual insuficiente ("estética de 2019"). Reemplazado por completo por el pipeline de abajo (Estudio Creativo + Google Flow/Nano Banana Pro).
 
+## ⚠️ Rebalanceo de pilares — falta proceso real, sobra autoridad genérica (día 17)
+
+Comparando su cuenta contra cuentas más grandes, el usuario notó: "mi cuenta no es una marca personal, es una cuenta de negocio — cada video habla de negocios, de IA, de dinero, y no de opiniones, no de procesos, no de un proceso realista." Diagnóstico correcto: **sobrecarga del pilar "Autoridad/Sistema" (tips de negocio) y casi nada de "Serie 90 días" y "Bastidores de decisión" (proceso real, opiniones, decisiones tuyas).** La autoridad sin proceso real se ve como cuenta de contenido de negocios genérica — pierde justo el diferenciador ("números reales, no humo de gurú"). Corrección: en cada tanda de ideación, exige presencia real de los 4 pilares, no solo del más cómodo de producir (autoridad/tips). El estudio semanal de temas a profundidad que el usuario se comprometió a hacer se une a la ideación del viernes con el Estudio Creativo (ver flujo de producción abajo) — no es un proceso nuevo aparte.
+
 ## Pipeline de contenido con imágenes: Estudio Creativo + Google Flow/Nano Banana Pro (día 14 — LinkedIn e Instagram)
 
 Waalaxy trae atención/conexiones nuevas a la cuenta — el contenido orgánico es lo que nutre y monetiza esa atención (se refuerzan, no compiten con la prospección fría). **Un solo momento real alimenta las dos redes**, cada una con su propio referente y su propia adaptación (LinkedIn = conciencia 3-4, autoridad pura; Instagram = conciencia 0-1, ganchos amplios) — mismo proceso de 2 pasos con el Estudio Creativo en ambas:
