@@ -198,7 +198,7 @@ Tres capas, en este orden de prioridad:
 
 Criterio general: comenta donde tu COMPRADOR lee, no donde tus colegas aplauden. Un comentario con insight en el post de un referente vale más que 20 "gran contenido 🔥".
 
-**⚠️ Capa 0 — la que faltaba (día 18): responde con humanidad a quien te busca a TI.** Cada vez que alguien reaccione o comente algo tuyo de forma orgánica (sin que lo hayas buscado — ej. un 🎉 celebrando que te volviste fundador), respóndele con calidez real, como a un amigo, sin pitch ni CTA. No es prospección, es la parte humana que evita que te vuelvas "otro más que solo vende" (el mismo problema que describía el post de LinkedIn sobre mensajes de IA genéricos). Cabe dentro del mismo bloque de 20 min de interacción diaria — no es un sistema nuevo, es una regla dentro del que ya tienes.
+**⚠️ Capa 0 — la que faltaba (día 18): responde con humanidad a quien te busca a TI, en LinkedIn E Instagram por igual.** Cada vez que alguien reaccione o comente algo tuyo de forma orgánica (sin que lo hayas buscado — ej. un 🎉 celebrando que te volviste fundador), respóndele con calidez real, como a un amigo, sin pitch ni CTA. No es prospección, es la parte humana que evita que te vuelvas "otro más que solo vende" (el mismo problema que describía el post de LinkedIn sobre mensajes de IA genéricos). Cabe dentro del mismo bloque de "contenido del día" / 20 min de interacción que ya tienes en doc 04/05 — no es tiempo nuevo, es no dejar que la parte de prospección (comentar en perfiles de prospectos) se coma toda la ventana y no deje espacio para responder a quien ya te buscó.
 
 ## Herramientas: Sales Navigator + Waalaxy + manual (confirmado día 7 — tus trials reales)
 
