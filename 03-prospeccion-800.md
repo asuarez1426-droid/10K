@@ -42,6 +42,8 @@ Se activa el envío de Waalaxy el día 8 (trial gratuito de 14 días, activado d
 
 Los 800 generan conversaciones durante SEMANAS. Foco: responder todo, seguimientos días 3/7/14/30, llamadas, cierres. Ritmo de mantenimiento: 10-15 nuevos/día manuales (IG + LI) para que el pipeline nunca se seque + reactivación de los no-respondidos al día 30. Si el funnel se queda corto de volumen en septiembre: segundo blitz, financiado por entonces con ingresos reales.
 
+**Actualización de mecanismo (9 de agosto):** la cosecha ya no corre con seguimientos genéricos día 3/7/14 sueltos — corre con el **sistema de calentamiento semanal por cohortes de 60** (ver sección nueva más abajo), que es ahora el motor real de esta fase.
+
 ## La matemática del blitz
 
 | Variable | Número |
@@ -227,10 +229,37 @@ Criterio general: comenta donde tu COMPRADOR lee, no donde tus colegas aplauden.
 | Herramienta | Uso | Regla de seguridad |
 |---|---|---|
 | **Sales Navigator Advanced** (trial 30 días → pagado tras el primer cliente) | Sourcing masivo con filtros por cargo/industria/tamaño de empresa/geografía + listas guardadas | Actívala en fase 1 para llenar la nevera antes del blitz |
-| **Waalaxy Advanced** (trial 14 días desde día 7 → 58.478 COP/mes si sigues) | Secuencias de invitación + mensaje en LinkedIn (día 8 — SIN nota de conexión, 3 mensajes con variables automáticas: día 1 pregunta suave → día 4 oferta de auditoría gratis → día 9 link de agenda. Detalle completo en plantillas/guiones-mensajes.md sección 11) | ⚠️ Tu cuenta tiene 25 conexiones — es NUEVA para LinkedIn. El calentamiento de fase 1 (manual) es lo que te permite activar Waalaxy con máx 20-25 invitaciones/día subiendo gradual a 40-50. La nota de conexión personalizada (limitada a 50) se reserva para outreach manual de alta prioridad, no para esta campaña masiva. Automatizar la invitación está bien; **las CONVERSACIONES son 100% manuales, siempre** — ahí se cierra o se pierde |
+| **Waalaxy Advanced** (trial 14 días desde día 7 → 58.478 COP/mes si sigues) | **Cambio de rol (9 de agosto): solo invitaciones masivas, sin secuencia de mensajes.** La secuencia automática de 3 mensajes con variables (día 1 pregunta suave → día 4 auditoría gratis → día 9 link de agenda — detalle histórico en plantillas/guiones-mensajes.md sección 11) queda descontinuada: se sentía genérica y no generaba la confianza real para cerrar. Waalaxy manda la invitación; el mensaje y el cierre se mueven al sistema de calentamiento semanal por cohortes (ver sección nueva abajo) | ⚠️ Tu cuenta tiene 25 conexiones — es NUEVA para LinkedIn. El calentamiento de fase 1 (manual) es lo que te permite activar Waalaxy con máx 20-25 invitaciones/día subiendo gradual a 40-50. La nota de conexión personalizada (limitada a 50) se reserva para outreach manual de alta prioridad, no para esta campaña masiva. Automatizar la invitación está bien; **las CONVERSACIONES son 100% manuales, siempre** — ahí se cierra o se pierde |
 | **Manual** | Instagram completo (no automatizar IG: baneo casi seguro) + todas las respuestas y llamadas | La personalización manual es tu ventaja sobre los que spamean |
 
 **Riesgo aceptado y mitigación:** LinkedIn restringe cuentas que automatizan agresivo. Con warm-up + límites conservadores + tasa de aceptación >25% (mensajes personalizados) el riesgo baja mucho. Si llega un aviso de restricción: Waalaxy OFF 2 semanas, se sigue manual. La operación nunca depende de una sola herramienta ni de una sola red.
+
+## Sistema de calentamiento semanal por cohortes de 60 (nuevo, 9 de agosto) — reemplaza las secuencias automáticas
+
+**Por qué cambia:** Waalaxy da volumen, pero volumen que no cierra no sirve — sus mensajes con variables automáticas se sienten genéricos y no generan la confianza real que se necesita para vender ticket alto. Decisión: Waalaxy se queda solo para lo que hace bien (invitaciones masivas, tope de embudo); el mensaje y el cierre se mueven a un proceso 100% manual de calentamiento, cuyo objetivo es quitarle al prospecto el miedo a "otro vendedor más" antes de pedirle nada.
+
+**Los 3 motores, cada uno con un solo trabajo:**
+1. **Waalaxy** → solo invitaciones masivas (crece la red). Cero secuencia de mensajes automatizados a partir de ahora.
+2. **Contenido** (doc 04) → crece la cuenta/autoridad. Quien interactúa orgánico con tus posts entra directo al calentamiento, sin pasar por Sales Navigator.
+3. **Calentamiento manual** (este sistema) → donde se construye la confianza y se cierra.
+
+**La cohorte semanal — 60 personas, todas juntas, sincronizadas (tu decisión: en bloque, no en rotación, para no generar desorden):** cada lunes arrancan 60 prospectos juntos en su día 1 de calentamiento, y avanzan todos al mismo ritmo durante la semana.
+
+| Día | Acción sobre los 60 | Objetivo |
+|---|---|---|
+| Lunes | 3 likes aleatorios a cada uno, en publicaciones recientes | Aparecer en su radar — cero interacción directa todavía |
+| Martes | 1er comentario genuino y específico a cada uno (nunca "gran post!") | Que note que de verdad viste su contenido |
+| Miércoles | 2do comentario genuino a cada uno | Refuerza la presencia, sigue sin pedir nada |
+| Jueves | Reaccionar a una historia (IG) o post nuevo (LinkedIn) si publicó | Tercera-cuarta vez que te reconoce |
+| Viernes | Primer DM a cada uno — sin vender, una pregunta o comentario genuino sobre su trabajo | Abrir conversación real, no agendar nada todavía |
+| Sábado | Revisar respuestas y seguir la conversación con quien contestó, como persona, no como guion | Detectar una señal real de interés/dolor — ahí, y solo ahí, se propone la llamada |
+| Domingo (revisión dominical) | Cierra la cohorte: quien no respondió al DM del viernes sale de rotación activa (se revisa en 2-3 semanas, no se insiste) · quien sí respondió sigue en conversación natural, sin calendario fijo · se arma la lista de los próximos 60 | Evaluar la semana + preparar la cohorte nueva para el lunes |
+
+**De dónde salen los 60 cada domingo:** Sales Navigator (ICP-A/B/D) + contacto directo IG (ICP-C/D) + quien ya venía interactuando orgánico con tu contenido esa semana — todos pasados por los **filtros OJO** (¿es joven? ¿de verdad es lo que busco?, ver sección ICP-D arriba) antes de entrar a la lista.
+
+**Nota de seguridad (mismo principio que ya rige todo el sistema):** 60 acciones el mismo día no significa 60 en 10 minutos — repártelas a lo largo del bloque de prospección, igual que ya haces con IG manual, para que se vea como lo que es: una persona real interactuando, no una herramienta.
+
+**Qué queda reemplazado por este sistema:** la secuencia automática de Waalaxy (día 1 pregunta suave → día 3 auditoría gratis → día 6 link de agenda) y los seguimientos genéricos día 3/7/14 de la sección "Secuencia de toques" más abajo — ambos quedan como referencia histórica de lo que se probó, no como el flujo activo.
 
 ## Cadencia diaria (bloque de ~2h) — ritmo base
 
@@ -246,6 +275,8 @@ Criterio general: comenta donde tu COMPRADOR lee, no donde tus colegas aplauden.
 ## Secuencia de toques y llamada de venta
 
 Interacción previa → invitación con nota → mensaje de valor → seguimientos día 3/7/14 → reactivación día 30 → `Perdido`. Guiones en `plantillas/guiones-mensajes.md`. Llamada con estructura de diagnóstico (situación → problema → deseo → oferta → cierre) y manejo de objeciones. **Novedad para MX/ES:** agenda llamadas con España en tu mañana (su tarde); México comparte casi tu horario.
+
+**Actualización (9 de agosto):** este flujo genérico queda como referencia histórica — el flujo activo para todo prospecto que entra por invitación masiva o contenido orgánico es el sistema de calentamiento semanal por cohortes (arriba). La estructura de llamada (diagnóstico → oferta → cierre) sigue igual una vez agendada.
 
 ## Reparto de trabajo con IA
 

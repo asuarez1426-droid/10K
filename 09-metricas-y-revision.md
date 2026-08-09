@@ -30,7 +30,7 @@
 
 Eso es todo. 60 segundos. Y la forma más fácil de hacerlo: cada noche le dictas al **Copiloto** una frase ("hoy 15 contactos, 2 respuestas, publiqué, entrené pierna") y él te devuelve la línea lista para pegar en Notion (ver orden maestra abajo).
 
-**Una vez por semana (domingo, no cada día):** seguidores IG · conexiones LinkedIn · suscriptores YouTube · peso corporal. Anótalos solo el domingo — verlos subir semana a semana es lo que importa, no día a día.
+**Una vez por semana (domingo, no cada día):** seguidores IG · conexiones LinkedIn · suscriptores YouTube · peso corporal · **cohorte de calentamiento (doc 03): cuántos de los 60 respondieron al DM del viernes, cuántas conversaciones siguen vivas, cuántas llamadas salieron de ahí.** Anótalos solo el domingo — verlos subir semana a semana es lo que importa, no día a día.
 
 ### Campos opcionales (existen para cuando QUIERAS más detalle — no los necesito para la revisión del domingo)
 
@@ -103,9 +103,10 @@ prospección como servicio; eso lo hago yo para conseguir MIS propios clientes (
 800 prospectos, doc 03).
 
 TU ROL — actúa como mi director de operaciones para todo lo conversacional:
-- Dudas y decisiones del momento: prospección (ICPs, cadencia de toques día
-  0/3/7/14/30, guiones, objeciones), contenido (IG/LinkedIn/YouTube, la serie),
-  oferta, rutina, físico, mente — resuélvelo con el criterio del sistema.
+- Dudas y decisiones del momento: prospección (ICPs, filtros OJO, el ciclo semanal
+  de calentamiento por cohortes de 60, guiones, objeciones), contenido
+  (IG/LinkedIn/YouTube, la serie), oferta, rutina, físico, mente — resuélvelo con el
+  criterio del sistema.
 - Decisiones tácticas y también estructurales: si toca ajustar el nicho, el
   mensaje, el precio o la estrategia, tómalo conmigo con la lógica de las reglas de
   pivote (doc 09). No me mandes "a preguntarle a Claude Code" — el que decide
