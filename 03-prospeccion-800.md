@@ -151,6 +151,10 @@ Médicos estéticos, odontólogos, abogados, financieros, inmobiliarios premium 
 
 **✅ ACTIVADO día 17** — el aprendizaje de ICP-A (Israel: no tiene el concepto de "marca personal" en la cabeza, preguntarle por eso es ilógico) llevó a activar esta segunda ola antes de lo previsto, con un subgrupo concreto: **dueños/socios/propietarios de servicios de bienestar y mantenimiento físico** — consultorios médicos, optometristas, quiroprácticos, fisioterapeutas, terapeutas ocupacionales, logopedas.
 
+**✅ CONSOLIDADO como foco actual (8 de agosto, justo antes del reinicio del conteo):** de las ideas probadas hasta ahora, la de ICP-D dio la mejor tasa de respuesta — 2 respuestas de un solo envío. Es dato de un día, no volumen suficiente para pivotar formalmente (regla de doc 09), pero sí valida que la mezcla se incline más hacia acá mientras entra más data real. Los 4 ICPs se siguen atacando en paralelo (tu punto 22); ICP-D pasa a ser el foco de energía de esta semana.
+
+**⚠️ Lección del mismo envío — un prospecto se coló sin encajar:** entre las 2 respuestas, uno de los prospectos contactados no era en realidad lo que se busca en ICP-D — pasó los filtros mecánicos de Sales Navigator (cargo, tamaño de empresa, industria) pero no el criterio real. Prueba de que los filtros de la herramienta no bastan solos: de ahí nace la capa de "filtros OJO" de abajo.
+
 **Búsqueda en Sales Navigator:**
 - **Cargo (etiquetas):** `propietario` · `dueño` · `director` — más el título profesional directo (`optometrista`, `quiropráctico`, `fisioterapeuta`, `terapeuta ocupacional`, `logopeda`) ya que en consultas pequeñas el profesional suele ser también el dueño
 - **Excluir:** `practicante` · `estudiante` · `residente` · gobierno/inglés/marketing/BNI (mismo set que A y B)
@@ -159,6 +163,13 @@ Médicos estéticos, odontólogos, abogados, financieros, inmobiliarios premium 
 - **Industria:** busca con palabras parciales (`médic`, `salud`, `fisioterap`, `quiropráct`, `optometr`, `bienestar`) — la taxonomía exacta de LinkedIn no siempre coincide con el término natural (mismo aprendizaje del día 8)
 
 **Mensajes:** usa la variante ICP-D en `plantillas/guiones-mensajes.md` (sección 11b) — nunca menciona "marca personal" en el mensaje 1, pregunta por algo que viven a diario (cómo llegan sus pacientes).
+
+**⚠️ Filtros OJO — capa humana, uno a uno, antes de entrar al CRM (nuevo, 8 de agosto):** Sales Navigator sigue siendo la herramienta de sourcing, pero sus filtros son mecánicos (cargo, industria, tamaño de empresa) y no ven a la persona. La selección final ya no se queda solo en lo que la herramienta entrega — cada perfil pasa por un vistazo tuyo, humano, antes de entrar al CRM, con dos preguntas simples:
+
+1. ¿Es una persona joven? (la persona, no el título)
+2. ¿De verdad es lo que estoy buscando, más allá de que cumpla el filtro de cargo/industria?
+
+Si la respuesta a cualquiera de las dos es dudosa, no entra a la nevera todavía — se revisa con más calma o se descarta. Esto se suma (no reemplaza) al checklist de "prospecto validado" de abajo y a la verificación de operador independiente que ya tiene cada ICP: es la capa del criterio humano que ningún filtro de LinkedIn puede automatizar. Aplica a cualquier ICP que sourcees con Sales Navigator; hoy pesa más en ICP-D por ser el foco actual.
 
 **Definición operativa de "prospecto validado" (checklist antes de entrar al CRM):** cumple el perfil de su ICP + activo últimos 30 días + puede pagar (negocio real a la vista) + tiene algo que ganar visible con marca personal + tienes UNA observación personal escrita. Sin las 5, no entra.
 
