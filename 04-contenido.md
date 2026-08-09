@@ -47,6 +47,10 @@ Es el mismo método que usan los documentalistas y vloggers reales: vivir con la
 
 El pipeline anterior ("Cowork genera un carrusel diario inspirado en un referente") se retira — calidad visual insuficiente ("estética de 2019"). Reemplazado por completo por el pipeline de abajo (Estudio Creativo + Google Flow/Nano Banana Pro).
 
+## ⏸️ Aparcado: "ayudante" dedicado a LinkedIn (día 19)
+
+Se exploró la idea de un chat/proyecto dedicado exclusivamente a analizar y planear contenido de LinkedIn (con o sin benchmarking de referentes). **Queda aparcado — no se desarrolla ni se incluye en planes.** Se retoma solo cuando el usuario detecte un uso real concreto y lo pida explícitamente. Es muy pronto para definir cómo ayudaría de verdad; forzar la herramienta antes de tener claridad es el mismo patrón de proliferación de proyectos que ya se frenó varias veces esta semana.
+
 ## ⚠️ Rebalanceo de pilares — falta proceso real, sobra autoridad genérica (día 17)
 
 Comparando su cuenta contra cuentas más grandes, el usuario notó: "mi cuenta no es una marca personal, es una cuenta de negocio — cada video habla de negocios, de IA, de dinero, y no de opiniones, no de procesos, no de un proceso realista." Diagnóstico correcto: **sobrecarga del pilar "Autoridad/Sistema" (tips de negocio) y casi nada de "Serie 90 días" y "Bastidores de decisión" (proceso real, opiniones, decisiones tuyas).** La autoridad sin proceso real se ve como cuenta de contenido de negocios genérica — pierde justo el diferenciador ("números reales, no humo de gurú"). Corrección: en cada tanda de ideación, exige presencia real de los 4 pilares, no solo del más cómodo de producir (autoridad/tips). El estudio semanal de temas a profundidad que el usuario se comprometió a hacer se une a la ideación del viernes con el Estudio Creativo (ver flujo de producción abajo) — no es un proceso nuevo aparte.
