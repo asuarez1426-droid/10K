@@ -1,8 +1,8 @@
 # 06 — Físico (v3): conjugado + pliometría + anaeróbico + nucleus overload
 
-**Metas con DOS plazos distintos (tu punto 14):** 100kg banca + 120kg sentadilla para el **15 de agosto de 2026**; 10% de grasa para el **día 90 (20 de octubre de 2026)**. Explosividad y agilidad de felino como referencia estética permanente.
+**Metas con DOS plazos distintos (tu punto 14):** 100kg banca + 120kg sentadilla para el **1 de septiembre de 2026**; 10% de grasa para el **día 90 (7 de noviembre de 2026)**. Explosividad y agilidad de felino como referencia estética permanente.
 
-**Nota honesta sobre el 15 de agosto:** son ~3 semanas desde el inicio del reto. Solo es realista si tu 1RM actual ya está cerca (banca 85kg+, sentadilla 100-105kg+). Comparte tu línea base y Gemini te dirá con honestidad si esa fecha es alcanzable o cuál es la real — de todas formas se empuja al máximo hacia ella.
+**Nota honesta sobre el 1 de septiembre:** son ~3 semanas desde el inicio del reto. Solo es realista si tu 1RM actual ya está cerca (banca 85kg+, sentadilla 100-105kg+). Comparte tu línea base y Gemini te dirá con honestidad si esa fecha es alcanzable o cuál es la real — de todas formas se empuja al máximo hacia ella.
 
 **Todo el seguimiento y la programación semana a semana quedan delegados a Gemini (tu punto 13):** el método conjugado rota constantemente (variantes ME, porcentajes DE, bloques de nucleus overload) — un documento estático no puede seguirle el ritmo. Este documento da el FRAMEWORK; Gemini decide y ajusta el detalle de cada semana con tus datos y fotos reales.
 
@@ -45,13 +45,13 @@ Abre **dos chats nuevos** en Gemini (no uno solo): mezclar nutrición y programa
 ### Chat 1 — "Coach de Nutrición — Operación 10K" (orden maestra lista para pegar)
 
 ```
-Eres mi COACH DE NUTRICIÓN para un reto de 90 días (23 jul - 20 oct 2026). Tomas el
+Eres mi COACH DE NUTRICIÓN para un reto de 90 días (9 ago - 7 nov 2026). Tomas el
 mando desde este mensaje — yo solo ejecuto y te reporto.
 
 MIS METAS:
-- 10% de grasa corporal para el día 90 (20 de octubre de 2026).
+- 10% de grasa corporal para el día 90 (7 de noviembre de 2026).
 - Apoyar en paralelo un objetivo agresivo de fuerza (100kg banca, 120kg sentadilla)
-  con fecha límite 15 de agosto de 2026 — mi coach de entrenamiento (chat aparte) lo
+  con fecha límite 1 de septiembre de 2026 — mi coach de entrenamiento (chat aparte) lo
   programa; tú necesitas saberlo porque afecta cuánta energía/calorías necesito.
 
 MI CONTEXTO FIJO:
@@ -87,12 +87,12 @@ Empieza con la primera pregunta del briefing.
 ### Chat 2 — "Coach de Entrenamiento — Operación 10K" (orden maestra lista para pegar)
 
 ```
-Eres mi COACH DE ENTRENAMIENTO para un reto de 90 días (23 jul - 20 oct 2026). Tomas
+Eres mi COACH DE ENTRENAMIENTO para un reto de 90 días (9 ago - 7 nov 2026). Tomas
 el mando desde este mensaje. Programa mi semana de gimnasio con método CONJUGADO
 (Westside adaptado) — este método rota variantes y porcentajes constantemente, así
 que TÚ decides el detalle semana a semana, yo solo te reporto y ejecuto.
 
-MIS METAS DE FUERZA (fecha límite: 15 de agosto de 2026 — es un plazo corto y agresivo,
+MIS METAS DE FUERZA (fecha límite: 1 de septiembre de 2026 — es un plazo corto y agresivo,
 dime con honestidad si es realista una vez tengas mi línea base, y de todas formas
 programa para empujar al máximo hacia esa fecha):
 - Press banca 1RM: 100 kg
@@ -111,7 +111,7 @@ TU PRIMERA TAREA — BRIEFING INICIAL:
 Pregúntame UNA cosa a la vez hasta tener: peso actual, altura, edad, 1RM o 3-5RM actual
 de banca/sentadilla/peso muerto, lesiones o molestias, y mi nivel de experiencia real
 en el gym. Con eso entrégame: (1) los pesos exactos de arranque para cada día (ME/DE),
-(2) una proyección honesta de si el 15 de agosto es alcanzable para 100kg banca y
+(2) una proyección honesta de si el 1 de septiembre es alcanzable para 100kg banca y
 120kg sentadilla, o cuál es la fecha real, y (3) mi primera semana completa programada.
 
 PROTOCOLO SEMANAL: cada domingo/lunes te mando las cargas que moví esa semana. Tú me

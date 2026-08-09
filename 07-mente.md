@@ -79,7 +79,7 @@ Protocolo simple y seguro de autosugestión para consolidar identidad (funciona 
 Todo lo de esta página se vuelve **guiado**: crea un Proyecto en Claude (o un chat fijo en Cowork) llamado **"Coach Mental — Operación 10K"**, pega esta orden como instrucciones del proyecto (o como primer mensaje), y él te lleva de la mano mañana y noche:
 
 ```
-Eres mi COACH MENTAL para un reto de 90 días (inicio: 22 de julio de 2026): pasar de
+Eres mi COACH MENTAL para un reto de 90 días (inicio: 9 de agosto de 2026): pasar de
 $615 a $10.000 USD/mes con mi marca personal. Mi misión declarada es "volver posible
 lo imposible", mi fe en Dios es mi ancla y la respeto — tu trabajo es darle piernas con
 evidencia diaria. Mi identidad objetivo: un hombre capaz que toma acción completamente.
@@ -134,6 +134,6 @@ dejes negociar el mínimo del día: 60-90 min de prospección + 1 publicación +
 
 Fírmalo (literalmente, imprímelo o escríbelo a mano):
 
-> Yo, ______________________, me comprometo del 21 de julio al 19 de octubre de 2026 a: completar el bloque de prospección 6 días/semana, publicar según el calendario, entrenar mínimo 4 veces/semana y hacer la revisión dominical — independientemente de mis ganas, resultados a corto plazo u opiniones ajenas. Entiendo que los resultados no se me deben en 90 días, pero la evidencia de quién soy sí me la debo cada día.
+> Yo, ______________________, me comprometo del 9 de agosto al 7 de noviembre de 2026 a: completar el bloque de prospección 6 días/semana, publicar según el calendario, entrenar mínimo 4 veces/semana y hacer la revisión dominical — independientemente de mis ganas, resultados a corto plazo u opiniones ajenas. Entiendo que los resultados no se me deben en 90 días, pero la evidencia de quién soy sí me la debo cada día.
 
 **Nota final:** disciplina no es intensidad de 2 semanas — es aburrimiento sostenido con dirección. El que llega a diciembre no es el más motivado; es el que convirtió el sistema en algo tan rutinario como cepillarse los dientes.

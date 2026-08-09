@@ -8,7 +8,7 @@ Motor de ingresos del reto. Mercado: **todo el mundo hispano, priorizando Méxic
 
 Tu cuenta de LinkedIn tiene 25 conexiones — para LinkedIn eres una cuenta nueva, y una cuenta nueva disparando invitaciones masivas el día 1 se restringe casi seguro. Por eso el calentamiento (tu punto 24) no es opcional: es lo que te permite entrar al blitz "con toda", como pediste.
 
-### FASE 1 — Calentamiento + validación (días 1-7: 23-29 jul)
+### FASE 1 — Calentamiento + validación (días 1-7: 9-15 ago)
 
 - **LinkedIn:** actividad humana intensa SIN herramientas: perfil optimizado el día 1, 1 post diario, 15-20 comentarios diarios en cuentas del nicho, 10-15 invitaciones manuales/día con nota (= el sprint de validación de nicho del doc 02 corre aquí). LinkedIn te ve como humano activo antes del blitz.
 
@@ -17,7 +17,9 @@ Tu cuenta de LinkedIn tiene 25 conexiones — para LinkedIn eres una cuenta nuev
 - **Sourcing pesado:** varias sesiones esta semana (usa el bloque grande del sábado en casa, doc 05) → la nevera llega al blitz con 600-900 prospectos listos con observación personal.
 - Resultado fase 1: ~120-150 contactados + nicho validado + cuentas calientes.
 
-### FASE 2 — BLITZ de los 800 (días 8-21: 30 jul - 12 ago)
+**Nota del reinicio de fechas (día 19):** las fases y sus fechas se recalculan sobre la nueva ventana del reto (día 1 = 9 ago), pero el trabajo YA HECHO (calentamiento real de las cuentas, filtros corregidos, ICPs validados, Waalaxy/Sales Nav configurados) no se repite ni se pierde — esto es un reinicio del conteo público del reto, no un reinicio operativo del sistema.
+
+### FASE 2 — BLITZ de los 800 (días 8-21: 16-29 ago)
 
 Se activa el envío de Waalaxy el día 8 (trial gratuito de 14 días, activado desde el día 7 — cubre exacto el blitz de 14 días); Sales Navigator Advanced sigue en trial gratuito para sourcing (activado desde fase 1, dura hasta ~26 de agosto).
 

@@ -6,7 +6,7 @@
 
 **Por qué funciona para ti:** (1) el formato reto/documental es el de mayor retención en IG/YouTube; (2) cada capítulo demuestra tu experticia aplicándola EN TI; (3) crea seguimiento episódico; (4) los números reales son tu diferenciador contra los gurús de humo.
 
-**La serie ARRANCA EL DÍA 1 DEL RETO (23 de julio), no el día 60.** El capítulo 1 es el anuncio del reto: las metas, los números de partida (los $615, los 19 seguidores) y la promesa de documentarlo todo.
+**La serie ARRANCA EL DÍA 1 DEL RETO (9 de agosto), no el día 60.** El capítulo 1 es el anuncio del reto: las metas, los números de partida (los $615, los 19 seguidores) y la promesa de documentarlo todo.
 
 ### Tu pregunta (punto 11): "¿cómo voy a grabar el sábado algo que se supone que vivo día a día?"
 

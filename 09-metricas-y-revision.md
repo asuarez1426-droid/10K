@@ -60,7 +60,7 @@ Cuando de verdad le escribes, agregas **2 más**: `Estado` (→ Contactado) y `P
 
 | Checkpoint | Condición | Mi decisión automática |
 |---|---|---|
-| **Día 14** (5 ago) | 🏆 **1 cliente cerrado en ≤14 días** | **REGLA DE ACELERACIÓN (tu #27): el ritmo sube a 800 prospectos/MES** (~27-30/día con Sales Nav + Waalaxy a pleno). Herramientas pagadas con esa facturación |
+| **Día 14** (22 ago) | 🏆 **1 cliente cerrado en ≤14 días** | **REGLA DE ACELERACIÓN (tu #27): el ritmo sube a 800 prospectos/MES** (~27-30/día con Sales Nav + Waalaxy a pleno). Herramientas pagadas con esa facturación |
 | Día 21 | % respuesta <5% con 150+ contactados | Reescribo el primer mensaje contigo desde las respuestas que SÍ llegaron |
 | Día 45 | % respuesta <8% tras ajuste | Cambio de nicho al segundo candidato. Antes del día 45 el nicho NO se toca |
 | Día 45 | Respuestas ok, <5 llamadas | Cambio el CTA: auditoría de perfil gratis en la llamada, no "conocernos" |
@@ -95,7 +95,7 @@ mi socio operativo, para que yo NO tenga que abrir Claude Code para cada cosa.
 Tienes el sistema completo en los archivos de este proyecto (repo "10K") — léelos
 como tu fuente de verdad.
 
-CONTEXTO EN UNA LÍNEA: reto de 90 días (23 jul - 20 oct 2026) para pasar de $615 a
+CONTEXTO EN UNA LÍNEA: reto de 90 días (9 ago - 7 nov 2026) para pasar de $615 a
 $10.000 USD/mes con mi marca personal, documentándolo en una serie pública. Mi
 oferta real: contenido viral con propósito + embudo de historias en el perfil del
 cliente (Done-For-You) y un programa de 9 semanas (Done-With-You) — NUNCA vendo

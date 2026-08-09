@@ -32,12 +32,12 @@ Dos rutas en paralelo: la **realista** (lo que el sistema produce con conversió
 
 | Mes | Cierre | Facturación realista | Facturación estirada | Qué debe pasar |
 |---|---|---|---|---|
-| Jul (S1-2) | 3 ago | 2.45M COP (base) | 2.45M | Nicho validado, oferta empaquetada, CRM montado, primeros 100 contactados |
-| Agosto | 30 ago | 5–8M COP | 12M | 1-2 clientes cerrados, 250+ contactados, 10+ llamadas |
-| Septiembre | 27 sep | 9–14M COP | 24M | 3-4 clientes activos, 500+ contactados, primer testimonio de agencia |
-| **Octubre (día 90)** | 20 oct | **12–20M COP** | **40M ($10K)** | 4-6 clientes, 800 contactados, consultorías vendiéndose |
-| Noviembre | 29 nov | 18–28M COP | 70M | Primer contratado (editor), subida de precios, infoproducto en preventa |
-| **Diciembre** | 31 dic | **25–40M COP** | **120M ($30K)** | Equipo de 2-3, 6-10 clientes, infoproducto lanzado |
+| Ago (S1-2) | 20 ago | 2.45M COP (base) | 2.45M | Nicho validado, oferta empaquetada, CRM montado, primeros 100 contactados |
+| Septiembre | 16 sep | 5–8M COP | 12M | 1-2 clientes cerrados, 250+ contactados, 10+ llamadas |
+| Octubre | 14 oct | 9–14M COP | 24M | 3-4 clientes activos, 500+ contactados, primer testimonio de agencia |
+| **Noviembre (día 90)** | 7 nov | **12–20M COP** | **40M ($10K)** | 4-6 clientes, 800 contactados, consultorías vendiéndose |
+| Diciembre | 16 dic | 18–28M COP | 70M | Primer contratado (editor), subida de precios, infoproducto en preventa |
+| **Diciembre 2026** | 31 dic | **25–40M COP** | **120M ($30K)** | Equipo de 2-3, 6-10 clientes, infoproducto lanzado — meta de calendario fija, no se recorre con el reinicio del día 1 |
 
 **Regla:** si en dos meses seguidos estás por debajo de la ruta realista, se activa el protocolo de pivote (doc 09). Si superas la realista, aceleras contrataciones (doc 10).
 
@@ -45,13 +45,13 @@ Dos rutas en paralelo: la **realista** (lo que el sistema produce con conversió
 
 | Métrica | Línea base (medir ya) | Meta | Fecha límite |
 |---|---|---|---|
-| Press banca 1RM | ___ kg | **100 kg** | **15 de agosto de 2026** |
-| Sentadilla 1RM | ___ kg | **120 kg** | **15 de agosto de 2026** |
-| % grasa estimado | ___ % | **10%** | Día 90 (20 de octubre de 2026) |
+| Press banca 1RM | ___ kg | **100 kg** | **1 de septiembre de 2026** |
+| Sentadilla 1RM | ___ kg | **120 kg** | **1 de septiembre de 2026** |
+| % grasa estimado | ___ % | **10%** | Día 90 (7 de noviembre de 2026) |
 | Peso corporal | ___ kg | según fase (doc 06) | — |
 | Referencia estética/atlética | — | Fuerza tipo powerlifter + explosividad y agilidad felina | Diciembre 2026 |
 
-> **Nota honesta que necesitas leer:** el 15 de agosto es apenas ~3 semanas después del inicio del reto. Llegar a 100kg de banca y 120kg de sentadilla en 3-4 semanas SOLO es fisiológicamente realista si hoy ya estás cerca (banca 85kg+, sentadilla 100-105kg+). Si tu línea base está más lejos, ese plazo es muy improbable — no por falta de disciplina, sino porque la fuerza máxima no sube así de rápido incluso con el mejor programa. Comparte tu 1RM real en el briefing de Gemini (doc 06) y él te dirá con honestidad si el 15 de agosto es alcanzable o cuál es la fecha real — y aun así empujamos AL MÁXIMO hacia esa fecha como meta estirada. Sin línea base no hay programa serio: llena esta tabla ya.
+> **Nota honesta que necesitas leer:** el 1 de septiembre es apenas ~3 semanas después del inicio del reto. Llegar a 100kg de banca y 120kg de sentadilla en 3-4 semanas SOLO es fisiológicamente realista si hoy ya estás cerca (banca 85kg+, sentadilla 100-105kg+). Si tu línea base está más lejos, ese plazo es muy improbable — no por falta de disciplina, sino porque la fuerza máxima no sube así de rápido incluso con el mejor programa. Comparte tu 1RM real en el briefing de Gemini (doc 06) y él te dirá con honestidad si el 15 de agosto es alcanzable o cuál es la fecha real — y aun así empujamos AL MÁXIMO hacia esa fecha como meta estirada. Sin línea base no hay programa serio: llena esta tabla ya.
 
 ## Metas de entorno y estilo de vida (se financian con hitos, no con deseos)
 

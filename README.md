@@ -2,7 +2,7 @@
 
 **Misión:** de $615 a $10.000 USD/mes en 90 días, y $30.000 USD/mes en diciembre 2026 — documentado en público, con fe, sistema y datos.
 
-**21-22 jul:** cierre de planeación y correcciones · **DÍA 1 DEL RETO: 23 de julio de 2026** · **Día 90:** 20 de octubre de 2026
+**Reinicio oficial del reto (día 19):** el conteo de días se reinicia con una ventana nueva, tras aprendizajes reales de las primeras semanas (ICPs corregidos, oferta reposicionada, sistema de contenido funcionando) que ahora sí quedan documentados desde el día 1 público. **DÍA 1 DEL RETO: 9 de agosto de 2026** · **Día 90:** 7 de noviembre de 2026
 
 ---
 
@@ -22,12 +22,12 @@ Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos
 
 | Hito | Fecha | Qué debe ser verdad |
 |---|---|---|
-| **Día 7** | 29 jul | Calentamiento LI/IG hecho, nicho validado, ~150 contactados, nevera con 600-900 prospectos |
-| **Día 14** | 5 ago | ⚡ Meta estirada de fuerza: 100kg banca + 120kg sentadilla (revisar con Gemini si es realista) |
-| **Día 21** | 12 ago | 🎯 **BLITZ COMPLETADO: los 800 contactados** (Sales Nav + Waalaxy + IG manual), primeras llamadas corriendo |
-| **Día 30** | 21 ago | 8-15 llamadas hechas, 1er cliente cerrado → editor freelance activado con su retainer |
-| **Día 60** | 20 sep | 2-3 clientes (6-12M/mes), serie con tracción, ¿segundo blitz financiado? |
-| **Día 90** | 20 oct | 12-20M/mes realista · 40M ($10K) en el escenario alto · 10% de grasa corporal |
+| **Día 7** | 15 ago | Calentamiento LI/IG hecho, nicho validado, ~150 contactados, nevera con 600-900 prospectos |
+| **Día 14** | 22 ago | ⚡ Meta estirada de fuerza: 100kg banca + 120kg sentadilla (revisar con Gemini si es realista) |
+| **Día 21** | 29 ago | 🎯 **BLITZ COMPLETADO: los 800 contactados** (Sales Nav + Waalaxy + IG manual), primeras llamadas corriendo |
+| **Día 30** | 7 sep | 8-15 llamadas hechas, 1er cliente cerrado → editor freelance activado con su retainer |
+| **Día 60** | 7 oct | 2-3 clientes (6-12M/mes), serie con tracción, ¿segundo blitz financiado? |
+| **Día 90** | 7 nov | 12-20M/mes realista · 40M ($10K) en el escenario alto · 10% de grasa corporal |
 | **Diciembre** | 31 dic | Equipo de 4 roles + comunidad Skool + cohortes = ruta a 120M ($30K) |
 
 ## Los roles de la operación
@@ -42,7 +42,7 @@ Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos
 
 ## La matemática
 
-$10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (por eso el mercado es todo el mundo hispano, priorizando México y España) · **Los 800 en 21 días:** calentamiento días 1-7 (23-29 jul, manual) → blitz días 8-21 (30 jul-12 ago: Waalaxy pagado ~$15 ~300 LI + Sales Nav trial ~100 + IG manual ~400) → cosecha días 22-90 · Funnel: 10-20% respuesta → 25-40 llamadas → 10-20% cierre. **Importante — dos motores distintos, no confundir:** los 800 son TU prospección para conseguir clientes (doc 03); lo que le VENDES al cliente una vez firma es contenido viral con propósito + embudo de historias + acceso a su cuenta, con TU experticia real (doc 02) — nunca prospección como servicio.
+$10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (por eso el mercado es todo el mundo hispano, priorizando México y España) · **Los 800 en 21 días:** calentamiento días 1-7 (9-15 ago, manual) → blitz días 8-21 (16-29 ago: Waalaxy pagado ~$15 ~300 LI + Sales Nav trial ~100 + IG manual ~400) → cosecha días 22-90 · Funnel: 10-20% respuesta → 25-40 llamadas → 10-20% cierre. **Importante — dos motores distintos, no confundir:** los 800 son TU prospección para conseguir clientes (doc 03); lo que le VENDES al cliente una vez firma es contenido viral con propósito + embudo de historias + acceso a su cuenta, con TU experticia real (doc 02) — nunca prospección como servicio.
 
 ## Mapa del sistema
 
@@ -82,6 +82,6 @@ Yo (esta sesión) sigo siendo el director de operaciones — mido, decido y hago
 
 ## ⚠️ Lo que falta de ti (responde en el chat cuando puedas)
 
-1. **Tu 1RM real** (banca, sentadilla) — arranca el briefing con el Chat 2 de Gemini (doc 06) y compárteme el resumen; sin esto no sabemos si el 15 de agosto es realista.
+1. **Tu 1RM real** (banca, sentadilla) — arranca el briefing con el Chat 2 de Gemini (doc 06) y compárteme el resumen; sin esto no sabemos si el 1 de septiembre es realista.
 2. **Corre el onboarding del Estudio Creativo (doc 04) — idealmente hoy, antes del capítulo 1:** vuelca ahí tu estructura de guiones, ejemplos de contenido viral, aprendizajes de mentorías (Víctor Hera y otras) y casos propios. El proyecto los sintetiza en tu Playbook de Contenido permanente. Esta adaptación ya no se hace conmigo — se hace ahí.
 3. Confirmar con tu novia los **días fijos de gym** (mientras tanto: entrena a la hora que el día lo permita).
