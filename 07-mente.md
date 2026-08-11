@@ -93,6 +93,17 @@ Llevas trabajo, cliente, tesis, relación, gym, y un negocio nuevo que documenta
 - **Atender un compromiso real de tu vida (como la tesis) no es "aplazar el negocio" — es mantenimiento del sistema completo.** Tú eres la infraestructura de todo esto; cuidarte a ti es la inversión más rentable que hay.
 - **Regla de honestidad contigo mismo:** esto es para desgaste real, no para evitar el día difícil de siempre (ese lo cubre el DMV). Si se repite muy seguido (varias veces por semana, no una vez cada tanto), es una señal de que algo estructural del plan necesita ajustarse — tráelo aquí o al Copiloto y lo revisamos, no lo cargues en silencio.
 
+## 🎯 La meta manda, no la fecha (10 de agosto — realización real)
+
+Después del terremoto y de estar enfermo, tomaste una decisión importante: la meta sigue siendo la misma, pero la fecha exacta deja de ser el juez. Si tarda 90 días, 100 o 120, no es fracaso — es la vida real entrando en el sistema sin que el sistema se rompa.
+
+**Lo que esto NO es:** una excusa para bajar el ritmo. Tú mismo lo dijiste — el ritmo se mantiene igual de exigente. Lo único que cambia es qué te define el éxito: ya no es "¿llegué exactamente el 7 de noviembre?", es "¿seguí sumando evidencia, semana tras semana, pasara lo que pasara?"
+
+**Cómo se sostiene esto en la práctica:**
+- Los hitos de control (doc 09, README) siguen siendo el termómetro — dicen si vas rápido o lento, nunca si fracasaste. Un hito que se corre unos días o semanas no borra el trabajo hecho.
+- La identidad sigue siendo lo que se acumula día a día (el principio de arriba): eso no depende del calendario. Un terremoto o estar enfermo no te quita ni un solo voto ya acumulado.
+- El "Protocolo de pausa total" de arriba sigue intacto para los días de desgaste real — esto es la versión de largo plazo del mismo principio: la fecha deja de ser una amenaza.
+
 ## Visualización (mañana, 3-5 min — después del journaling AM)
 
 No visualices el resultado (el carro, el apartamento): **visualiza el PROCESO en primera persona**, que es lo que la evidencia respalda para rendimiento:
@@ -124,10 +135,12 @@ Protocolo simple y seguro de autosugestión para consolidar identidad (funciona 
 Actualiza las instrucciones de tu Proyecto "Coach Mental — Operación 10K" en Claude con esto completo (reemplaza la versión anterior):
 
 ```
-Eres mi COACH MENTAL para un reto de 90 días (inicio: 9 de agosto de 2026): pasar de
-$615 a $10.000 USD/mes con mi marca personal. Mi misión declarada es "volver posible
-lo imposible", mi fe en Dios es mi ancla y la respeto — tu trabajo es darle piernas con
-evidencia diaria. Mi identidad objetivo: un hombre capaz que toma acción completamente.
+Eres mi COACH MENTAL para mi reto de pasar de $615 a $10.000 USD/mes con mi marca
+personal (inicio: 9 de agosto de 2026, 90 días como referencia — NO como fecha límite
+rígida; si tardo más, no es fracaso, ver más abajo). Mi misión declarada es "volver
+posible lo imposible", mi fe en Dios es mi ancla y la respeto — tu trabajo es darle
+piernas con evidencia diaria. Mi identidad objetivo: un hombre capaz que toma acción
+completamente.
 
 ⚠️ REGLA DE ORO, ANTES QUE CUALQUIER OTRA COSA — NUNCA LA ROMPAS:
 Si llego con algo que me está comiendo la mente (una preocupación, un miedo, algo que
@@ -207,5 +220,7 @@ dejes negociar el mínimo del día: 60-90 min de prospección + 1 publicación +
 Fírmalo (literalmente, imprímelo o escríbelo a mano):
 
 > Yo, ______________________, me comprometo del 9 de agosto al 7 de noviembre de 2026 a: completar el bloque de prospección 6 días/semana, publicar según el calendario, entrenar mínimo 4 veces/semana y hacer la revisión dominical — independientemente de mis ganas, resultados a corto plazo u opiniones ajenas. Entiendo que los resultados no se me deben en 90 días, pero la evidencia de quién soy sí me la debo cada día.
+
+**Nota (10 de agosto):** el rango de fechas de arriba es tu marco de referencia, no una condición de éxito o fracaso. Si la meta se cumple el día 90 o el día 120, el contrato se honró igual — lo único que lo rompe es soltar el ritmo, nunca correrse de fecha.
 
 **Nota final:** disciplina no es intensidad de 2 semanas — es aburrimiento sostenido con dirección. El que llega a diciembre no es el más motivado; es el que convirtió el sistema en algo tan rutinario como cepillarse los dientes.
