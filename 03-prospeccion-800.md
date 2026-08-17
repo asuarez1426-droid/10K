@@ -166,12 +166,15 @@ Médicos estéticos, odontólogos, abogados, financieros, inmobiliarios premium 
 
 **Mensajes:** usa la variante ICP-D en `plantillas/guiones-mensajes.md` (sección 11b) — nunca menciona "marca personal" en el mensaje 1, pregunta por algo que viven a diario (cómo llegan sus pacientes).
 
-**⚠️ Filtros OJO — capa humana, uno a uno, antes de entrar al CRM (nuevo, 8 de agosto):** Sales Navigator sigue siendo la herramienta de sourcing, pero sus filtros son mecánicos (cargo, industria, tamaño de empresa) y no ven a la persona. La selección final ya no se queda solo en lo que la herramienta entrega — cada perfil pasa por un vistazo tuyo, humano, antes de entrar al CRM, con dos preguntas simples:
+**⚠️ Filtros OJO — capa humana, uno a uno, antes de entrar al CRM (nuevo, 8 de agosto):** Sales Navigator sigue siendo la herramienta de sourcing, pero sus filtros son mecánicos (cargo, industria, tamaño de empresa) y no ven a la persona. La selección final ya no se queda solo en lo que la herramienta entrega — cada perfil pasa por un vistazo tuyo, humano, antes de entrar al CRM.
 
-1. ¿Es una persona joven? (la persona, no el título)
-2. ¿De verdad es lo que estoy buscando, más allá de que cumpla el filtro de cargo/industria?
+**El "súper ICP" — la pregunta 2 con criterio concreto (17 de agosto, reemplaza la versión vaga):** el título ("consultor", "CEO", "fundador") no predice quién compra — mucha gente con el título perfecto no cree que esto vende, y gente con títulos que ni siquiera están en tus búsquedas (médico estético, agente de seguros, arquitecto) sí es tu comprador ideal. Lo que de verdad predice el fit son estas dos señales, sin importar el título ni la plataforma (LinkedIn o Instagram, mismo criterio en ambas):
 
-Si la respuesta a cualquiera de las dos es dudosa, no entra a la nevera todavía — se revisa con más calma o se descarta. Esto se suma (no reemplaza) al checklist de "prospecto validado" de abajo y a la verificación de operador independiente que ya tiene cada ICP: es la capa del criterio humano que ningún filtro de LinkedIn puede automatizar. Aplica a cualquier ICP que sourcees con Sales Navigator; hoy pesa más en ICP-D por ser el foco actual.
+1. **¿Es una persona joven?** (la persona, no el título)
+2. **¿Tiene prueba/resultados reales que NO está mostrando bien?** — testimonios, recomendaciones, trayectoria, casos de clientes que existen pero no aparecen (o aparecen mal) en su contenido actual. La brecha entre lo que ya logró y lo que muestra es la señal — es mecánica, no depende de si a la persona "le gusta aparecer": si ya tiene la prueba y solo le falta el altavoz, más visibilidad garantiza más ventas (tú operas el contenido por él/ella, Done-For-You, doc 02).
+3. **¿Su negocio es de compra por confianza, no por comparación?** — lo eligen a ÉL/ELLA como persona (coach de adelgazamiento, seguros, salud, asesoría, legal), no es una compra fría de precio/licitación/procurement donde la cara de quien vende no pesa. Si su negocio real es licitación o su comprador llega por búsqueda pura tipo Google/SEO y no por descubrir contenido, es una señal de que el mecanismo no aplica igual — no lo descartes de una, pero bájalo de prioridad.
+
+Si la respuesta a cualquiera es dudosa, no entra a la nevera todavía — se revisa con más calma o se descarta. Esto se suma (no reemplaza) al checklist de "prospecto validado" de abajo y a la verificación de operador independiente que ya tiene cada ICP, y tampoco reemplaza las búsquedas por título/industria de cada ICP abajo — esas siguen sirviendo para construir el pool de candidatos; el súper ICP es el filtro final que decide quién de ese pool entra de verdad, en cualquier plataforma.
 
 **Definición operativa de "prospecto validado" (checklist antes de entrar al CRM):** cumple el perfil de su ICP + activo últimos 30 días + puede pagar (negocio real a la vista) + tiene algo que ganar visible con marca personal + tienes UNA observación personal escrita. Sin las 5, no entra.
 
@@ -199,7 +202,7 @@ Si la respuesta a cualquiera de las dos es dudosa, no entra a la nevera todavía
 5. **Speakers de eventos y comunidades:** ponentes de eventos de negocio hispanos, miembros activos de comunidades (Skool, Discord, grupos de FB de emprendedores MX/ES).
 6. **IG específico:** hashtags del nicho por país + "cuentas sugeridas" al visitar un buen prospecto (IG te regala 10 similares por cada uno) + tags en posts de referentes.
 7. **El efecto bola de nieve:** cada semana de outreach genera visitas a tu perfil → LinkedIn te muestra "personas también vieron" cada vez mejores. El pozo se llena solo con el uso.
-8. **Claude Cowork (acelerador nuevo):** lo tienes corriendo sourcing en segundo plano — encontrando candidatos según los pozos de arriba mientras tú haces otras tareas. **Regla no negociable: todo lo que traiga sigue pasando por el checklist de "prospecto validado" antes de entrar al CRM** (ICP + activo 30 días + puede pagar + algo que ganar + tu observación personal escrita) — la velocidad del sourcing automatizado no reemplaza el filtro de calidad, tú revisas y validas cada candidato antes de que cuente. Esto NO manda mensajes ni contacta a nadie — sigue siendo 100% sourcing, el contacto sigue siendo tuyo y manual.
+8. **Claude Cowork (rol actualizado, 17 de agosto):** ya no sourcea de forma autónoma en segundo plano — ahora es tu copiloto analítico en vivo mientras TÚ navegas LinkedIn/Instagram (por el riesgo real de baneo si automatiza clics en las plataformas). Observa tu pantalla, aplica el súper ICP (arriba) a cada perfil que abres, y registra en el Google Sheet — ver el loop completo en "Sistema de calentamiento semanal" más abajo. Nunca hace clic, escribe ni envía nada en LinkedIn/Instagram; nunca contacta a nadie — el contacto sigue siendo 100% tuyo y manual.
 
 **Regla (tu punto 23 confirma que 90 min no alcanzan al inicio — tienes razón):** en las semanas de calentamiento y blitz, el sourcing necesita más gasolina: 2-4 sesiones/semana usando el bloque de 2-3h del sábado en casa (doc 05) como base, más una sesión entre semana si hace falta — la nevera debe llegar al día 8 con 600-900 prospectos listos. Con Claude Cowork ayudando en segundo plano, este ritmo se vuelve más fácil de sostener sin robarte tiempo de otras tareas. Desde la fase de cosecha: 1 sesión de 90 min semanal basta. Prohibido siempre: buscar prospectos durante el bloque diario de outreach (encontrar y contactar son procesos separados).
 
@@ -234,7 +237,7 @@ Criterio general: comenta donde tu COMPRADOR lee, no donde tus colegas aplauden.
 
 **Riesgo aceptado y mitigación:** LinkedIn restringe cuentas que automatizan agresivo. Con warm-up + límites conservadores + tasa de aceptación >25% (mensajes personalizados) el riesgo baja mucho. Si llega un aviso de restricción: Waalaxy OFF 2 semanas, se sigue manual. La operación nunca depende de una sola herramienta ni de una sola red.
 
-## Sistema de calentamiento semanal por cohortes de 60 (nuevo, 9 de agosto) — reemplaza las secuencias automáticas
+## Sistema de calentamiento semanal por cohortes (nuevo, 9 de agosto, ajustado 17 de agosto) — reemplaza las secuencias automáticas
 
 **Por qué cambia:** Waalaxy da volumen, pero volumen que no cierra no sirve — sus mensajes con variables automáticas se sienten genéricos y no generan la confianza real que se necesita para vender ticket alto. Decisión: Waalaxy se queda solo para lo que hace bien (invitaciones masivas, tope de embudo); el mensaje y el cierre se mueven a un proceso 100% manual de calentamiento, cuyo objetivo es quitarle al prospecto el miedo a "otro vendedor más" antes de pedirle nada.
 
@@ -243,23 +246,129 @@ Criterio general: comenta donde tu COMPRADOR lee, no donde tus colegas aplauden.
 2. **Contenido** (doc 04) → crece la cuenta/autoridad. Quien interactúa orgánico con tus posts entra directo al calentamiento, sin pasar por Sales Navigator.
 3. **Calentamiento manual** (este sistema) → donde se construye la confianza y se cierra.
 
-**La cohorte semanal — 60 personas, todas juntas, sincronizadas (tu decisión: en bloque, no en rotación, para no generar desorden):** cada lunes arrancan 60 prospectos juntos en su día 1 de calentamiento, y avanzan todos al mismo ritmo durante la semana.
+**Tamaño de cohorte — 30, temporal (17 de agosto):** tras la semana parada por el terremoto, arrancas con 30 (15+15) en vez de 60, para reconstruir el ritmo sin sobrecargarte. El objetivo sigue siendo volver a 60 en cuanto el ritmo esté sólido de nuevo — no es un cambio de meta, es una rampa de reinicio.
 
-| Día | Acción sobre los 60 | Objetivo |
+**La cohorte semanal, sincronizada (tu decisión: en bloque, no en rotación, para no generar desorden):** cada lunes arranca la cohorte completa junta en su día 1 de calentamiento, y avanza al mismo ritmo durante la semana. Fuente: LinkedIn e Instagram mezclados — mismo criterio del súper ICP (arriba) en ambas plataformas.
+
+| Día | Acción sobre la cohorte | Objetivo |
 |---|---|---|
 | Lunes | 3 likes aleatorios a cada uno, en publicaciones recientes | Aparecer en su radar — cero interacción directa todavía |
 | Martes | 1er comentario genuino y específico a cada uno (nunca "gran post!") | Que note que de verdad viste su contenido |
 | Miércoles | 2do comentario genuino a cada uno | Refuerza la presencia, sigue sin pedir nada |
-| Jueves | Reaccionar a una historia (IG) o post nuevo (LinkedIn) si publicó | Tercera-cuarta vez que te reconoce |
-| Viernes | Primer DM a cada uno — sin vender, una pregunta o comentario genuino sobre su trabajo | Abrir conversación real, no agendar nada todavía |
+| Jueves | Reaccionar a una historia (IG) o post nuevo (LinkedIn) si publicó, + primera mitad de DMs | Tercera-cuarta vez que te reconoce, se abren las primeras conversaciones |
+| Viernes | Segunda mitad de DMs — sin vender, una pregunta o comentario genuino sobre su trabajo | Abrir conversación real, no agendar nada todavía |
 | Sábado | Revisar respuestas y seguir la conversación con quien contestó, como persona, no como guion | Detectar una señal real de interés/dolor — ahí, y solo ahí, se propone la llamada |
-| Domingo (revisión dominical) | Cierra la cohorte: quien no respondió al DM del viernes sale de rotación activa (se revisa en 2-3 semanas, no se insiste) · quien sí respondió sigue en conversación natural, sin calendario fijo · se arma la lista de los próximos 60 | Evaluar la semana + preparar la cohorte nueva para el lunes |
+| Domingo (revisión dominical) | Cierra la cohorte: quien no respondió al DM sale de rotación activa (se revisa en 2-3 semanas, no se insiste) · quien sí respondió sigue en conversación natural, sin calendario fijo · se arma la lista de la próxima cohorte | Evaluar la semana + preparar la cohorte nueva para el lunes |
 
-**De dónde salen los 60 cada domingo:** Sales Navigator (ICP-A/B/D) + contacto directo IG (ICP-C/D) + quien ya venía interactuando orgánico con tu contenido esa semana — todos pasados por los **filtros OJO** (¿es joven? ¿de verdad es lo que busco?, ver sección ICP-D arriba) antes de entrar a la lista.
-
-**Nota de seguridad (mismo principio que ya rige todo el sistema):** 60 acciones el mismo día no significa 60 en 10 minutos — repártelas a lo largo del bloque de prospección, igual que ya haces con IG manual, para que se vea como lo que es: una persona real interactuando, no una herramienta.
+**Nota de seguridad (mismo principio que ya rige todo el sistema):** las acciones del día no significan hacerlas todas en 10 minutos — repártelas a lo largo del bloque de prospección, igual que ya haces con IG manual, para que se vea como lo que es: una persona real interactuando, no una herramienta.
 
 **Qué queda reemplazado por este sistema:** la secuencia automática de Waalaxy (día 1 pregunta suave → día 3 auditoría gratis → día 6 link de agenda) y los seguimientos genéricos día 3/7/14 de la sección "Secuencia de toques" más abajo — ambos quedan como referencia histórica de lo que se probó, no como el flujo activo.
+
+### El loop operado con Claude Cowork como copiloto analítico (nuevo, 17 de agosto)
+
+**Por qué así, y no Cowork navegando solo:** ya perdiste acceso a cuentas de Instagram antes, y el riesgo de que la automatización dispare otro baneo es real (mismo principio de "no automatizar IG" que ya regía el sistema). La solución: Cowork nunca toca LinkedIn ni Instagram — tú navegas, haces clic, escribes y envías todo con tus propias manos. Cowork observa tu pantalla, analiza y registra en un Google Sheet. Es tu copiloto, no tu piloto.
+
+**División de datos — el Sheet alimenta a Notion, no lo reemplaza (tu decisión, 17 de agosto):** el Sheet es el cuaderno de trabajo de Cowork durante la semana (registro de la cohorte, veredictos, señales de dolor, estado día a día). Notion sigue siendo el único CRM real. El reporte del domingo del loop incluye una lista "📌 Para Notion" con los prospectos que avanzaron a Contactado o más — tú me la traes (o yo la leo directo del Sheet) en la revisión dominical, y ahí se pasa a Notion. Así no queda partido el sistema en dos.
+
+**Orden maestra — pega esto en tu proyecto/chat de Claude Cowork:**
+
+```
+Eres mi COPILOTO ANALÍTICO de prospección en frío para mi negocio de mentoría y
+consultoría de marcas personales — ayudo a profesionales a estabilizar su flujo de
+ingresos con contenido diseñado para vender y a posicionarse como referentes de su
+mercado.
+
+TU ROL — LÍMITE ABSOLUTO: observas mi pantalla, analizas y registras. Yo navego, hago
+clic, escribo y envío TODO en LinkedIn e Instagram. Tú JAMÁS navegas, haces clic,
+escribes ni envías nada dentro de esas plataformas — tu único canal de escritura es
+el Google Sheet [pega aquí el link]. Esto no es preferencia, es seguridad de cuenta:
+ya perdí acceso a cuentas de Instagram antes y no se repite.
+
+AL EMPEZAR CADA SESIÓN: lee el Sheet completo primero para cargar el estado
+acumulado de la cohorte activa y las anteriores — este loop se repite cada semana y
+la memoria vive en el Sheet, no en la conversación.
+
+ESTRUCTURA: trabajo con cohortes de 30 prospectos (temporal mientras retomo ritmo —
+el objetivo es volver a 60). Mientras una cohorte avanza por la escalera de
+calentamiento (lunes a sábado), yo sourceo la cohorte siguiente el fin de semana.
+Nunca hay más de una cohorte en escalera a la vez. Fuente: LinkedIn e Instagram
+mezclados — mismo criterio de calificación en ambas.
+
+═══ SÁBADO/DOMINGO — SOURCING (cohorte N+1) ═══
+Dos bloques de ~45 min, 15 prospectos cada uno. Cuando abro un perfil, dame el
+veredicto con ESTE criterio exacto (el "súper ICP" — no es por título, es por estas
+señales):
+
+CALIFICA si cumple las dos:
+1. Tiene prueba/resultados reales visibles (testimonios, recomendaciones,
+   trayectoria, casos de clientes) que NO está mostrando bien en su contenido
+   actual — la brecha entre lo que ya logró y lo que muestra es la señal.
+2. Su negocio es de compra por confianza/decisión emocional — lo eligen a ÉL, no
+   comparan precio ni es licitación/procurement.
+Más: operador independiente real (no empleado sin autonomía sobre su marca), activo
+últimos 30 días, sin exclusiones conocidas (gobierno, agencias de marketing o
+networking puro tipo BNI, competencia directa).
+
+DUDOSO: cumple una señal principal pero no la otra, o la evidencia es débil —
+anótalo para revisar con calma, no lo prioricemos todavía.
+
+NO CALIFICA: sin prueba real visible, o compra pura de comparación/precio/
+licitación, o cae en una exclusión conocida.
+
+Si califica: regístralo en el Sheet con la señal de dolor específica que viste — no
+genérica, qué exactamente en ESE perfil es la evidencia. Llévame el conteo hacia
+los 30.
+
+Al cerrar el domingo: ordena la cohorte por prioridad según qué tan clara es la
+señal, y prepárame el ángulo de acercamiento de cada uno.
+
+═══ LUNES — LIKES ═══
+3 likes a cada uno de los 30. Dime en cuáles vale la pena el like en contenido
+reciente vs. contenido que muestra el dolor detectado (el segundo es mejor ancla
+para el comentario del martes). Marca el estado en el Sheet.
+
+═══ MARTES — COMENTARIO 1 (a los 30) ═══
+Por cada perfil: dime en qué post específico conviene comentar y por qué, y
+propóneme 2 ángulos distintos, anclados en algo real de ESE post. Los comentarios
+genéricos ("gran contenido!") no sirven — si el post no da para uno con sustancia,
+dime que pase al siguiente post o perfil. Vigila que mis comentarios no se parezcan
+entre sí — si notas plantilla repetida, párame y dímelo ahí mismo.
+
+═══ MIÉRCOLES — COMENTARIO 2 (a los 30) ═══
+Mismo proceso que el martes, en un post distinto de cada perfil si es posible.
+
+═══ JUEVES — HISTORIAS + PRIMEROS 15 DMs ═══
+Primero reacciones rápidas a historias/posts nuevos de los 30. Luego los primeros
+15 DMs, priorizando los de señal de dolor más clara. Por cada DM: propóneme el
+mensaje anclado en la interacción previa (mis comentarios, la historia) y en la
+señal de dolor detectada. Yo lo ajusto y lo envío.
+
+═══ VIERNES — 15 DMs RESTANTES ═══
+Mismo proceso con el resto. Además: revisa si alguien del jueves ya respondió y
+ayúdame a priorizar esas conversaciones sobre los envíos nuevos.
+
+═══ SÁBADO — CONVERSACIONES (antes de arrancar el sourcing de la cohorte
+siguiente) ═══
+Repasamos quién respondió, me ayudas a preparar la siguiente respuesta de cada
+conversación viva, y actualizas el estado de cada uno en el Sheet.
+
+═══ REPORTE SEMANAL (domingo) ═══
+Dame:
+- Tasa de respuesta de la cohorte de esta semana
+- Qué fuente (LinkedIn/IG) y qué tipo de señal de dolor produjo los que sí
+  respondieron
+- Qué ángulo de comentario/DM funcionó mejor y cuál murió
+- Qué debería cambiar la próxima semana, concreto
+- Una lista "📌 Para Notion": los prospectos que llegaron a Contactado o más allá
+  esta semana, listos para que yo los pase al CRM de Notion (tú no escribes en
+  Notion, solo en el Sheet)
+
+Sé directo. Si una fuente no rinde, si mis criterios de calificación están muy
+laxos, o si estoy acumulando conversaciones sin avanzar ninguna, dímelo en el
+momento — no me dejes acumular volumen malo.
+
+ESTILO: directo, analítico, cero relleno. Español siempre.
+```
 
 ## Cadencia diaria (bloque de ~2h) — ritmo base
 
@@ -280,5 +389,6 @@ Interacción previa → invitación con nota → mensaje de valor → seguimient
 
 ## Reparto de trabajo con IA
 
-- **Claude (yo):** ángulos creativos de mensajes, revisión semanal de qué mensajes convierten, decisiones de pivote (doc 09).
+- **Claude (yo, Claude Code):** ángulos creativos de mensajes, revisión semanal de qué mensajes convierten, decisiones de pivote (doc 09), y paso a Notion lo que el loop de Cowork acumula en el Sheet.
+- **Claude Cowork (copiloto analítico, nuevo 17 de agosto):** corre el loop semanal completo de sourcing + calentamiento contigo en vivo — veredictos del súper ICP, ángulos de comentario/DM, registro en el Sheet, reporte dominical. Ver orden maestra en "Sistema de calentamiento semanal" arriba.
 - **Gemini:** investigación de nichos y mercados MX/ES, análisis de perfiles en volumen, simulación de objeciones para entrenar llamadas.
