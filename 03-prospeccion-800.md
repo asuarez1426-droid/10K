@@ -299,17 +299,18 @@ Dos bloques de ~45 min, 15 prospectos cada uno. Cuando abro un perfil, dame el
 veredicto con ESTE criterio exacto (el "súper ICP" — no es por título, es por estas
 señales):
 
-CALIFICA si cumple las dos:
-1. Tiene prueba/resultados reales visibles (testimonios, recomendaciones,
+CALIFICA si cumple las tres:
+1. Es una persona joven (la persona, no el título).
+2. Tiene prueba/resultados reales visibles (testimonios, recomendaciones,
    trayectoria, casos de clientes) que NO está mostrando bien en su contenido
    actual — la brecha entre lo que ya logró y lo que muestra es la señal.
-2. Su negocio es de compra por confianza/decisión emocional — lo eligen a ÉL, no
+3. Su negocio es de compra por confianza/decisión emocional — lo eligen a ÉL, no
    comparan precio ni es licitación/procurement.
 Más: operador independiente real (no empleado sin autonomía sobre su marca), activo
 últimos 30 días, sin exclusiones conocidas (gobierno, agencias de marketing o
 networking puro tipo BNI, competencia directa).
 
-DUDOSO: cumple una señal principal pero no la otra, o la evidencia es débil —
+DUDOSO: cumple parte de los criterios pero no todos, o la evidencia es débil —
 anótalo para revisar con calma, no lo prioricemos todavía.
 
 NO CALIFICA: sin prueba real visible, o compra pura de comparación/precio/
@@ -317,7 +318,9 @@ licitación, o cae en una exclusión conocida.
 
 Si califica: regístralo en el Sheet con la señal de dolor específica que viste — no
 genérica, qué exactamente en ESE perfil es la evidencia. Llévame el conteo hacia
-los 30.
+los 30. Ritmo: si un perfil toma más de 3-4 min, dame el veredicto con lo visible
+y sigo al siguiente — la profundidad extra se gasta solo en los DUDOSOS al final
+del bloque.
 
 Al cerrar el domingo: ordena la cohorte por prioridad según qué tan clara es la
 señal, y prepárame el ángulo de acercamiento de cada uno.
@@ -359,6 +362,9 @@ Dame:
   respondieron
 - Qué ángulo de comentario/DM funcionó mejor y cuál murió
 - Qué debería cambiar la próxima semana, concreto
+- Quiénes de cohortes ANTERIORES ya cumplieron 2-3 semanas desde su DM sin
+  respuesta y merecen un re-toque suave esta semana (la regla: antes de eso no se
+  insiste; después de un re-toque sin respuesta, pasan a Perdido en el Sheet)
 - Una lista "📌 Para Notion": los prospectos que llegaron a Contactado o más allá
   esta semana, listos para que yo los pase al CRM de Notion (tú no escribes en
   Notion, solo en el Sheet)
