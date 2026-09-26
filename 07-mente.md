@@ -1,4 +1,4 @@
-# 07 — Mente: sistemas, identidad y abundancia por encima de la meta (v3 — 26 de septiembre)
+# 07 — Mente: sistemas, identidad y abundancia por encima de la meta (v4 — 26 de septiembre)
 
 **Tu misión declarada:** *"volver posible lo imposible."* Tu fe en Dios es tu ancla y se respeta — el trabajo de este documento es darle piernas. Pero a partir de esta versión, el "imposible" no se mide contra una cifra ni una fecha: se mide contra la persona en la que te estás convirtiendo. Eso es lo que de verdad se vuelve posible, día por día, sistema por sistema.
 
@@ -13,6 +13,16 @@ Esta es la frase de Clear que reorganiza todo lo demás. Una meta es un punto en
 - **La autoestima real no viene de que te vaya bien — viene de que te cumples a ti mismo.** Esta es la pieza que trae el Seminario Fénix a la mesa: tu relación contigo mismo se construye honrando los compromisos que haces contigo, no esperando el resultado externo para sentirte bien. Un día que ejecutaste tu sistema y no llegó ningún cliente sigue siendo un día en el que te honraste.
 - **La confianza no llega antes de la acción — llega DE la acción.** Tres semanas de sistemas ejecutados > cualquier libro de mindset, incluido este documento.
 
+## El puente Tracy-Clear: tu autoconcepto ES tu identidad
+
+Esto es exactamente lo que conecta a los dos, y es la pieza que faltaba: Brian Tracy enseña que tu **autoconcepto** tiene tres partes, y las tres son la misma "identidad" de la que habla Clear con otro nombre:
+
+1. **Tu autoimagen ideal (self-ideal):** la persona en la que te estás convirtiendo — el "hombre capaz que toma acción completamente" que ya declaraste.
+2. **Tu autoimagen actual (self-image):** cómo te ves a ti mismo HOY, en este momento, actuando. Este es el punto clave de Tracy: **tú siempre rindes de forma consistente con tu autoimagen actual, no con tu potencial ni con tus deseos.** Si te ves como alguien que "todavía no logra prospectar bien", vas a actuar así aunque quieras lo contrario. Cambiar la autoimagen ANTES de que el resultado la confirme es lo que Clear llama "votar por una identidad" — es el mismo mecanismo, dos vocabularios.
+3. **Tu autoestima (self-esteem):** cuánto te gustas a ti mismo — Tracy la llama "el reactor nuclear de la personalidad", la fuente de toda tu energía y entusiasmo. Sube con cada voto de identidad que ganas (Clear) y con cada promesa que te cumples (Fénix) — son la misma moneda.
+
+**Por qué esto importa en la práctica:** no esperas a que el resultado (el cliente, la marca cerrada) te dé permiso de verte como capaz. Te ves como capaz PRIMERO, actuando consistente con esa autoimagen — el sistema ejecutado hoy — y el resultado sigue después, porque tu autoimagen ya no te frena. Cada sección de abajo (visualización, autohipnosis, journaling) es, literalmente, una herramienta para reprogramar tu autoimagen actual hacia tu autoimagen ideal.
+
 ## Las 4 leyes del cambio de comportamiento (Clear), aplicadas a tus sistemas de ahora
 
 Cada sistema que quieras sostener (prospección callejera, tesis, seguimiento a las marcas del growth partner, estudio del modelo de seguros) se fortalece o se muere según estas 4 palancas — revísalas cuando un sistema se te esté cayendo, antes de culparte por "falta de disciplina":
@@ -21,6 +31,19 @@ Cada sistema que quieras sostener (prospección callejera, tesis, seguimiento a 
 2. **Hazlo atractivo:** ¿qué hace que quieras empezar, más allá del resultado final? Júntalo con algo que ya disfrutas (música mientras caminas prospectando, el café que solo te tomas mientras avanzas la tesis).
 3. **Hazlo fácil:** reduce la fricción del primer paso. No es "escribir la tesis" — es "abrir el documento y escribir una frase". No es "prospectar en la calle" — es "salir a la calle con 3 nombres de negocios en mente".
 4. **Hazlo satisfactorio:** dale una recompensa inmediata y visible al sistema mismo, no solo al resultado lejano. Marca la raya, el check, la línea del journaling PM — el cerebro necesita ver la evidencia AHORA, no en enero.
+
+## Las leyes mentales de Tracy — reencuadres que ya puedes usar hoy
+
+Tracy enseña varias "leyes" que en el fondo son reencuadres prácticos, no misticismo. Estas son las que de verdad te sirven ahora mismo:
+
+- **Ley de causa y efecto:** tus pensamientos son la causa; tus circunstancias son el efecto. Si algo en tu vida no está funcionando, la palanca real está en cómo estás pensando ANTES de actuar, no en esperar que cambien las circunstancias solas.
+- **Ley de la creencia:** lo que crees con convicción, actúas en consecuencia — sea cierto o no. Una creencia limitante ("no soy bueno cerrando ventas") actúa como freno de mano puesto, sin importar cuánto acelerador le metas. Antes de esforzarte más, revisa si hay una creencia frenándote.
+- **Ley de la expectativa:** lo que esperas de ti mismo, con confianza, tiende a cumplirse — es una profecía autocumplida. Igual con lo que esperas de una conversación de prospección antes de empezarla.
+- **Ley de la correspondencia:** tu mundo exterior (dinero, relaciones, resultados) tiende a corresponder con tu mundo interior. No cambias el afuera empujando el afuera — cambias el adentro y el afuera se reorganiza alrededor.
+- **Come esa rana primero (Eat That Frog):** tu tarea más incómoda e importante del día se hace PRIMERO, sin negociarlo — literalmente el mismo principio que ya tienes abajo en el protocolo de dopamina ("la tarea incómoda primero"), viene de aquí.
+- **La ley de la acumulación:** los resultados grandes casi nunca son de un solo golpe — son la suma silenciosa de acciones pequeñas y constantes, invisibles durante mucho tiempo antes de mostrarse de golpe (el mismo "meseta del potencial latente" del que habla Clear con Hábitos Atómicos). Si no ves resultado todavía, no significa que el sistema no esté funcionando — significa que sigues acumulando.
+- **Pensamiento de base cero:** pregúntate de vez en cuando (sirve para la revisión semanal, abajo): *"sabiendo lo que sé hoy, ¿empezaría esto otra vez si tuviera que decidir de nuevo?"* Si la respuesta es no, es información real, no debilidad — te dice qué sistema soltar.
+- **La acción cura el miedo:** el miedo no se resuelve esperando sentirte listo — se resuelve actuando a pesar de él. Cada vez que actúas con miedo presente, el miedo se reduce un poco para la próxima. Esperar a "sentirte seguro" antes de prospectar es exactamente al revés de cómo funciona.
 
 ## ⚠️ Por qué el Coach Mental v1 no funcionaba (diagnóstico real, se mantiene como historial)
 
@@ -55,6 +78,7 @@ Vas a ser ignorado la mayoría de las veces, sea en la calle, por LinkedIn o por
 - **El rechazo no es sobre ti:** la persona que te ignora en la calle o no responde un mensaje no te rechaza a ti — apenas te registró. No sabe quién eres. Literalmente no puede rechazarte.
 - **Métrica de valentía:** si una semana duele el rechazo, la respuesta es MÁS volumen, no menos. La sensibilidad al rechazo se extingue con exposición, igual que las agujetas.
 - **Cada "no" es un voto de identidad igual de válido que un "sí":** saliste, lo intentaste, ejecutaste el sistema. El resultado no decide si el día cuenta.
+- **La acción cura el miedo (Tracy):** si notas dudarlo antes de acercarte a alguien en la calle, esa duda no se resuelve pensando más — se resuelve dando el primer paso con el miedo todavía ahí. El miedo baja DESPUÉS de actuar, nunca antes.
 - **Ritual post-rechazo:** 2 minutos — ¿qué aprendí?, lo registro, sigo al siguiente. Prohibido rumiar más de 2 minutos.
 
 ## 🧠 Protocolo diario de limpieza de dopamina barata
@@ -62,7 +86,7 @@ Vas a ser ignorado la mayoría de las veces, sea en la calle, por LinkedIn o por
 Eliminaste los videojuegos — bien. Pero un vacío sin reemplazo lo llena el cerebro solo, normalmente con algo peor (scroll compulsivo). Esto es concreto y medible, no teoría:
 
 1. **Primera hora sin estímulo rápido.** Journaling AM + visualización, cero scroll, cero notificaciones revisadas.
-2. **Regla de la tarea incómoda primero:** ningún descanso, premio, ni momento de dopamina fácil ANTES de completar la tarea incómoda que tienes enfrente. El orden siempre es: lo difícil, después lo fácil — nunca al revés.
+2. **Regla de la tarea incómoda primero (Come esa rana, Tracy):** ningún descanso, premio, ni momento de dopamina fácil ANTES de completar la tarea incómoda que tienes enfrente. El orden siempre es: lo difícil, después lo fácil — nunca al revés.
 3. **Registro de impulsos (no supresión, observación):** cada vez que notes las ganas de agarrar el celular por incomodidad/aburrimiento, márcalo — una raya, un conteo mental. Se reporta en el journaling PM (pregunta 4). El objetivo no es llegar a cero, es que dejes de hacerlo en automático sin darte cuenta.
 4. **Sustituto real para el aburrimiento:** caminar sin celular, estirar, respirar 2 minutos, o simplemente estar aburrido sin resolverlo con un estímulo. El aburrimiento tolerado es lo que reentrena el cerebro a preferir la dopamina trabajada.
 
@@ -106,17 +130,18 @@ Este año ya te tocó vivirlo de verdad — terremoto, amenazas, familia, trabaj
 
 Esto ya lo aprendiste una vez (el terremoto) y ahora se vuelve el principio general, no la excepción: la fecha y la cifra exacta nunca son el juez. Lo único que importa es si seguiste ejecutando tus sistemas.
 
-- Si un sistema tarda 3 meses o 6 en dar resultado, no es fracaso — es la vida real entrando sin que el sistema se rompa.
+- Si un sistema tarda 3 meses o 6 en dar resultado, no es fracaso — es la vida real entrando sin que el sistema se rompa. Es literalmente la **ley de la acumulación** de Tracy y la **meseta del potencial latente** de Clear diciendo lo mismo: el resultado se acumula invisible antes de mostrarse.
 - Los hitos de control que definas (en el negocio, en la tesis, en lo que sea) son un termómetro, nunca una sentencia. Un hito que se corre no borra el trabajo hecho.
 - La identidad se sigue acumulando día a día independientemente del calendario. Un mal mes no te quita ni un solo voto ya acumulado.
 
 ## 🌱 Autoestima y abundancia: la evidencia que sí depende de ti
 
-Esta es la pieza que trae el Fénix: tu autoestima no es un rasgo fijo que tienes o no tienes — es una práctica que se construye con evidencia, igual que la identidad. Y la abundancia no es "tener mucho" — es entrenar la atención para ver lo que ya está funcionando, sin negar lo que falta.
+Esta es la pieza que trae el Fénix: tu autoestima no es un rasgo fijo que tienes o no tienes — es una práctica que se construye con evidencia, igual que la identidad (ver "El puente Tracy-Clear" arriba). Y la abundancia no es "tener mucho" — es entrenar la atención para ver lo que ya está funcionando, sin negar lo que falta.
 
-- **Autoestima = promesas cumplidas a ti mismo.** No esperes el resultado externo (el cliente, la nota, el dinero) para sentirte bien contigo — siéntete bien porque hiciste lo que dijiste que harías, tenga o no el resultado que esperabas.
+- **Autoestima = promesas cumplidas a ti mismo.** No esperes el resultado externo (el cliente, la nota, el dinero) para sentirte bien contigo — siéntete bien porque hiciste lo que dijiste que harías, tenga o no el resultado que esperabas. Tracy la llama el "reactor nuclear de la personalidad" — sube cada vez que te cumples, y esa energía es la que después se nota en cómo prospectas, cómo hablas de precio, cómo entrenas.
+- **Responsabilidad total (locus de control interno):** la gente que se siente dueña de sus resultados —aunque las circunstancias sean duras, como las que ya viviste— es más resiliente y más exitosa que la que espera que las circunstancias cambien primero. No es negar lo que te pasó (el terremoto, lo de tu papá, perder a Mauricio) — es decidir que tu respuesta a partir de hoy sigue siendo tuya.
 - **Práctica de abundancia (1 línea diaria, en el journaling PM):** anota una señal de que algo ya está funcionando — una habilidad que ya tienes, una persona que te apoya, un sistema que ya sostuviste una semana. No es pensamiento positivo vacío: es corregir el sesgo natural del cerebro de solo escanear lo que falta.
-- **Reencuadre de escasez → abundancia, cuando aparezca el miedo al dinero:** de "no tengo suficiente" a "estoy construyendo la capacidad de generar más" — el segundo es verificable con tu propia evidencia acumulada, el primero no lleva a ningún lado.
+- **Reencuadre de escasez → abundancia, cuando aparezca el miedo al dinero:** de "no tengo suficiente" a "estoy construyendo la capacidad de generar más" — el segundo es verificable con tu propia evidencia acumulada, el primero no lleva a ningún lado. Es la ley de la correspondencia en acción: cambias el pensamiento de adentro antes de esperar que el dinero cambie afuera.
 
 ## 🔗 Habit stacking — la técnica para instalar sistemas nuevos sin depender de la motivación
 
@@ -132,7 +157,7 @@ Cuando un sistema nuevo no arranque solo, no es falta de disciplina — es que l
 
 ## Visualización (mañana, 3-5 min — después del journaling AM)
 
-No visualices el resultado (el dinero, el título, la casa): **visualiza la IDENTIDAD en acción**, que es lo que la evidencia respalda para rendimiento real:
+No visualices el resultado (el dinero, el título, la casa): **visualiza la IDENTIDAD en acción**, que es lo que la evidencia respalda para rendimiento real. Esto es "actuar como si" (Tracy): te ves siendo YA la persona que quieres ser, no esperando a merecerlo.
 
 1. Siéntate, ojos cerrados, 5 respiraciones lentas (4 seg inhala / 6 exhala).
 2. Recorre tu día como una película en primera persona: te ves ejecutando tu sistema de prospección con calma, sosteniendo una conversación con seguridad, avanzando la tesis con foco, entrenando con intensidad — no importa el resultado de cada una, importa cómo te mueves como la persona que ya honra sus sistemas.
@@ -141,7 +166,7 @@ No visualices el resultado (el dinero, el título, la casa): **visualiza la IDEN
 
 ## Autohipnosis (noche, 10-12 min — antes de dormir)
 
-Protocolo simple y seguro de autosugestión para consolidar identidad (funciona mejor justo antes del sueño, cuando la mente está más receptiva):
+Protocolo simple y seguro de autosugestión para consolidar identidad (funciona mejor justo antes del sueño, cuando la mente está más receptiva). **Por qué funciona (Tracy/psicología del autoconcepto):** tu autoimagen actual se formó por repetición — de lo que te dijeron, de lo que te dijiste, de lo que viviste. Se reprograma por el mismo mecanismo: repetición deliberada, en el momento en que la mente crítica está más baja. No es magia, es la misma vía por la que se instaló la autoimagen que quieres cambiar.
 
 1. **Inducción (3-4 min):** acostado, ojos cerrados. Relajación progresiva: tensa 3 seg y suelta cada grupo muscular de pies a cara. Luego cuenta regresiva de 10 a 1, sintiéndote bajar un escalón con cada número.
 2. **Sugestiones (4-5 min):** repite mentalmente, en presente y primera persona, tu set de 3-4 frases fijas (no las cambies cada noche — la repetición es el mecanismo). Set actualizado, ajústalo a tu voz:
@@ -162,13 +187,18 @@ Actualiza las instrucciones de tu Proyecto "Coach Mental" en Claude con esto com
 
 ```
 Eres mi COACH MENTAL. Mi filosofía de fondo, que gobierna todo lo que hacemos juntos:
-NO me elevo al nivel de mis metas, caigo al nivel de mis sistemas (James Clear). Por
-eso no me hables en términos de una cifra o una fecha límite — hablamos de sistemas,
-identidad y hábitos. Mi misión declarada es "volver posible lo imposible", mi fe en
-Dios es mi ancla y la respeto — tu trabajo es darle piernas con evidencia diaria. Mi
-identidad objetivo: un hombre capaz que toma acción completamente, que honra los
-compromisos que hace consigo mismo y que construye abundancia con evidencia, no con
-ansiedad (aquí entran las ideas de crecimiento y autoestima del Seminario Fénix).
+NO me elevo al nivel de mis metas, caigo al nivel de mis sistemas (James Clear). Y mi
+autoconcepto tiene tres partes que debes conocer (Brian Tracy): mi autoimagen ideal (la
+persona en la que me convierto), mi autoimagen actual (cómo me veo actuando HOY — esto
+determina mi desempeño real, no mi potencial) y mi autoestima (cuánto me gusto a mí
+mismo — sube con cada promesa que me cumplo). Cambiar mi identidad (Clear) y subir mi
+autoimagen actual hacia mi autoimagen ideal (Tracy) es la MISMA tarea con dos nombres.
+Por eso no me hables en términos de una cifra o una fecha límite — hablamos de
+sistemas, identidad y autoconcepto. Mi misión declarada es "volver posible lo
+imposible", mi fe en Dios es mi ancla y la respeto — tu trabajo es darle piernas con
+evidencia diaria. Mi identidad objetivo: un hombre capaz que toma acción completamente,
+que honra los compromisos que hace consigo mismo y que construye abundancia con
+evidencia, no con ansiedad.
 
 ⚠️ REGLA DE ORO, ANTES QUE CUALQUIER OTRA COSA — NUNCA LA ROMPAS:
 Si llego con algo que me está comiendo la mente (una preocupación, un miedo, algo que
@@ -182,14 +212,27 @@ prospección (hoy: en la calle, cara a cara), tesis de grado, seguimiento a las 
 del growth partner, y lo que vaya sumando. Nunca midas mi día por el resultado de
 estos sistemas (cerré un cliente, avancé X páginas) — mídelo por si los ejecuté.
 
+LAS LEYES MENTALES QUE USO COMO REENCUADRE (Tracy) — puedes citarlas por nombre cuando
+aplique, no las expliques de más:
+- Causa y efecto: mis pensamientos de hoy son la causa de mis circunstancias de mañana.
+- Creencia: lo que creo con convicción, actúo en consecuencia — reviso la creencia
+  antes de exigirme más esfuerzo.
+- Expectativa: lo que espero de mí con confianza tiende a cumplirse.
+- Correspondencia: mi mundo exterior corresponde a mi mundo interior — cambio adentro
+  primero.
+- Acumulación: los resultados grandes son la suma silenciosa de acciones pequeñas,
+  invisibles antes de mostrarse (la meseta del potencial latente de Clear, dicho por
+  Tracy).
+- La acción cura el miedo: actúo con el miedo presente, no espero a que se vaya.
+
 TUS FUNCIONES (yo te digo cuál toca, o simplemente te cuento qué necesito):
 
 1. "VISUALIZACIÓN" (mañana, 3-5 min): guíame en segunda persona, frase a frase, una
-   visualización de IDENTIDAD EN ACCIÓN, no de resultado: verme ejecutando mis
-   sistemas del día con calma, sosteniendo un rechazo o un obstáculo sin que me
-   defina, avanzando aunque no vea el resultado todavía. Cierra con la imagen de la
-   persona en la que me estoy convirtiendo — nunca con dinero, casas o cifras. Mi
-   journaling AM ya lo tengo propio y lo hago yo — no lo reemplaces.
+   visualización de IDENTIDAD EN ACCIÓN, no de resultado — "actuar como si" (Tracy):
+   verme ejecutando mis sistemas del día con calma, sosteniendo un rechazo o un
+   obstáculo sin que me defina, avanzando aunque no vea el resultado todavía. Cierra
+   con la imagen de la persona en la que me estoy convirtiendo — nunca con dinero,
+   casas o cifras. Mi journaling AM ya lo tengo propio y lo hago yo — no lo reemplaces.
 
 2. "PM" (noche, 5 min): hazme el journaling PM UNA pregunta a la vez y espera mi
    respuesta: (a) ¿qué sistema ejecuté hoy aunque no tuviera ganas?, (b) ¿en qué me
@@ -208,13 +251,13 @@ TUS FUNCIONES (yo te digo cuál toca, o simplemente te cuento qué necesito):
    semana"), y UNA escena vívida repetida cada noche centrada en identidad, no en
    resultado (me veo ejecutando mi sistema con calma, orgulloso de mí mismo). Terminas
    dejándome ir al sueño. Las mismas sugestiones siempre — la repetición es el
-   mecanismo.
+   mecanismo por el que se reprograma la autoimagen.
 
 4. "DOPAMINA" (cuando te lo pida, o si te cuento que estoy scrolleando de más o
    buscando estímulo fácil): ayúdame a aplicar el protocolo de limpieza de dopamina
-   barata — regla de la tarea incómoda primero, registro de impulsos sin juzgarme,
-   sustituto real para el aburrimiento en vez del celular. Nunca me hagas sentir mal
-   por el impulso — solo ayúdame a notarlo y elegir distinto la próxima vez.
+   barata — la tarea incómoda primero (Come esa rana), registro de impulsos sin
+   juzgarme, sustituto real para el aburrimiento en vez del celular. Nunca me hagas
+   sentir mal por el impulso — solo ayúdame a notarlo y elegir distinto la próxima vez.
 
 5. "SISTEMAS" (cuando un sistema se me esté cayendo — le cuesta arrancar, lo salto
    seguido): ayúdame a diagnosticarlo con las 4 leyes de Clear (¿está obvio?
@@ -224,18 +267,27 @@ TUS FUNCIONES (yo te digo cuál toca, o simplemente te cuento qué necesito):
 6. "ABUNDANCIA" (si me noto pensando en escasez — de dinero, de tiempo, de
    oportunidad): ayúdame a reencuadrar de "no tengo suficiente" a "estoy construyendo
    la capacidad de generar más", anclado en evidencia real mía, nunca en pensamiento
-   positivo vacío.
+   positivo vacío. Usa la ley de correspondencia si aplica: cambio el pensamiento
+   adentro antes de esperar que el dinero cambie afuera.
+
+7. "AUTOCONCEPTO" (si me noto actuando por debajo de mi capacidad, o con una creencia
+   limitante repitiéndose — "no soy bueno para esto", "esto no es lo mío"): ayúdame a
+   nombrar la creencia, cuestionarla con evidencia real de mis propios sistemas
+   ejecutados, y reemplazarla por una autoimagen consistente con quien ya estoy
+   demostrando ser con mis acciones, no con lo que dudo de mí en el momento.
 
 SEGUIMIENTO: si te escribo "SEMANA", hazme la revisión: mi racha de sistemas
 ejecutados, dónde me estoy mintiendo, cómo va la dopamina barata, una señal de
-abundancia de la semana, y el enfoque de la próxima semana en una frase. Si un día
-llego derrotado, la regla de oro de arriba aplica primero — escuchas, después
-reencuadras con el sistema (el rechazo es inventario, la identidad es evidencia), y me
-dejas UNA acción pequeña inmediata.
+abundancia de la semana, pensamiento de base cero sobre mis sistemas actuales, y el
+enfoque de la próxima semana en una frase. Si un día llego derrotado, la regla de oro
+de arriba aplica primero — escuchas, después reencuadras con el sistema (el rechazo es
+inventario, la identidad es evidencia), y me dejas UNA acción pequeña inmediata.
 
-ESTILO: cálido pero firme, cero clichés motivacionales, español natural. Nunca me
-dejes saltarme mis sistemas del día sin una razón real — pero los sistemas los defino
-yo contigo, nunca una cifra o fecha fija de esta orden.
+ESTILO: cálido pero firme, cero clichés motivacionales, español natural. Puedes citar
+las leyes de Tracy y las leyes de Clear por nombre cuando de verdad apliquen, pero
+nunca las expliques de más ni suenes a seminario — tradúcelas siempre a mi situación
+concreta del día. Nunca me dejes saltarme mis sistemas del día sin una razón real —
+pero los sistemas los defino yo contigo, nunca una cifra o fecha fija de esta orden.
 ```
 
 **Reparto de IAs definitivo:** yo (esta sesión de Claude Code) = director de operaciones y partner creativo cuando retome el negocio · Coach Mental (proyecto de Claude aparte) = journaling, visualización, hipnosis guiada diaria, dopamina, sistemas y abundancia · Gemini = coach físico/nutrición (doc 06) e investigación.
@@ -247,7 +299,8 @@ yo contigo, nunca una cifra o fecha fija de esta orden.
 3. ¿Qué incomodidad evité que debo enfrentar la próxima semana?
 4. ¿Cómo va lo de la dopamina barata — mejorando, igual, o peor?
 5. ¿Qué evidencia de abundancia acumulé esta semana, aunque sea pequeña?
-6. Lee tus journals PM de la semana: esa es tu evidencia acumulada. Ese es quien estás siendo.
+6. Pensamiento de base cero (Tracy): sabiendo lo que sé hoy, ¿empezaría cada uno de mis sistemas actuales otra vez si tuviera que decidir de nuevo? Si algún "no", es información para ajustar, no para culparme.
+7. Lee tus journals PM de la semana: esa es tu evidencia acumulada. Ese es quien estás siendo.
 
 ## El contrato contigo mismo
 
