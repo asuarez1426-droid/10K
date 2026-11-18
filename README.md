@@ -10,7 +10,7 @@
 
 **👉 [EMPIEZA-AQUI.md](EMPIEZA-AQUI.md) — el manual completo de un día: cómo prospectar en LinkedIn/IG paso a paso, qué es exactamente "anotar el scorecard", cómo funciona el CRM, qué publicas y cuándo, y por qué todo esto suma hacia los $10.000.** Léelo primero — es lo único que necesitas para saber CÓMO ejecutar cada pieza, no solo QUÉ hacer.
 
-Y la parte emocional, igual de importante: no necesitas releer los 14 documentos cada día, ni tener los 6 chats de IA creados desde ya. Si cumples 4 cosas — prospectar algo, publicar algo, entrenar, y anotar una línea esta noche — tu día cumplió. Todo lo demás (tesis, mentorías, rutina hora por hora, Gemini x2, Coach Mental, Oferta Ganadora) es apoyo que sumas cuando tengas espacio, no una lista de la que sentirte mal por no completar entera.
+Y la parte emocional, igual de importante: no necesitas releer los 14 documentos cada día, ni tener los 6 chats de IA creados desde ya. Si cumples 4 cosas — prospectar algo, publicar algo, entrenar, y anotar una línea esta noche — tu día cumplió. Todo lo demás (tesis, mentorías, rutina hora por hora, Nutricionista, Coach de Entrenamiento, Coach Mental, Oferta Ganadora) es apoyo que sumas cuando tengas espacio, no una lista de la que sentirte mal por no completar entera.
 
 **¿No sabes qué hacer en este momento exacto?** Pregúntame aquí, o a tu Copiloto, con el caso real que tengas enfrente.
 
@@ -37,7 +37,8 @@ Tú mismo lo dijiste: en el papel, este reto es imposible — y la meta de estos
 | **Tú** | Las manos y la cara: grabas, envías, llamas, entrenas, registras (3 min/día) |
 | **Claude (yo)** | **Director de operaciones:** mido los scorecards, tomo las decisiones (prospección, procesos, delegaciones), dirijo Notion, hago la revisión dominical automática, y el análisis semanal de qué está funcionando por red |
 | **Estudio Creativo** (Proyecto de Claude aparte) | Tu director creativo día a día: ideación, guiones, ganchos — sobre tu Playbook de Contenido (doc 04) |
-| **2 chats de Gemini** | Coach de Nutrición y Coach de Entrenamiento por separado (multimodal, con tus fotos) — doc 06 |
+| **Nutricionista** (Proyecto de Claude) | Recomposición corporal: comidas con lo que tienes a mano y calorías/macros por foto — doc 11 |
+| **Coach de Entrenamiento** (Gemini) | Programación semanal del conjugado y cargas — doc 06 |
 | **Editor freelance** | Se activa el día que firmes tu primer cliente de agencia; se paga de su retainer y edita solo contenido de clientes (doc 02) |
 
 ## La matemática
@@ -54,12 +55,13 @@ $10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (p
 | [03 — Prospección 800](03-prospeccion-800.md) | ICPs A-D (LinkedIn e IG) · pozos de sourcing · Sales Nav + Waalaxy · calentamiento + blitz de 21 días |
 | [04 — Contenido](04-contenido.md) | **La Serie de 90 Días** · IG conciencia 0 + cierre en historias · LinkedIn autoridad · YouTube · onboarding del Estudio Creativo |
 | [05 — Rutina diaria](05-rutina-diaria.md) | ✅ v4 DEFINITIVA con tus horarios reales + el Día Mínimo Viable |
-| [06 — Físico](06-fisico.md) | Conjugado + pliometría + anaeróbico + nucleus overload + fútbol · 2 coaches de Gemini separados |
+| [06 — Físico](06-fisico.md) | Conjugado + pliometría + anaeróbico + nucleus overload + fútbol · Coach de Entrenamiento en Gemini |
 | [07 — Mente](07-mente.md) | Identidad, journaling, **visualización y autohipnosis**, manejo del rechazo |
 | [08 — Finanzas](08-finanzas.md) | Estudio ya completo ($0 en equipos) · **apartamento primero** · FX6 cancelada · desbloqueos |
 | [09 — Métricas y control](09-metricas-y-revision.md) | **Yo llevo el tablero:** scorecard diario ampliado, revisión dominical automática, reglas de pivote |
 | [10 — Fase 2: equipo y $30K](10-fase-2-equipo-30k.md) | Editor · setter · closer · ayudante personal · las 3 palancas |
-| [Plantillas](plantillas/) | CRM Notion · guiones de mensajes · tablero Trello (opcional, ver nota abajo) |
+| [11 — Nutricionista](11-nutricionista.md) | **Proyecto de Claude de recomposición:** comidas con lo que tienes a mano + calorías y macros por foto |
+| [Plantillas](plantillas/) | CRM Notion · guiones de mensajes · conocimiento del Nutricionista · tablero Trello (opcional, ver nota abajo) |
 
 ## Sistemas vivos (los administro yo) — YA CREADOS ✅
 
@@ -71,7 +73,7 @@ $10K USD ≈ 40M COP · Retainers: CO 2.5-3.5M COP / **MX-ES $700-1.100 USD** (p
 
 | # | Nombre del chat/Proyecto | Dónde | Para qué | Orden maestra en |
 |---|---|---|---|---|
-| 1 | Coach de Nutrición — Operación 10K | Gemini | Tu dieta, fases, análisis de fotos de comida | doc 06 |
+| 1 | Nutricionista — Recomposición | Proyecto de Claude | Recomposición corporal: menú con lo que tienes a mano, calorías y macros por foto, revisión semanal | doc 11 |
 | 2 | Coach de Entrenamiento — Operación 10K | Gemini | Programación semanal del conjugado, cargas, fecha real de tus metas de fuerza | doc 06 |
 | 3 | Coach Mental — Operación 10K | Proyecto de Claude | Journaling PM guiado, visualización AM, autohipnosis nocturna | doc 07 |
 | 4 | Oferta Ganadora — Operación 10K | Proyecto de Claude | Afinar precios, copy de venta, respuestas a objeciones reales | doc 02 |

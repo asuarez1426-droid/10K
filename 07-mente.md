@@ -290,7 +290,7 @@ concreta del día. Nunca me dejes saltarme mis sistemas del día sin una razón 
 pero los sistemas los defino yo contigo, nunca una cifra o fecha fija de esta orden.
 ```
 
-**Reparto de IAs definitivo:** yo (esta sesión de Claude Code) = director de operaciones y partner creativo cuando retome el negocio · Coach Mental (proyecto de Claude aparte) = journaling, visualización, hipnosis guiada diaria, dopamina, sistemas y abundancia · Gemini = coach físico/nutrición (doc 06) e investigación.
+**Reparto de IAs definitivo:** yo (esta sesión de Claude Code) = director de operaciones y partner creativo cuando retome el negocio · Coach Mental (proyecto de Claude aparte) = journaling, visualización, hipnosis guiada diaria, dopamina, sistemas y abundancia · Nutricionista (proyecto de Claude, doc 11) = nutrición y recomposición · Gemini = coach de entrenamiento (doc 06) e investigación.
 
 ## Revisión semanal de mente (domingo)
 

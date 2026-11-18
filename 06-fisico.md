@@ -2,13 +2,13 @@
 
 **Metas con DOS plazos distintos (tu punto 14):** 100kg banca + 120kg sentadilla para el **1 de septiembre de 2026**; 10% de grasa para el **día 90 (7 de noviembre de 2026)**. Explosividad y agilidad de felino como referencia estética permanente.
 
-**Nota honesta sobre el 1 de septiembre:** son ~3 semanas desde el inicio del reto. Solo es realista si tu 1RM actual ya está cerca (banca 85kg+, sentadilla 100-105kg+). Comparte tu línea base y Gemini te dirá con honestidad si esa fecha es alcanzable o cuál es la real — de todas formas se empuja al máximo hacia ella.
+**Nota honesta sobre el 1 de septiembre:** son ~3 semanas desde el inicio del reto. Solo es realista si tu 1RM actual ya está cerca (banca 85kg+, sentadilla 100-105kg+). Comparte tu línea base y el Coach de Entrenamiento (Gemini) te dirá con honestidad si esa fecha es alcanzable o cuál es la real — de todas formas se empuja al máximo hacia ella.
 
-**Todo el seguimiento y la programación semana a semana quedan delegados a Gemini (tu punto 13):** el método conjugado rota constantemente (variantes ME, porcentajes DE, bloques de nucleus overload) — un documento estático no puede seguirle el ritmo. Este documento da el FRAMEWORK; Gemini decide y ajusta el detalle de cada semana con tus datos y fotos reales.
+**La programación del entrenamiento semana a semana queda delegada a Gemini (tu punto 13); la nutrición, al Nutricionista (doc 11):** el método conjugado rota constantemente (variantes ME, porcentajes DE, bloques de nucleus overload) — un documento estático no puede seguirle el ritmo. Este documento da el FRAMEWORK; Gemini decide y ajusta el detalle de cada semana con tus datos y fotos reales.
 
 ## Semana 1 — Línea base (sigue siendo obligatoria)
 
-Igual que v1: peso (3 días en ayunas), % grasa estimado (fotos frontal/lateral/espalda con buena luz — estas mismas fotos arrancan el seguimiento con Gemini), 3-5RM de banca/sentadilla/peso muerto, medidas. **Compárteme los números para calibrar cargas.**
+Igual que v1: peso (3 días en ayunas), % grasa estimado (fotos frontal/lateral/espalda con buena luz — estas mismas fotos arrancan el seguimiento con el Nutricionista, doc 11), 3-5RM de banca/sentadilla/peso muerto, medidas. **Compárteme los números para calibrar cargas.**
 
 ## Estructura semanal: método conjugado adaptado (4 días gym + 1-2 fútbol)
 
@@ -38,51 +38,13 @@ Protocolo de saturación para el músculo rezagado (para ti: **pecho**, al servi
 - Test de 1RM real de banca competición: cada 6-8 semanas, programado, con descanso previo.
 - Cuando compartas tu 1RM actual en el briefing del Chat 2 de Gemini (abajo), él fija los porcentajes exactos y te da la fecha realista para 100kg banca y 120kg sentadilla.
 
-## Delegación a Gemini: DOS chats separados (tu punto 14 — nutrición y entrenamiento por separado)
+## Delegación: Nutricionista (Proyecto de Claude) + Coach de Entrenamiento (Gemini)
 
-Abre **dos chats nuevos** en Gemini (no uno solo): mezclar nutrición y programación de entrenamiento en el mismo hilo hace que las respuestas se vuelvan largas y confusas cuando ambas cambian semana a semana. Pega cada orden en su propio chat.
+Nutrición y entrenamiento siguen separados en dos coaches distintos: mezclarlos en el mismo hilo hace que las respuestas se vuelvan largas y confusas cuando ambas cambian semana a semana.
 
-### Chat 1 — "Coach de Nutrición — Operación 10K" (orden maestra lista para pegar)
+### Nutrición → Proyecto "Nutricionista — Recomposición" (doc 11)
 
-```
-Eres mi COACH DE NUTRICIÓN para un reto de 90 días (9 ago - 7 nov 2026). Tomas el
-mando desde este mensaje — yo solo ejecuto y te reporto.
-
-MIS METAS:
-- 10% de grasa corporal para el día 90 (7 de noviembre de 2026).
-- Apoyar en paralelo un objetivo agresivo de fuerza (100kg banca, 120kg sentadilla)
-  con fecha límite 1 de septiembre de 2026 — mi coach de entrenamiento (chat aparte) lo
-  programa; tú necesitas saberlo porque afecta cuánta energía/calorías necesito.
-
-MI CONTEXTO FIJO:
-- Presupuesto de comida: máximo 1.000.000 COP/mes en Colombia.
-- Proteína objetivo: 2 g por kg de peso al día, innegociable.
-- Suplementos permitidos: creatina 5 g/día; proteína en polvo solo si no llego con comida.
-- Duermo 22:15-5:00 (6h45).
-- Entreno 4 días/semana + fútbol miércoles y domingo (alta demanda física total).
-
-TU PRIMERA TAREA — BRIEFING INICIAL:
-Pregúntame UNA cosa a la vez hasta tener: peso actual, altura, edad, % grasa estimado
-(te mandaré fotos frontal/lateral/espalda para que lo estimes), qué como en un día
-normal, y si tengo alguna restricción o intolerancia. Con eso entrégame: (1) mi fase
-inicial (déficit/recomposición/superávit) con calorías y macros exactos, (2) mi menú
-semanal colombiano dentro del presupuesto (huevos, pollo, res, arroz, fríjol, avena,
-plátano, etc.), y (3) una proyección honesta de si el 10% de grasa es realista para el
-20 de octubre desde mi punto de partida.
-
-PROTOCOLO SEMANAL (recuérdamelo cada domingo si no te escribo): te mando fotos de
-progreso (misma luz, mismas poses) + peso promedio de la semana. Tú me devuelves:
-análisis visual honesto (sin halagos vacíos), ajuste de calorías/macros si toca, y una
-alerta clara si detectas pérdida de músculo o estancamiento.
-
-PROTOCOLO DIARIO (opcional): si te mando la foto de un plato, respondes en 2 líneas:
-apto o no para mi fase, y qué le cambiarías.
-
-ESTILO: directo y exigente, cero sermones largos, decisiones concretas con números.
-Si me desvío 2 semanas seguidas, dímelo sin suavizarlo. Español siempre.
-
-Empieza con la primera pregunta del briefing.
-```
+**Actualizado el 18 de noviembre de 2026:** el antiguo Chat 1 de Gemini ("Coach de Nutrición") queda **reemplazado** por un Proyecto de Claude especializado en recomposición corporal, que arma tus comidas con lo que tienes a mano y cuenta calorías y macros con fotos de tus platos. Instrucciones listas para pegar y cómo crearlo: **[11 — Nutricionista](11-nutricionista.md)**.
 
 ### Chat 2 — "Coach de Entrenamiento — Operación 10K" (orden maestra lista para pegar)
 
@@ -128,10 +90,10 @@ siempre.
 Empieza con la primera pregunta del briefing.
 ```
 
-**Reparto claro:** los dos Gemini llevan TU físico día a día (nutrición y entrenamiento por separado); yo (Claude) superviso la tendencia mensual en el scorecard (¿peso y banca se mueven hacia la meta?) como parte del control general (doc 09). Si Gemini y el scorecard se contradicen, mando yo. 😄
+**Reparto claro:** el Nutricionista (Proyecto de Claude, doc 11) y el Coach de Entrenamiento (Gemini) llevan TU físico día a día; yo (Claude) superviso la tendencia mensual en el scorecard (¿peso y banca se mueven hacia la meta?) como parte del control general (doc 09). Si Gemini y el scorecard se contradicen, mando yo. 😄
 
 ## Nutrición (sin cambios de fondo)
 
 Proteína 2g/kg innegociable · comida real >90% · canasta colombiana de v1 (huevos, pollo, res, arroz, fríjol, avena…) dentro de 1M COP/mes · creatina 5g/día · agua 3L+ · 7-8h de sueño (sin esto ni el conjugado ni el negocio funcionan).
 
-**Fases hacia el 10%:** las define Gemini con tus fotos, con esta guía: >15% → déficit moderado ya · 12-14% → recomposición o mini-cuts · último tramo 12→10% → déficit disciplinado de 6-10 semanas, planeado para oct-nov y cerrar diciembre en 10%.
+**Fases:** las define el Nutricionista (doc 11) con tus fotos; desde noviembre 2026 el enfoque es recomposición sin fecha límite, con esta guía: >15% → déficit moderado ya · 12-14% → recomposición o mini-cuts · último tramo 12→10% → déficit disciplinado de 6-10 semanas, planeado para oct-nov y cerrar diciembre en 10%.
